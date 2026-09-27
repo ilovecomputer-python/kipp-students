@@ -79,6 +79,35 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -270,16 +299,21 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Di halaman ini</h2>
    
   <ul>
-  <li><a href="#kompetensi-target" id="toc-kompetensi-target" class="nav-link active" data-scroll-target="#kompetensi-target">Kompetensi target</a></li>
-  <li><a href="#evidence-wajib" id="toc-evidence-wajib" class="nav-link" data-scroll-target="#evidence-wajib">Evidence wajib</a></li>
-  <li><a href="#konteks-performance" id="toc-konteks-performance" class="nav-link" data-scroll-target="#konteks-performance">Konteks performance</a></li>
-  <li><a href="#evidence" id="toc-evidence" class="nav-link" data-scroll-target="#evidence">Evidence</a></li>
-  <li><a href="#analisis-komunikasi" id="toc-analisis-komunikasi" class="nav-link" data-scroll-target="#analisis-komunikasi">Analisis komunikasi</a></li>
-  <li><a href="#penggunaan-ai" id="toc-penggunaan-ai" class="nav-link" data-scroll-target="#penggunaan-ai">Penggunaan AI</a></li>
-  <li><a href="#feedback-dan-tindak-lanjut" id="toc-feedback-dan-tindak-lanjut" class="nav-link" data-scroll-target="#feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</a></li>
-  <li><a href="#self-assessment" id="toc-self-assessment" class="nav-link" data-scroll-target="#self-assessment">Self-assessment</a>
+  <li><a href="#lembar-kerja-tugas-portofolio-terjemahan-lima-bahasa" id="toc-lembar-kerja-tugas-portofolio-terjemahan-lima-bahasa" class="nav-link active" data-scroll-target="#lembar-kerja-tugas-portofolio-terjemahan-lima-bahasa">Lembar Kerja Tugas: Portofolio Terjemahan Lima Bahasa</a>
   <ul class="collapse">
-  <li><a href="#assessment-dosen" id="toc-assessment-dosen" class="nav-link" data-scroll-target="#assessment-dosen">Assessment dosen</a></li>
+  <li><a href="#a.-deskripsi-tugas" id="toc-a.-deskripsi-tugas" class="nav-link" data-scroll-target="#a.-deskripsi-tugas"><strong>A. Deskripsi Tugas</strong></a></li>
+  <li><a href="#b.-identitas-mahasiswa" id="toc-b.-identitas-mahasiswa" class="nav-link" data-scroll-target="#b.-identitas-mahasiswa"><strong>B. Identitas Mahasiswa</strong></a></li>
+  <li><a href="#c.-tahap-1-detoks-jargon-dekonstruksi-konsep" id="toc-c.-tahap-1-detoks-jargon-dekonstruksi-konsep" class="nav-link" data-scroll-target="#c.-tahap-1-detoks-jargon-dekonstruksi-konsep"><strong>C. Tahap 1: Detoks Jargon (Dekonstruksi Konsep)</strong></a></li>
+  <li><a href="#d.-tahap-2-matriks-terjemahan-lima-bahasa" id="toc-d.-tahap-2-matriks-terjemahan-lima-bahasa" class="nav-link" data-scroll-target="#d.-tahap-2-matriks-terjemahan-lima-bahasa"><strong>D. Tahap 2: Matriks Terjemahan Lima Bahasa</strong></a>
+  <ul class="collapse">
+  <li><a href="#ragam-bahasa-anak-anak-usia-10-tahun" id="toc-ragam-bahasa-anak-anak-usia-10-tahun" class="nav-link" data-scroll-target="#ragam-bahasa-anak-anak-usia-10-tahun"><strong>1. Ragam Bahasa: Anak-Anak (Usia ~10 Tahun)</strong></a></li>
+  <li><a href="#ragam-bahasa-sahabat-beda-bidang-program-studi" id="toc-ragam-bahasa-sahabat-beda-bidang-program-studi" class="nav-link" data-scroll-target="#ragam-bahasa-sahabat-beda-bidang-program-studi"><strong>2. Ragam Bahasa: Sahabat (Beda Bidang / Program Studi)</strong></a></li>
+  <li><a href="#ragam-bahasa-rekan-teknis-sesama-ahli-mahasiswa-sejurusan" id="toc-ragam-bahasa-rekan-teknis-sesama-ahli-mahasiswa-sejurusan" class="nav-link" data-scroll-target="#ragam-bahasa-rekan-teknis-sesama-ahli-mahasiswa-sejurusan"><strong>3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan)</strong></a></li>
+  <li><a href="#ragam-bahasa-manajer-keuangan-pitching-investasi-bisnis" id="toc-ragam-bahasa-manajer-keuangan-pitching-investasi-bisnis" class="nav-link" data-scroll-target="#ragam-bahasa-manajer-keuangan-pitching-investasi-bisnis"><strong>4. Ragam Bahasa: Manajer Keuangan (Pitching Investasi Bisnis)</strong></a></li>
+  <li><a href="#ragam-bahasa-publik-umum-khususnya-masyarakat-lansia" id="toc-ragam-bahasa-publik-umum-khususnya-masyarakat-lansia" class="nav-link" data-scroll-target="#ragam-bahasa-publik-umum-khususnya-masyarakat-lansia"><strong>5. Ragam Bahasa: Publik Umum (Khususnya Masyarakat / Lansia)</strong></a></li>
+  </ul></li>
+  <li><a href="#e.-tahap-3-refleksi-pembelajaran-intrapribadi" id="toc-e.-tahap-3-refleksi-pembelajaran-intrapribadi" class="nav-link" data-scroll-target="#e.-tahap-3-refleksi-pembelajaran-intrapribadi"><strong>E. Tahap 3: Refleksi Pembelajaran (Intrapribadi)</strong></a></li>
+  <li><a href="#f.-rubrik-evaluasi-mandiri-penilaian-portofolio" id="toc-f.-rubrik-evaluasi-mandiri-penilaian-portofolio" class="nav-link" data-scroll-target="#f.-rubrik-evaluasi-mandiri-penilaian-portofolio"><strong>F. Rubrik Evaluasi Mandiri &amp; Penilaian Portofolio</strong></a></li>
   </ul></li>
   </ul>
 </nav>
@@ -315,145 +349,167 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="kompetensi-target" class="level2">
-<h2 class="anchored" data-anchor-id="kompetensi-target">Kompetensi target</h2>
-<p>Mengadaptasi repertoire dan language tanpa mengubah core meaning.</p>
+<section id="lembar-kerja-tugas-portofolio-terjemahan-lima-bahasa" class="level1">
+<h1>Lembar Kerja Tugas: Portofolio Terjemahan Lima Bahasa</h1>
+<p><em>Kuliah 4: Bahasa yang Menjembatani Makna</em></p>
+<blockquote class="blockquote">
+<p><strong>Prinsip Utama:</strong> <em>“Jangan pernah mengubah kebenaran agar mudah diterima, melainkan ubahlah cara membawa kebenaran agar dapat dipahami.”</em></p>
+</blockquote>
+<hr>
+<section id="a.-deskripsi-tugas" class="level2">
+<h2 class="anchored" data-anchor-id="a.-deskripsi-tugas"><strong>A. Deskripsi Tugas</strong></h2>
+<p>Salah satu rintangan komunikasi terbesar bagi seorang calon profesional adalah <strong>“Kutukan Pengetahuan” (<em>Curse of Knowledge</em>)</strong>—situasi di mana Anda sangat memahami sebuah konsep rumit, hingga Anda lupa rasanya menjadi orang yang belum mengetahuinya. Akibatnya, Anda cenderung menggunakan istilah teknis (jargon) kaku yang justru menjauhkan gagasan Anda dari pendengar.</p>
+<p>Dalam tugas ini, Anda ditantang untuk melatih <strong>kelenturan register dan alih ragam bahasa (<em>code-switching</em>)</strong>. Anda akan memilih satu konsep teknis dari bidang keilmuan atau program studi Anda, meruntuhkan jargon di dalamnya, lalu menerjemahkan makna inti konsep tersebut ke dalam <strong>lima versi bahasa komunikasi</strong> yang berbeda tanpa mengubah esensi kebenarannya.</p>
+<hr>
 </section>
-<section id="evidence-wajib" class="level2">
-<h2 class="anchored" data-anchor-id="evidence-wajib">Evidence wajib</h2>
+<section id="b.-identitas-mahasiswa" class="level2">
+<h2 class="anchored" data-anchor-id="b.-identitas-mahasiswa"><strong>B. Identitas Mahasiswa</strong></h2>
 <ul>
-<li>Lima versi untuk friend, technical peer, manager, customer, dan public.</li>
-<li>Alasan perubahan language dan repertoire.</li>
-<li>Feedback understanding dari sedikitnya satu target.</li>
+<li><strong>Nama Lengkap:</strong> Maximillian Jose Andreas Aditjandra</li>
+<li><strong>NIM:</strong> 18225023</li>
+<li><strong>Program Studi:</strong> Sistem dan Teknologi Informasi</li>
+<li><strong>Tanggal Pengisian:</strong> 27 September 2026</li>
 </ul>
-<div class="callout callout-style-default callout-tip callout-titled" title="Lihat contoh pengisian">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>Lihat contoh pengisian
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><a href="../examples/week-04.html">Buka contoh fiktif Minggu 4</a> untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.</p>
-</div>
-</div>
+<hr>
 </section>
-<section id="konteks-performance" class="level2">
-<h2 class="anchored" data-anchor-id="konteks-performance">Konteks performance</h2>
-<p><strong>Tanggal dan setting:</strong> Ganti dengan tanggal, tempat, dan bentuk kegiatan.</p>
-<p><strong>Persons dan relationship:</strong> Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.</p>
-<p><strong>Objective dan initial state:</strong> Nyatakan perubahan yang ingin dicapai serta evidence state awal.</p>
+<section id="c.-tahap-1-detoks-jargon-dekonstruksi-konsep" class="level2">
+<h2 class="anchored" data-anchor-id="c.-tahap-1-detoks-jargon-dekonstruksi-konsep"><strong>C. Tahap 1: Detoks Jargon (Dekonstruksi Konsep)</strong></h2>
+<p>Sebelum membagikan gagasan Anda, Anda harus mengupas kulit jargon untuk menemukan “sumsum” atau kebenaran inti dari pesan Anda.</p>
+<ol type="1">
+<li><p><strong>Konsep Teknis yang Dipilih:</strong> Teknologi <em>Blockchain</em>.</p></li>
+<li><p><strong>Definisi Teknis Awal (Versi Buku Teks / Jurnal Ilmiah):</strong> <em>Blockchain</em> adalah buku besar digital dari transaksi ekonomi yang hampir tidak mungkin dimanipulasi. Buku besar terdistribusi ini diprogram tidak hanya untuk mencatat transaksi keuangan, tetapi juga untuk mencatat hampir semua hal yang bernilai bagi manusia (Don &amp; Alex Tapscott). Pengamanannya mengandalkan mekanisme konsensus, kriptografi asimetris, dan eksekusi instruksi terdesentralisasi melalui kontrak pintar (<em>smart contracts</em>).</p></li>
+<li><p><strong>Daftar Jargon Teknis &amp; Artian Sederhananya:</strong></p>
+<ul>
+<li><strong>Jargon 1:</strong> <code>Mekanisme Konsensus</code> <span class="math inline">\(\rightarrow\)</span> Arti Sederhana: Aturan “arisan atau vote teman”. Bayangkan 10 teman punya buku kas; catatan sah jika mayoritas setuju. Di <em>blockchain</em>, ini dilakukan otomatis oleh komputer agar tidak ada yang bisa berbohong.</li>
+<li><strong>Jargon 2:</strong> <code>Kriptografi Asimetris</code> <span class="math inline">\(\rightarrow\)</span> Arti Sederhana: Kotak surat dengan gembok digital. Anda punya alamat kotak (Kunci Publik) agar orang bisa memasukkan uang, dan Kunci Gembok (Kunci Privat) yang hanya dipegang Anda untuk mengambil isinya.</li>
+<li><strong>Jargon 3:</strong> <code>Kontrak Pintar</code> <span class="math inline">\(\rightarrow\)</span> Arti Sederhana: Mesin penjual otomatis (<em>vending machine</em>). Perjanjian robot “Jika… Maka…” tanpa perantara. Jika masuk Rp10.000, minuman otomatis turun. Tidak ada kasir manusia yang bisa menipu.</li>
+</ul></li>
+<li><p><strong>Kebenaran Inti (<em>Marrow of the Message</em>):</strong> Menghilangkan biaya perantara (seperti makelar atau bank) dan menciptakan sistem transaksi yang super aman, instan, serta transparan, sehingga membangun sistem yang saling percaya dan terhindar dari korupsi.</p></li>
+</ol>
+<hr>
 </section>
-<section id="evidence" class="level2">
-<h2 class="anchored" data-anchor-id="evidence">Evidence</h2>
-<div class="evidence-block">
-<p>Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.</p>
-</div>
+<section id="d.-tahap-2-matriks-terjemahan-lima-bahasa" class="level2">
+<h2 class="anchored" data-anchor-id="d.-tahap-2-matriks-terjemahan-lima-bahasa"><strong>D. Tahap 2: Matriks Terjemahan Lima Bahasa</strong></h2>
+<p>Sekarang, bawa kebenaran inti di atas menggunakan “kendaraan” bahasa yang sesuai bagi masing-masing dari lima audiens berikut.</p>
+<section id="ragam-bahasa-anak-anak-usia-10-tahun" class="level3">
+<h3 class="anchored" data-anchor-id="ragam-bahasa-anak-anak-usia-10-tahun"><strong>1. Ragam Bahasa: Anak-Anak (Usia ~10 Tahun)</strong></h3>
+<ul>
+<li><strong>Karakteristik Pendengar:</strong> Menggunakan pemikiran konkret, menyukai imajinasi, memiliki rentang perhatian pendek, dan belum mengenal istilah akademis.</li>
+<li><strong>Strategi:</strong> Gunakan <strong>analogi fisik atau cerita</strong> yang sangat akrab di dunia mereka (seperti mainan, sekolah, atau hewan).</li>
+<li><em>Draf Terjemahan Anda:</em> “Bayangkan kamu dan teman-teman sekelas punya satu buku tabungan ajaib buat beli mainan. Kalau kamu beli mainan dari temanmu, semua buku milik teman sekelasmu akan otomatis mencatat pembelian itu secara bersamaan. Jadi, nggak akan ada yang bisa bohong atau nyuri uang diam-diam. Terus, transaksinya kayak mesin minuman otomatis: begitu uang tabunganmu dimasukkan, mainannya langsung keluar sendiri tanpa perlu dijagain satpam!”</li>
+</ul>
 </section>
-<section id="analisis-komunikasi" class="level2">
-<h2 class="anchored" data-anchor-id="analisis-komunikasi">Analisis komunikasi</h2>
+<section id="ragam-bahasa-sahabat-beda-bidang-program-studi" class="level3">
+<h3 class="anchored" data-anchor-id="ragam-bahasa-sahabat-beda-bidang-program-studi"><strong>2. Ragam Bahasa: Sahabat (Beda Bidang / Program Studi)</strong></h3>
+<ul>
+<li><strong>Karakteristik Pendengar:</strong> Setara dengan Anda secara usia, tetapi tidak memiliki latar belakang keilmuan yang sama. Mereka ingin mengobrol dengan santai tanpa merasa digurui.</li>
+<li><strong>Strategi:</strong> Gunakan gaya bahasa informal, hangat, akrab, dan bersihkan dari istilah akademis yang kaku.</li>
+<li><em>Draf Terjemahan Anda:</em> “Bro, lo tau kan kalau kita mau transfer duit, apalagi beda negara, pasti kena biaya admin bank dan prosesnya lama? Nah, <em>blockchain</em> tuh ibarat lo ngasih duit langsung ke tangan orangnya, tapi lewat internet. Catatannya dipegang bareng-bareng sama jutaan komputer, jadi nggak mungkin di-hack atau dikorupsi. Intinya, kita buang makelarnya, jadi transaksi lo super aman, instan, dan gratis dari potongan nggak jelas.”</li>
+</ul>
+</section>
+<section id="ragam-bahasa-rekan-teknis-sesama-ahli-mahasiswa-sejurusan" class="level3">
+<h3 class="anchored" data-anchor-id="ragam-bahasa-rekan-teknis-sesama-ahli-mahasiswa-sejurusan"><strong>3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan)</strong></h3>
+<ul>
+<li><strong>Karakteristik Pendengar:</strong> Rekan sejawat yang menuntut efisiensi, akurasi tinggi, serta pembuktian logis atau matematis.</li>
+<li><strong>Strategi:</strong> Gunakan jargon teknis yang presisi, singkatan standar industri, parameter spesifik, dan data pendukung.</li>
+<li><em>Draf Terjemahan Anda:</em> “Sistem ini berjalan di atas <em>decentralized distributed ledger</em> yang di-maintain melalui <em>consensus mechanism</em> (seperti PoW/PoS) agar <em>Byzantine Fault Tolerant</em>. Semua <em>state transition</em> dan mutasi di-sign menggunakan <em>asymmetric cryptography</em> sehingga terhindar dari pemalsuan otoritas. <em>Plus</em>, kita bisa <em>deploy smart contract</em> di atasnya buat mengeksekusi logika <em>if-then</em> secara otomatis secara <em>on-chain</em>, yang bikin <em>overhead third-party</em> hilang dan <em>trust</em> 100% bergantung pada kriptografi.”</li>
+</ul>
+</section>
+<section id="ragam-bahasa-manajer-keuangan-pitching-investasi-bisnis" class="level3">
+<h3 class="anchored" data-anchor-id="ragam-bahasa-manajer-keuangan-pitching-investasi-bisnis"><strong>4. Ragam Bahasa: Manajer Keuangan (Pitching Investasi Bisnis)</strong></h3>
+<ul>
+<li><strong>Karakteristik Pendengar:</strong> Berorientasi pada hasil, efisiensi alokasi sumber daya (waktu, tenaga, biaya), manajemen risiko, dan dampak terhadap tujuan organisasi.</li>
+<li><strong>Strategi:</strong> Tekankan <strong>nilai tambah (<em>value proposition</em>)</strong>, biaya (<em>cost</em>), efisiensi, serta konsekuensi logis jika gagasan ini diterapkan atau diabaikan.</li>
+<li><em>Draf Terjemahan Anda:</em> “Bapak/Ibu, untuk portofolio investasi dan arus kas perusahaan kita, teknologi ini menawarkan efisiensi perlindungan aset yang luar biasa. Kita bisa memotong <em>middle-man fees</em> (biaya perbankan dan makelar) secara signifikan. Karena pencatatan transaksinya transparan dan didistribusikan secara <em>real-time</em>, proses audit keuangan menjadi jauh lebih cepat dan risiko <em>fraud</em> (penggelapan dana) bisa dicegah sepenuhnya. Ditambah lagi, pencairan dividen atau dana investasi dapat dieksekusi otomatis menggunakan <em>smart contract</em>, sehingga <em>cash flow</em> perusahaan lebih lancar dan aman.”</li>
+</ul>
+</section>
+<section id="ragam-bahasa-publik-umum-khususnya-masyarakat-lansia" class="level3">
+<h3 class="anchored" data-anchor-id="ragam-bahasa-publik-umum-khususnya-masyarakat-lansia"><strong>5. Ragam Bahasa: Publik Umum (Khususnya Masyarakat / Lansia)</strong></h3>
+<ul>
+<li><strong>Karakteristik Pendengar:</strong> Masyarakat heterogen yang ingin mengetahui apa dampak langsung teknologi/konsep ini bagi keamanan, dompet, atau kehidupan mereka.</li>
+<li><strong>Strategi:</strong> Hubungkan konsep dengan nilai-nilai sosial, keadilan, keamanan, kemudahan hidup, dan gunakan bahasa yang inklusif serta mudah dipahami seketika.</li>
+<li><em>Draf Terjemahan Anda:</em> “Bapak dan Ibu, selama ini kita menyimpan uang dan mencatat transaksi lewat bank. Bank bertugas sebagai buku catatan raksasa, namun terkadang ada biaya potongan bulanan atau bahkan risiko sistem eror. Nah, teknologi ini ibarat buku catatan bersama milik masyarakat luas. Ketika Bapak/Ibu mengirim uang, semua sistem akan otomatis menjadi saksi yang adil. Tidak ada satupun yang bisa mengubah catatan atau menipu. Uang Bapak/Ibu langsung sampai detik itu juga, tanpa perantara, tanpa potongan biaya mahal, dan pastinya sangat aman.”</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="e.-tahap-3-refleksi-pembelajaran-intrapribadi" class="level2">
+<h2 class="anchored" data-anchor-id="e.-tahap-3-refleksi-pembelajaran-intrapribadi"><strong>E. Tahap 3: Refleksi Pembelajaran (Intrapribadi)</strong></h2>
+<p><em>Evaluasi diri Anda setelah melakukan proses alih ragam bahasa di atas.</em></p>
+<ol type="1">
+<li><p><strong>Ragam bahasa mana yang paling sulit Anda buat? Mengapa?</strong> Menurut saya, yang paling sulit adalah menerjemahkannya kepada publik umum, khususnya masyarakat lansia. Mereka umumnya sudah memiliki pemahaman (<em>legacy system</em>) bahwa bank konvensional adalah institusi paling aman, sehingga mereka sering kali merasa <em>denial</em> terhadap konsep baru yang menghilangkan peran bank. Sangat menantang menjelaskan “ketiadaan perantara” tanpa membuat mereka merasa tidak aman. Sebaliknya, menjelaskan kepada anak SD justru jauh lebih mudah karena pikiran mereka seperti kertas kosong; analogi mainan dan mesin otomatis bisa langsung mereka serap tanpa bias penolakan.</p></li>
+<li><p><strong>Bagaimana proses dekonstruksi jargon ini mengubah cara Anda memandang keilmuan Anda sendiri?</strong> Sebagai mahasiswa di bidang komputasi (STEI-K), dekonstruksi ini menyadarkan saya bahwa secanggih apa pun algoritma kriptografi atau baris <em>code</em> yang saya buat, teknologinya akan gagal diadopsi jika tidak ada <em>trust</em> (kepercayaan). Menjelaskan <em>blockchain</em> bukan tentang seberapa hebat matematikanya, melainkan tentang bagaimana meyakinkan publik bahwa uang dan data mereka aman. Ini mengubah fokus saya: kehebatan teknis hanyalah separuh jalan, separuh lainnya adalah kemampuan empati dalam berkomunikasi.</p></li>
+<li><p><strong>Catatan Penggunaan AI Kopilot (Jika Ada):</strong> Saya hanya menggunakan AI untuk mensimulasikan peran (<em>roleplay</em>) sebagai seorang manajer keuangan suatu perusahaan tempat saya mencoba melakukan <em>pitching</em>. Umpan balik dari peran AI tersebut membantu saya menyesuaikan diksi dan argumen agar lebih fokus pada efisiensi biaya, mitigasi risiko (<em>anti-fraud</em>), dan dampak operasional bisnis, bukan sekadar memamerkan fitur teknis seperti yang biasa saya lakukan sebagai <em>developer</em>.</p></li>
+</ol>
+<hr>
+</section>
+<section id="f.-rubrik-evaluasi-mandiri-penilaian-portofolio" class="level2">
+<h2 class="anchored" data-anchor-id="f.-rubrik-evaluasi-mandiri-penilaian-portofolio"><strong>F. Rubrik Evaluasi Mandiri &amp; Penilaian Portofolio</strong></h2>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 20%">
+</colgroup>
 <thead>
 <tr class="header">
-<th>Elemen</th>
-<th>Evidence dan analisis</th>
+<th style="text-align: left;">Kriteria</th>
+<th style="text-align: left;">Skor 4 (Sangat Baik)</th>
+<th style="text-align: left;">Skor 3 (Baik)</th>
+<th style="text-align: left;">Skor 2 (Cukup)</th>
+<th style="text-align: left;">Skor 1 (Kurang)</th>
+<th style="text-align: center;">Skor Mandiri</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Person &amp; character</td>
-<td>Ganti dengan analisis Anda.</td>
+<td style="text-align: left;"><strong>Keutuhan Makna</strong> <em>(Fidelity)</em></td>
+<td style="text-align: left;">Makna inti konsep sama sekali tidak terdistorsi atau berganti di kelima versi bahasa.</td>
+<td style="text-align: left;">Makna inti terjaga di sebagian besar versi, hanya ada sedikit penyederhanaan yang agak melenceng di versi anak-anak.</td>
+<td style="text-align: left;">Makna inti mulai bergeser di beberapa ragam bahasa demi mengejar kemudahan bahasa.</td>
+<td style="text-align: left;">Makna inti rusak atau berubah total di berbagai ragam bahasa.</td>
+<td style="text-align: center;"><strong>4</strong></td>
 </tr>
 <tr class="even">
-<td>Objective &amp; state</td>
-<td>Ganti dengan analisis Anda.</td>
+<td style="text-align: left;"><strong>Kelenturan Register</strong> <em>(Code-switching)</em></td>
+<td style="text-align: left;">Perbedaan gaya bahasa di antara kelima audiens sangat kontras, konsisten, dan sangat sesuai dengan profil masing-masing.</td>
+<td style="text-align: left;">Perbedaan gaya bahasa terlihat jelas, namun ada beberapa kata/gaya yang masih tumpang tindih antar-audiens.</td>
+<td style="text-align: left;">Gaya bahasa terasa seragam; perbedaan antar-audiens hanya terlihat kosmetis (misal sekadar mengubah sapaan).</td>
+<td style="text-align: left;">Tidak ada upaya menyesuaikan gaya bahasa; semua audiens disuapi dengan gaya bahasa yang sama.</td>
+<td style="text-align: center;"><strong>3</strong></td>
 </tr>
 <tr class="odd">
-<td>Repertoire &amp; language</td>
-<td>Ganti dengan analisis Anda.</td>
+<td style="text-align: left;"><strong>Kualitas Analogi &amp; Penjelasan</strong></td>
+<td style="text-align: left;">Analogi yang digunakan sangat kreatif, segar, akurat, dan langsung membuat konsep mudah dipahami seketika.</td>
+<td style="text-align: left;">Analogi yang digunakan cukup baik dan relevan, meski masih butuh sedikit penjelasan tambahan untuk memperjelasnya.</td>
+<td style="text-align: left;">Analogi yang digunakan kurang pas atau justru berisiko membingungkan audiens.</td>
+<td style="text-align: left;">Tidak menggunakan analogi sama sekali pada ragam bahasa yang membutuhkan (Anak/Publik).</td>
+<td style="text-align: center;"><strong>3</strong></td>
 </tr>
 <tr class="even">
-<td>Response &amp; adaptation</td>
-<td>Ganti dengan analisis Anda.</td>
+<td style="text-align: left;"><strong>Kedalaman Refleksi</strong></td>
+<td style="text-align: left;">Refleksi sangat jujur, mendalam, mampu mengidentifikasi bias batin diri, dan merumuskan sasaran pertumbuhan yang jelas.</td>
+<td style="text-align: left;">Refleksi cukup deskriptif dalam menceritakan kesulitan, namun belum menggali alasan personal di balik kesulitan tersebut.</td>
+<td style="text-align: left;">Refleksi sangat singkat, bersifat normatif, dan tidak memberikan wawasan baru bagi perkembangan diri Anda.</td>
+<td style="text-align: left;">Bagian refleksi tidak diisi atau hanya diisi sekadarnya (kurang dari 2 kalimat).</td>
+<td style="text-align: center;"><strong>3</strong></td>
 </tr>
 <tr class="odd">
-<td>Agreement/action</td>
-<td>Ganti dengan analisis Anda.</td>
-</tr>
-<tr class="even">
-<td>Relationship outcome</td>
-<td>Ganti dengan analisis Anda.</td>
+<td style="text-align: left;"><strong>Total Skor (Maksimal 16)</strong></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: center;"><strong>13 / 16</strong></td>
 </tr>
 </tbody>
 </table>
-</section>
-<section id="penggunaan-ai" class="level2">
-<h2 class="anchored" data-anchor-id="penggunaan-ai">Penggunaan AI</h2>
-<p>Nyatakan <code>Tidak menggunakan AI</code> atau jelaskan:</p>
-<ul>
-<li>alat dan peran AI;</li>
-<li>prompt atau instruksi penting;</li>
-<li>bagian output yang digunakan, diubah, atau ditolak;</li>
-<li>pemeriksaan accuracy, privacy, dan authority;</li>
-<li>apa yang tetap Anda pelajari sebagai manusia.</li>
-</ul>
-</section>
-<section id="feedback-dan-tindak-lanjut" class="level2">
-<h2 class="anchored" data-anchor-id="feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</h2>
-<p><strong>Feedback yang diterima:</strong> Ganti dengan kutipan atau ringkasan berbasis evidence.</p>
-<p><strong>Adaptation/replay:</strong> Jelaskan apa yang Anda ubah dan response setelah perubahan.</p>
-<p><strong>Next practice:</strong> Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.</p>
-</section>
-<section id="self-assessment" class="level2">
-<h2 class="anchored" data-anchor-id="self-assessment">Self-assessment</h2>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th>Dimensi</th>
-<th style="text-align: right;">Skor 1–4</th>
-<th>Evidence singkat</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Person &amp; Character</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
-</tr>
-<tr class="even">
-<td>Objective &amp; State</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
-</tr>
-<tr class="odd">
-<td>Repertoire, Language &amp; AI</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
-</tr>
-<tr class="even">
-<td>Response &amp; Adaptation</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
-</tr>
-<tr class="odd">
-<td>Agreement, Action &amp; Relationship</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Total:</strong> — / 20</p>
-<section id="assessment-dosen" class="level3 assessor-only">
-<h3 class="anchored" data-anchor-id="assessment-dosen">Assessment dosen</h3>
-<p><strong>Skor:</strong> — / 20<br>
-<strong>Evidence yang mendukung:</strong> —<br>
-<strong>Prioritas perbaikan:</strong> —<br>
-<strong>Keputusan:</strong> Belum dinilai / Perlu revisi / Tercapai</p>
-</section>
 
 
+</section>
 </section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Kembali ke atas</a></main> <!-- /main -->
