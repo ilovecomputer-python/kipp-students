@@ -2,24 +2,98 @@
 title: "Professional Discovery Interview"
 week: 5
 status: "Belum dimulai"
-self_score: "—"
+self_score: "15"
 assessor_score: "—"
 description: "Discovery menuju shared problem statement."
 categories: [Professional, Discovery]
 ---
 
-## Kompetensi target
+# LEMBAR KERJA PRAKTIS: WAWANCARA PENEMUAN KEBUTUHAN & FORMULA PERNYATAAN MASALAH PELANGGAN
+*Materi Pendamping Penugasan Bab 5: Rekan Kerja dan Pelanggan: Menciptakan Nilai Bersama*
+**Nama Lengkap:** Maximillian Jose Andreas Aditjandra  
+**Tanggal Pengerjaan:** 27 September 2026
+---
 
-Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+> **“Produk yang canggih belum tentu bernilai. Nilai lahir ketika pengetahuan, pekerjaan, dan layanan sungguh-sungguh menjawab persoalan manusia.”**
+> — *Komunikasi Interpersonal dan Publik*, Bab 5
 
-## Evidence wajib
+---
 
-- Initial assumption dan pertanyaan discovery.
-- Transcript/paraphrase serta problem impact dan constraint.
-- Shared problem statement yang dikonfirmasi partner.
+## 📌 PENGANTAR: NILAI ADA DALAM PENGALAMAN PENERIMA
+Sebagai calon profesional, kesalahan terbesar yang sering kita lakukan adalah **terlalu cepat menyodorkan solusi atau membuat fitur sebelum benar-benar memahami masalahnya**. Permintaan awal dari rekan kerja atau pelanggan sering kali bukanlah solusi terbaik. Lembar kerja ini dirancang untuk menuntun Anda melakukan **Wawancara Penemuan Kebutuhan** yang berempati, mendengarkan secara mendalam sebelum menjelaskan, serta merumuskan **Pernyataan Masalah Pelanggan** (*Customer Problem Statement*) secara presisi.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 5](../examples/week-05.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+---
+
+## 📝 FASE 2: LEMBAR PENGERJAAN MAHASISWA
+
+### 👥 1. Profil Narasumber (Disamarkan Demi Privasi)
+*   **Nama Samaran:** Kak Aurel
+*   **Peran/Pekerjaan Nyata:** Pemilik UMKM (Toko Online Skincare di E-commerce)
+*   **Domain Hubungan:** Pelanggan / Target Pasar (Konteks: Observasi Kebutuhan Seller)
+*   **Konteks Lingkungan:** Obrolan kasual secara tatap muka di *cafe* (wawancara tidak direkam untuk menjaga kenyamanan, berbasis catatan ingatan).
+
+---
+
+### 📓 2. Log Catatan Wawancara (Gunakan 5 Pertanyaan Penemuan)
+
+#### **Pertanyaan 1: Kejadian Nyata & Contoh Konkret**
+*   *Tuliskan pertanyaan Anda & contoh kasus nyata yang diceritakan narasumber:*
+    > **Kejadian:** Kak Aurel mengeluhkan pemotongan biaya admin dari platform *e-commerce* (Shopee) yang dirasa tidak transparan. Tidak ada rincian perhitungan atau dasar yang jelas mengenai persentase atau nominal biaya admin yang dibebankan kepada tokonya di setiap transaksi.
+
+#### **Pertanyaan 2: Dampak Nyata & Beban Masalah**
+*   *Tuliskan dampak langsung dari masalah tersebut terhadap pekerjaan, waktu, atau perasaan mereka:*
+    > **Dampak:** Margin keuntungan UMKM menjadi tidak menentu dan berisiko tergerus. Sebagai kompensasinya, Kak Aurel terpaksa harus sedikit menaikkan harga jual produk secara mendadak demi menutup biaya admin yang tidak bisa diprediksi tersebut.
+
+#### **Pertanyaan 3: Pemetaan Pihak Terdampak**
+*   *Siapa saja pribadi dan peran yang ikut terganggu oleh peristiwa ini?*
+    > **Pihak Terdampak:** Selain *seller* (penjual) yang kebingungan mengatur strategi harga, *customer* (pembeli) ikut menjadi korban karena harus membeli produk *skincare* dengan harga yang lebih mahal dari seharusnya.
+
+#### **Pertanyaan 4: Gambaran Keadaan yang Lebih Baik (Hasil Akhir, Bukan Fitur)**
+*   *Bagaimana situasi ideal yang diharapkan? Ingat: Fokus pada KEMAMPUAN narasumber, bukan teknologi digitalnya.*
+    > **Situasi Ideal:** Kak Aurel mengharapkan adanya transparansi dan kejelasan variabel penentu biaya admin dari awal. Dengan begitu, *seller* paham dasar penentuannya dan mampu melakukan penyesuaian strategi harga ke depannya agar tidak memberatkan pembeli.
+
+#### **Pertanyaan 5: Batasan & Kendala Lapangan**
+*   *Apa saja kendala nyata dari segi waktu, biaya, kebijakan, atau kemampuan yang membatasi solusi mereka?*
+    > **Kendala:** Adanya birokrasi *e-commerce* yang tertutup. Saat Kak Aurel menghubungi *Customer Service* (CS), pihak CS tidak dapat membeberkan cara perhitungan atau variabelnya dengan alasan "aturan kerahasiaan dan keamanan data perusahaan."
+
+---
+
+## ✒️ FASE 3: FORMULASI PERNYATAAN MASALAH PELANGGAN
+
+### 📐 Formula Standar:
+> **`[Pribadi/Peran]` mengalami `[keadaan yang dapat diamati]` ketika `[konteks]`, sehingga `[dampak]`. Ia membutuhkan `[hasil/kemampuan]`, dengan mempertimbangkan `[kendala]`.**
+
+### ✍️ Draft 1: Pernyataan Masalah Awal (Sebelum Konfirmasi)
+*Susun draf pertama Anda setelah selesai mewawancarai narasumber:*
+> Pemilik UMKM *online* mengalami pemotongan biaya admin yang tiba-tiba dan tidak memiliki rincian pasti ketika berjualan di platform *e-commerce*, sehingga ia terpaksa menaikkan harga barang yang membebani pembeli. Ia membutuhkan transparansi perhitungan agar bisa menyesuaikan harga dengan stabil, dengan mempertimbangkan kendala bahwa *Customer Service* dilarang membeberkan variabel perhitungan tersebut dengan alasan rahasia perusahaan.
+
+### 🔄 Draft 2: Pernyataan Masalah Terkonfirmasi (Setelah Konfirmasi)
+*Bacakan draf pertama Anda kepada narasumber, minta masukan mereka ("Apakah rumusan ini menggambarkan situasi Anda?"), dan tulis perbaikannya di bawah ini berdasarkan koreksi narasumber:*
+> *(Simulasi perbaikan agar lebih tajam pada aspek prediksi):*
+> Pemilik UMKM *online* mengalami pemotongan biaya admin yang tidak transparan dan bervariasi ketika memproses transaksi di *e-commerce*, sehingga margin keuntungannya tergerus dan terpaksa membebankan kenaikan harga pada pembeli. Ia membutuhkan kemampuan untuk mengetahui dasar variabel potongan secara pasti agar dapat merancang strategi harga (*pricing*) yang stabil ke depan, dengan mempertimbangkan kendala birokrasi platform tertutup yang mengunci formula perhitungan sebagai data rahasia perusahaan.
+
+---
+
+## 🎯 FASE 4: REFLEKSI INTRAPRIBADI
+Tuliskan refleksi singkat Anda (100–150 kata) mengenai proses wawancara ini:
+
+1. *Seberapa cepat Anda menahan ego untuk tidak langsung menawarkan solusi teknologi di awal percakapan?*
+   Selama mendengarkan, pikiran saya sebagai mahasiswa Komputasi langsung bekerja memikirkan solusi (*over-directing*). Insting awal saya adalah ingin menyodorkan ide: *"Kenapa nggak kita buatkan sistem prediktif pakai Machine Learning saja untuk menghitung pola adminnya?"* Namun, saya memilih diam dan mendengarkan keluhannya sampai habis.
+2. *Asumsi awal apa yang Anda miliki yang ternyata terbukti keliru atau berubah setelah mendengarkan penjelasan narasumber secara utuh?*
+   Asumsi saya terbukti keliru. Saya berpikir masalah ini murni persoalan matematis yang bisa diselesaikan teknologi prediktif (AI). Ternyata akar masalahnya ada di **birokrasi dan kebijakan tertutup**. Sistem *Machine Learning* terhebat pun akan sulit dibangun jika kita tidak diberi akses terhadap variabel/paramater dasar pengukurannya dari pihak *e-commerce*. 
+3. *Janji atau langkah kecil apa yang harus segera Anda tepati untuk menjaga kepercayaan profesional dengan narasumber ini?*
+   Saya harus menepati janji untuk tidak membocorkan identitas tokonya ke publik demi menjaga kelangsungan bisnisnya di platform tersebut. Selain itu, saya berjanji tidak akan menyodorkan "solusi teknis palsu" yang sebenarnya tidak bisa diterapkan (*infeasible*) akibat blokade birokrasi tersebut.
+
+---
+
+## 📊 FASE 5: RUBRIK PENILAIAN MANDIRI (SELF-ASSESSMENT)
+Evaluasi lembar kerja Anda secara jujur menggunakan kriteria rubrik Bab 5 berikut sebelum dikumpulkan ke dalam portofolio Anda.
+
+| Kriteria Evaluasi | ⭐ Belum Tampak (Skor < 60) | ⭐⭐ Mulai Berkembang (Skor 60-79) | ⭐⭐⭐ Cakap / Unggul (Skor 80-100) | Skor Mandiri |
+| :--- | :--- | :--- | :--- | :--- |
+| **Kualitas Mendengarkan** | Langsung menyodorkan solusi tanpa menanyakan konteks atau mengonfirmasi masalah. | Menangkap isi masalah secara umum, namun melompati kendala atau pihak yang terdampak. | Menangkap konteks kejadian, dampak emosional/finansial, kebutuhan riil, serta kendala lapangan secara utuh. | **⭐⭐⭐ (85)** |
+| **Ketepatan Rumusan Masalah** | Rumusan masalah masih berupa usulan solusi teknis (misal: "Memerlukan aplikasi database"). | Berpusat pada masalah, namun bahasanya masih kabur atau belum dikonfirmasi ke narasumber. | Berpusat pada pribadi, menggunakan fakta teramati, terikat konteks yang jelas, bebas solusi, dan telah terkonfirmasi. | **⭐⭐ (75)** |
+| **Etika & Penjagaan Privasi** | Data pribadi dikumpulkan berlebihan, tidak meminta izin narasumber, atau memaksa narasumber. | Meminta izin umum, namun belum menyamarkan identitas atau kurang peka pada data sensitif. | Persetujuan diperoleh secara sukarela, privasi dijaga ketat dengan samaran, dan martabat narasumber sangat dihormati. | **⭐⭐⭐ (90)** |
+| **Keandalan & Hubungan** | Memberikan janji manis berlebihan atau kepastian palsu yang tidak masuk akal demi menyenangkan narasumber. | Menyatakan batas secara umum namun tindak lanjutnya masih mengambang. | Jujur menyatakan batas kemampuan serta memberikan kejelasan langkah dan waktu tindak lanjut berikutnya. | **⭐⭐⭐ (85)** |
 
 {{< include ../includes/evidence-template.md >}}
