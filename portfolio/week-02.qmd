@@ -2,24 +2,110 @@
 title: "Intra-Self Communication Journal"
 week: 2
 status: "Belum dimulai"
-self_score: "—"
+self_score: "15"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
 ---
 
-## Kompetensi target
+**Nama Lengkap:** Maximillian Jose Andreas Aditjandra  
+**Tanggal Pengerjaan:** 27 September 2026  
 
-Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+# Lembar Kerja Praktis: Tiga Narasi atas Satu Peristiwa
 
-## Evidence wajib
+*(Bahan Aktivitas Mandiri & Portofolio Kuliah 2: Percakapan dengan Diri Sendiri)*
 
-- Satu episode komunikasi dengan diri sendiri.
-- Initial story dan sedikitnya dua alternative narratives.
-- Internal agreement dan bukti tindakan berikutnya.
+Lembar kerja ini dirancang untuk melatih kemampuan **kejernihan batin (intrapersonal communication)** Anda. Tujuannya adalah membantu Anda memisahkan fakta objektif dari cerita batin, mengenali emosi, dan merumuskan respons yang disengaja (*chosen response*) alih-alih bereaksi secara otomatis (*autopilot*) atas peristiwa sulit dalam kehidupan sehari-hari [10, 13].
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+---
 
+## **Siklus Pemikiran: Dari Rangsangan Menuju Respons**
+
+Sebelum mengisi lembar kerja, ingatlah alur pembentukan makna batin berikut [13]: 
+$$\text{Peristiwa (Fakta)} \longrightarrow \text{Interpretasi (Asumsi)} \longrightarrow \text{Narasi (Identitas)} \longrightarrow \text{Emosi} \longrightarrow \text{Pilihan} \longrightarrow \text{Tindakan}$$
+
+---
+
+## **Bagian 1: Identifikasi Kasus (Bahan Mentah)**
+
+Pilihlah satu peristiwa sulit, menantang, atau kurang menyenangkan yang baru-baru ini Anda alami (misalnya: pesan tidak dibalas, kritik dari dosen, tugas kelompok terhambat, atau rencana yang batal) [11, 13]. 
+
+### **1. Peristiwa yang Dapat Diamati (Fakta Objektif)**
+
+*Tuliskan apa yang benar-benar terjadi tanpa penilaian karakter, generalisasi (hindari kata "selalu" atau "pasti"), atau dugaan niat. Bayangkan apa yang terekam oleh kamera video [13, 145].*
+> **Fakta Anda:** 
+Seorang rekan tim lomba bisnis mengutarakan keinginan untuk merombak ide dasar perlombaan ketika progres pengerjaan dokumen kami sudah mencapai sekitar 75% (tiga perempat jalan). Saya meresponsnya secara verbal dengan menanyakan kembali apa maksudnya dan solusi spesifik yang ia tawarkan.
+
+### **2. Interpretasi Pertama (Asumsi Otomatis)**
+
+*Tuliskan pemikiran atau kesimpulan pertama yang langsung melompat di kepala Anda ketika peristiwa itu terjadi [13, 145].* 
+> **Interpretasi Pertama Anda:** 
+Saya berasumsi bahwa dia meragukan kapabilitas saya dalam lomba ideasi bisnis, karena ide awal tim merupakan hasil *brainstorming* saya. Saya juga menyalahkan diri saya sendiri karena merasa "tidak enakan" untuk langsung menolak usulannya yang menurut saya kurang masuk akal mengingat waktu yang tersisa.
+
+### **3. Emosi & Sensasi Tubuh**
+
+*Identifikasi emosi konkret yang Anda rasakan (marah, cemas, malu, kecewa, sedih) dan tandai intensitasnya dari skala 0–10. Catat juga reaksi fisik yang Anda rasakan (napas pendek, rahang menegang, dada sesak) [13, 147].* 
+> * **Emosi yang Dirasakan:** Sedih, kecewa (terhadap diri sendiri dan teman setim), dan kesal (Skala intensitas: 7/10).
+> * **Sensasi Tubuh yang Muncul:** Merasa murung, kehilangan energi secara fisik, dan terdiam menatap layar laptop dengan tatapan kosong sepanjang malam.
+
+---
+
+## **Bagian 2: Membedah Tiga Narasi**
+
+Kini, mari kita bawa peristiwa di atas ke dalam tiga kacamata cerita batin yang berbeda untuk melihat bagaimana narasi tersebut mengarahkan pilihan hidup Anda [13, 157].
+
+### **Versi A: Narasi Korban (Victim Narrative)**
+
+*Tempatkan diri Anda sepenuhnya sebagai korban keadaan. Tuliskan narasi di mana semua kendali berada di luar diri Anda, orang lain sepenuhnya bersalah, dan Anda tidak memiliki pilihan selain pasrah, menyalahkan diri sendiri, atau membalas secara pasif [13, 157].* 
+> * **Isi Narasi Korban Anda:** 
+Sebagai ketua kelompok, saya merasa tidak berdaya dan terbelenggu oleh rasa "tidak enakan" saya sendiri. Saya merasa seolah-olah dipojokkan dan menjadi pihak yang bersalah atas lambatnya progres karena ide saya tidak disetujuinya dan ia memaksakan perubahan. Saya lumpuh karena tidak enak menolak.
+> * **Pilihan Tindakan Otomatis (Reaktif) dari Narasi ini:** 
+Pasrah, memendam kekesalan sendirian di malam hari (murung menatap laptop), menyalahkan diri sendiri atas ide yang saya buat, dan membiarkan tim terhambat tanpa berani mengambil ketegasan.
+
+### **Versi B: Narasi Analitis (Analytical Narrative)**
+
+*Gunakan kacamata yang objektif dan rasional. Pisahkan dengan tegas antara fakta yang diketahui, hal-hal yang masih berupa dugaan (belum diketahui), serta faktor-faktor yang berada di bawah kendali Anda langsung [13, 157, 158].* 
+> * **Apa fakta yang benar-benar telah terbukti?** 
+Rekan saya memang sempat mendebat ide ini di fase awal sebelum akhirnya sepakat, dan kini ia kembali mempermasalahkannya saat progres sudah 75%.
+> * **Apa penjelasan lain (alternatif asumsi) yang masuk akal namun belum saya periksa?** 
+Dia mungkin sangat peduli dengan hasil tim dan khawatir ide saat ini tidak memiliki bobot kompetitif yang cukup untuk lolos ke final atau juara. Niatnya pada dasarnya baik untuk kemajuan tim, bukan murni sentimen personal terhadap saya.
+> * **Faktor apa dalam situasi ini yang berada di bawah kendali saya langsung?** 
+Keberjalanan kelompok, keputusan operasional akhir (*go/no-go* atas perubahan ide), dan bagaimana cara saya merespons serta mengakomodasi pertimbangannya tanpa merusak *timeline*.
+
+### **Versi C: Narasi Pertumbuhan (Growth Narrative)**
+
+*Gunakan kacamata belas kasih (compassion) dan pola pikir bertumbuh (growth mindset). Akui bahwa situasinya sulit dan emosi Anda valid, namun arahkan batin Anda untuk menemukan hikmah/pelajaran serta memilih tindakan yang selaras dengan nilai jangka panjang Anda [13, 151, 157].* 
+> * **Isi Narasi Pertumbuhan Anda:** 
+Situasi ini memang merepotkan dan menguras energi karena tenggat waktu pengumpulan dokumen sudah mepet, sehingga wajar jika saya merasa kecewa. Namun, niat teman saya sebenarnya didasari keinginan agar tim menang. Ketidaksepakatan ini adalah ujian bagi saya untuk mempraktikkan kontrol emosi dan manajemen krisis tim, mencegah hal kecil berdampak destruktif pada dinamika kelompok.
+> * **Pelajaran apa yang dapat saya ambil dari situasi ini?** 
+1) **Manajemen Waktu Ideasi:** Proses *brainstorming* di awal harus dialokasikan waktunya lebih panjang agar semua keraguan tuntas sebelum eksekusi dimulai.
+2) **Manajemen Risiko Internal (Plan B):** Perlunya protokol krisis di dalam tim sehingga ketika ketidaksepakatan teknis muncul di tengah jalan, tim tidak kelabakan.
+3) **Komunikasi Progresif:** Membangun ruang diskusi yang asertif tanpa penghakiman sejak awal, agar anggota yang tidak setuju merasa aman mengutarakan pendapatnya jauh-jauh hari.
+
+---
+
+## **Bagian 3: Merancang Respons (Action & Support)**
+
+### **1. Pilihan Respons Terbaik**
+
+*Berdasarkan Narasi Pertumbuhan Anda, tuliskan tindakan kecil, konkret, dan asertif yang akan Anda lakukan sekarang untuk merespons situasi tersebut [13, 157, 158].* 
+> * **Langkah nyata yang saya pilih:** 
+Saya tidak akan sekadar menolak sarannya, tetapi saya akan mengajaknya berdiskusi secara terbuka dan menawarkan kompromi berupa **"penyesuaian (iterasi) ide"** alih-alih perombakan total. Saya akan menjabarkan matriks risikonya secara rasional: memetakan risiko perombakan di sisa waktu, memvalidasi hasil kerja yang sudah susah payah kami selesaikan, dan mencari titik urgensi dari ide barunya yang bisa diintegrasikan ke progres 75% kami.
+
+### **2. Dukungan yang Diperlukan**
+
+*Siapa orang tepercaya (teman, keluarga, dosen) yang dapat Anda mintai umpan balik jujur atau bantuan untuk mendampingi Anda menjalankan pilihan ini? [13, 158]* 
+> * **Nama rekan/pendamping:** 
+Pacar saya (inisial G) dan kakak saya (inisial Y). Mereka akan saya jadikan *sounding board* untuk memvalidasi bahwa argumen yang saya siapkan tetap rasional, objektif, dan tidak sembarangan karena dikuasai emosi marah.
+
+---
+
+## **Panduan Evaluasi Mandiri (Rubrik Portofolio)**
+
+Simpan lembar kerja ini ke dalam **Portofolio Komunikasi** Anda [3, 134]. Evaluasi kualitas pengerjaan Anda menggunakan kriteria berikut sebelum diserahkan kepada dosen [13, 159]:
+
+- [x] **Pemisahan Fakta vs Cerita:** Apakah fakta yang Anda tulis di Bagian 1 benar-benar bebas dari asumsi, penilaian moral, dan dramatisasi?
+- [x] **Kekayaan Alternatif:** Apakah Narasi Analitis Anda berhasil menawarkan minimal 2 alternatif penjelasan rasional yang berbeda dari interpretasi pertama Anda?
+- [x] **Kematangan Emosional:** Apakah emosi Anda diakui secara jujur tanpa dikuasai sepenuhnya oleh reaksi impulsif batin?
+- [x] **Kepemilikan Tindakan:** Apakah tindakan akhir yang Anda pilih di Bagian 3 bersifat spesifik, realistis, dan berorientasi pada penyelesaian masalah, bukan sekadar menghindari ketidaknyamanan?
 {{< include ../includes/evidence-template.md >}}
