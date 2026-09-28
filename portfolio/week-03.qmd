@@ -9,85 +9,77 @@ categories: [Fondasi, Relationship]
 ---
 
 **Nama Praktikan:** Maximillian Jose Andreas Aditjandra  
-**Nama Mitra Latihan:** Cecilia Maura Ciptami
+**Nama Mitra Latihan:** Cecilia Maura Ciptami  
 **Tanggal Pelaksanaan:** 27 September 2026  
 
-### **BAGIAN A: Catatan Pendengar (Diisi saat Anda menjadi Pendengar)**
-*Tuliskan hasil tangkapan Anda terhadap cerita mitra Anda menggunakan kerangka Tiga Tingkat Mendengarkan:* [3.8]
+---
 
-1. **Tingkat 1 - Kata (Isi Literal Masalah):** [3.8.1]
-   *Apa fakta objektif atau kejadian nyata yang diceritakan oleh mitra Anda?* (Hindari generalisasi seperti "selalu" atau "tidak pernah") [2.7.1]
-   *Jawab:*
-   Mitra menceritakan kesulitannya dalam mencari pasangan yang seiman selama masa perkuliahan. Ia berada di kampus negeri dengan latar belakang mahasiswa yang sangat beragam. Ia beberapa kali menemukan pribadi yang secara karakter cocok dengannya, namun hubungan tersebut tidak bisa dilanjutkan karena terhalang perbedaan agama.
+## 1. Konteks dan Relationship State
 
-2. **Tingkat 2 - Makna (Parafrasa Anda):** [3.8.2]
-   *Tuliskan kembali kalimat rangkuman/parafrasa yang Anda gunakan di depan mitra untuk mengonfirmasi cerita mereka.*
-   *Jawab:*
-   "Jadi kalau aku tidak salah tangkap, kamu merasa bimbang karena di lingkungan kampus yang beragam ini, ketika kamu sudah menemukan seseorang yang secara kepribadian sangat nyambung dan cocok, perbedaan agama sering kali menjadi tembok penghalang utamanya ya?"
+**Konteks & Hubungan:** 
+Praktik dilakukan secara berpasangan untuk melatih keterampilan mendengarkan mendalam (*Active Listening* pada Tiga Tingkat: Kata, Makna, dan Pribadi) tanpa terjebak menjadi "pakar pemecah masalah" yang langsung menyodorkan saran. 
 
-3. **Tingkat 3 - Pribadi (Tebakan Emosi & Kebutuhan):** [3.8.3]
-   *Tuliskan tebakan emosi dan kebutuhan bernilai yang Anda sampaikan secara tentatif.* (Contoh: Cemas karena butuh kepastian; kesal karena butuh penghargaan) [2.7.4, 3.8.3]
-   *Jawab:*
-   *   **Perasaan Mitra:** Merasa bingung, kesepian, dan sedikit frustrasi karena belum menemukan ruang atau tempat yang tepat untuk bertemu kriteria pasangannya tersebut.
-   *   **Kebutuhan/Nilai Mitra:** Membutuhkan rasa aman secara spiritual dan kepastian adanya pendamping hidup yang sejalan/seiman.
-
-4. **Respons Pembicara terhadap "Pertanyaan Emas" Anda:** [3.16]
-   *Apa pilihan tindakan yang akhirnya diinginkan oleh mitra Anda? (Hanya ingin didengarkan / dibantu memetakan pilihan / butuh saran)*
-   *Jawab:*
-   Mitra memilih: **Hanya ingin didengarkan saja.**
+**State sebelum percakapan:** Kepercayaan dan kedekatan terjaga baik, namun sering kali dalam perbincangan sehari-hari ada kecenderungan spontan untuk buru-buru memberi solusi teknis. Objective latihan ini adalah melatih kehadiran utuh, memvalidasi emosi, menghormati otonomi mitra, serta mengonfirmasi jenis bantuan apa yang benar-benar mereka butuhkan melalui "Pertanyaan Emas".
 
 ---
 
-### **BAGIAN B: Catatan Umpan Balik (Diisi berdasarkan umpan balik yang Anda terima dari Pembicara)**
-*Tuliskan evaluasi jujur yang disampaikan oleh mitra Anda mengenai performa menyimak Anda:* [3.16, D.4]
+## 2. Potongan Transkrip (Roleplay Tiga Tingkat Mendengarkan)
 
-1. **Momen Kehadiran Paling Berdampak:**
-   *Kapan mitra merasa paling didengarkan dan dipahami secara utuh? Tindakan verbal/nonverbal apa dari Anda yang membantunya?*
-   *Jawab:*
-   Mitra merasa sangat dihargai melalui bahasa nonverbal saya. Ia menyampaikan bahwa tatapan mata saya yang tidak berpaling dan sikap mendengarkan dengan saksama dari awal hingga akhir membuatnya merasa sungguh-sungguh dipahami dan mendapatkan ruang aman untuk bercerita.
-
-2. **Momen Asumsi atau "Buru-buru Memperbaiki":**
-   *Di titik mana Anda tanpa sengaja membuat asumsi, menyela, memberikan ekspresi menghakimi, atau tampak ingin langsung memberikan solusi?*
-   *Jawab:*
-   Tidak ada momen menyela atau membocorkan asumsi secara lisan. Secara internal, saya sebenarnya sudah menyusun dan memikirkan beberapa solusi logis di kepala saya. Namun, karena saya fokus mendengarkan dan mitra secara eksplisit merespons bahwa ia hanya ingin didengar, solusi tersebut pada akhirnya saya tahan dan tidak jadi saya sampaikan.
+> **Cecilia (Pembicara):** "Aku akhir-akhir ini lagi agak bingung dan kesulitan cari pasangan yang seiman, terutama selama masa perkuliahan ini. Kuliah di kampus negeri kan latar belakang mahasiswanya beragam banget. Seringkali aku nemu pribadi yang karakternya cocok dan nyambung, tapi sayangnya beda keyakinan."  
+> **Jose (Pendengar):** *(Menyimak dengan kontak mata terbuka, tanpa menyela)* "Jadi kalau aku tidak salah tangkap, kamu merasa bimbang karena di lingkungan kampus yang beragam ini, ketika kamu sudah menemukan seseorang yang secara kepribadian sangat nyambung dan cocok, perbedaan agama sering kali menjadi tembok penghalang utamanya ya?"  
+> **Cecilia:** "Iya, betul banget. Rasanya kayak buang-buang energi kalau diterusin tapi dari awal udah tahu bakal terbentur hal prinsip itu."  
+> **Jose:** "Sepertinya kamu merasa bingung dan sedikit frustrasi karena belum menemukan ruang atau komunitas yang tepat untuk bertemu kriteria yang sejalan ya? Dan kebutuhan utamamu sebenarnya adalah rasa aman secara spiritual serta kepastian adanya pendamping hidup yang seiman."  
+> **Cecilia:** "Iya, tepat banget rasanya."  
+> **Jose:** "Apakah saat ini kamu hanya ingin didengarkan saja, dibantu memikirkan pilihan tindakan bersama, atau kamu memerlukan saran dariku?"  
+> **Cecilia:** "Aku hanya ingin didengarkan saja kok, makasih ya udah ngertiin."
 
 ---
 
-### **BAGIAN C: Jurnal Refleksi Pasca-Latihan (Diisi Mandiri)**
-*Renungkan pengalaman ini secara jujur untuk mengubah pengetahuan menjadi kebiasaan:* [3.18, D.1, D.9]
+## 3. Analisis Listening, Boundary, dan Repair
 
-1. **Refleksi Kebiasaan Otomatis:** [3.18]
-   *Apakah di kehidupan nyata Anda lebih sering berusaha langsung "memperbaiki masalah" atau mendengarkan terlebih dahulu? Apa yang Anda rasakan ketika dipaksa "menahan diri" dari memberikan solusi selama latihan ini?*
-   *Jawab:*
-   Di kehidupan sehari-hari, saya sebenarnya sering kali lebih nyaman mengambil peran sekadar mendengarkan. Sepanjang apa pun cerita tersebut, saya paham bahwa mayoritas orang yang datang bercerita kepada saya sebenarnya hanya membutuhkan tempat untuk membuang keluh kesah atau melepaskan masalah yang dipendam. Saat diminta menahan diri di latihan ini, rasanya cukup natural bagi saya, meskipun otak rasional saya tetap memproses opsi solusi di latar belakang.
-
-2. **Memahami vs. Menyetujui:** [3.10, 3.18]
-   *Bagaimana latihan ini membantu Anda menyadari bahwa Anda bisa memahami dan memvalidasi perasaan seseorang secara mendalam tanpa harus menyetujui seluruh tindakan atau asumsi mereka?*
-   *Jawab:*
-   Melalui latihan ini, saya menyadari bahwa dengan memetakan kronologis cerita dan mendengarkan latar belakangnya, saya bisa melihat konteks utuh dari keputusan yang ia ambil. Saya mampu memvalidasi perasaannya ("wajar kamu merasa frustrasi dengan keterbatasan itu") meskipun pandangan personal saya terkait mencari pasangan mungkin berbeda.
-
-3. **Komitmen Langkah Pertumbuhan:** [9.1, B.2]
-   *Tuliskan satu komitmen perilaku spesifik dan terukur yang akan Anda latih dalam 14 hari ke depan bersama keluarga atau sahabat terdekat Anda!* 
-   *Jawab:*
-   Dalam 14 hari ke depan (dan seterusnya selama saya dipercaya menjadi tempat bercerita), saya berkomitmen untuk:
-   Secara sadar menggunakan "Pertanyaan Emas" di setiap awal atau akhir sesi curhat dengan pacar atau sahabat. Saya akan memastikan untuk mengklarifikasi apakah mereka hanya butuh ruang untuk didengarkan atau butuh saran teknis, alih-alih membiarkan solusi mengendap di pikiran saya tanpa divalidasi kebutuhannya.
+*   **Listening (Tiga Tingkat):** 
+    *   *Tingkat 1 (Kata):* Menangkap fakta objektif mengenai kesulitan mencari pasangan seiman di lingkungan kampus negeri yang heterogen.
+    *   *Tingkat 2 (Makna):* Melakukan *paraphrase* secara akurat untuk memastikan pemahaman terhadap dilema kecocokan personal vs perbedaan keyakinan.
+    *   *Tingkat 3 (Pribadi):* Menebak secara tentatif emosi (bingung/frustrasi) serta kebutuhan dasar (rasa aman secara spiritual dan kepastian pendamping hidup).
+*   **Boundary & Otonomi:** Menghormati batasan otonomi mitra sepenuhnya melalui "Pertanyaan Emas". Ketika mitra menyatakan hanya ingin didengarkan, peran sebagai pendengar dijaga secara konsisten tanpa memaksakan solusi atau saran teknis.
+*   **Repair & Kehadiran:** Mitra memberikan umpan balik bahwa tatapan mata yang fokus dan sikap mendengarkan tanpa interupsi memberikan rasa aman yang nyata. Secara internal, Jose berhasil menahan dorongan otomatis untuk langsung melompat memberikan saran/solusi.
 
 ---
 
-## IV. Rubrik Evaluasi Diri (Sesuai Standar Rubrik Universal Buku)
+## 4. Jurnal Refleksi Pasca-Latihan
 
-Gunakan rubrik di bawah ini untuk menilai performa Anda sendiri selama sesi latihan [3.17.1, C.2]. Berikan tanda centang ($\checkmark$) pada kolom tingkat kinerja yang paling menggambarkan tindakan Anda:
+1. **Refleksi Kebiasaan Otomatis:**  
+   Di kehidupan sehari-hari, saya sebenarnya lebih sering mengambil posisi sebagai pendengar karena paham bahwa orang yang bercerita umumnya hanya butuh tempat melepas penat. Saat dipaksa menahan diri sepenuhnya dalam latihan berstruktur ini, prosesnya terasa natural, meskipun otak rasional tetap memproses opsi solusi di latar belakang.
+2. **Memahami vs. Menyetujui:**  
+   Latihan ini memperkuat kesadaran bahwa kita bisa memvalidasi perasaan seseorang ("wajar kamu merasa frustrasi dengan keterbatasan lingkungan itu") secara mendalam tanpa harus menghakimi atau memaksakan pandangan personal kita terhadap pilihannya.
+3. **Komitmen Langkah Pertumbuhan (14 Hari ke Depan):**  
+   Dalam 14 hari ke depan (dan seterusnya), saya berkomitmen untuk secara sadar menggunakan "Pertanyaan Emas" di setiap awal atau akhir sesi curhat dengan pasangan atau sahabat, guna memastikan apakah mereka hanya butuh ruang untuk didengarkan atau memang memerlukan bantuan pemikiran.
 
-| Dimensi Penilaian | Awal (1) | Berkembang (2) | Cakap (3) | Unggul (4) |
-| :--- | :--- | :--- | :--- | :--- |
-| **1. Kehadiran & Menyimak Aktif** [C.2.1] | Menyiapkan bantahan, menyela cerita, atau sibuk melihat gawai/sekitar saat mitra berbicara. | Mendengarkan isi utama, tetapi perhatian sesekali teralih atau tidak fokus pada bahasa tubuh mitra. | Menyimak secara utuh tanpa interupsi, menunjukkan kontak mata yang hangat dan bahasa tubuh yang terbuka. | **(4)** $\checkmark$ Menghadirkan ruang hening yang aman, menangkap bahasa nonverbal, dan memberikan tanda penerimaan penuh. |
-| **2. Pemisahan Fakta & Interpretasi** [C.2.2] | Segera membuat kesimpulan sepihak tentang karakter mitra atau buru-buru menyodorkan label negatif. | Menyadari perbedaan fakta dan asumsi, tetapi parafrasa masih tercampur dengan penilaian pribadi. | **(3)** $\checkmark$ Mampu merangkum fakta cerita secara jernih dan melakukan parafrasa yang akurat tanpa bumbu asumsi. | Memisahkan fakta objektif dari emosi batin dengan sangat presisi, mengonfirmasikan parafrasa dengan rendah hati. |
-| **3. Pendalaman Rasa Ingin Tahu (Pertanyaan)** [C.2.3] | Mengajukan pertanyaan menuduh ("Kenapa kamu begitu?") atau memberikan interogasi beruntun. | Mengajukan pertanyaan yang berorientasi mengarahkan mitra menuju solusi yang Anda pikirkan. | Mengajukan maksimal 2 pertanyaan terbuka yang tulus membantu mitra mengeksplorasi perasaannya sendiri. | **(4)** $\checkmark$ Pertanyaan yang diajukan membuka lapis pemahaman baru bagi Pembicara tentang masalahnya sendiri secara sukarela. |
-| **4. Validasi Emosi & Otonomi** [C.2.5] | Mengabaikan perasaan mitra, meremehkannya ("gitu aja sedih"), atau langsung menjejalkan solusi sepihak. | Menamai emosi mitra secara umum tetapi buru-buru beralih ke agenda penyelesaian. | Memvalidasi emosi mitra secara tentatif dan menanyakan jenis bantuan yang diinginkan di akhir sesi. | **(4)** $\checkmark$ Validasi emosi terasa sangat hangat dan tulus; menghormati penuh otonomi mitra untuk menolak atau menerima saran. |
+---
 
-### **Penghitungan Nilai Evaluasi Diri:**
-$$\text{Nilai Akhir} = \left( \frac{15}{16} \right) \times 100$$
-*   *Skor Anda:* **15** / 16
-*   *Nilai Konversi:* **93.75** (Skala 100)
+## 5. Rubrik Evaluasi Diri (Self-Assessment)
+
+| Dimensi Penilaian | Skor | Evidence Singkat |
+| :--- | :---: | :---|
+| **1. Kehadiran & Menyimak Aktif** | 4 | Menyimak secara utuh tanpa interupsi, kontak mata hangat, dan bahasa tubuh terbuka. |
+| **2. Pemisahan Fakta & Interpretasi** | 3 | Merangkum fakta cerita secara jernih dan melakukan *paraphrase* akurat tanpa bumbu asumsi pribadi. |
+| **3. Pendalaman Rasa Ingin Tahu** | 4 | Mengajukan pertanyaan terbuka yang tulus membantu mitra mengeksplorasi perasaannya sendiri. |
+| **4. Validasi Emosi & Otonomi** | 4 | Memvalidasi emosi secara tentatif dan menghormati penuh otonomi mitra di akhir sesi lewat Pertanyaan Emas. |
+
+**Total Skor Mandiri:** **15 / 16 (Nilai Konversi: 93.75 / Skala 100)**
+
+---
+
+## 6. Self-Assessment Dimensi Portofolio
+
+| Dimensi | Skor | Evidence Singkat |
+|---|---:|---|
+| **Person & Character** | 3 | Kebutuhan kedua *person* (pendengar dan pembicara) serta dinamika relasi dikenali dengan baik. |
+| **Objective & State** | 3 | State awal (kebutuhan ruang aman bercerita) dan objective (mendengarkan tanpa memperbaiki) tercapai. |
+| **Repertoire, Language & AI** | 3 | Penerapan *observation, paraphrase, tentatif emotion check*, dan *golden question* dilakukan secara konsisten. |
+| **Response & Adaptation** | 3 | Respons pembicara ("hanya ingin didengarkan") diadaptasi secara tepat tanpa memaksakan saran. |
+| **Agreement, Action & Relationship** | 3 | Komitmen mendengarkan dan validasi emosi memperkuat ikatan kepercayaan (*trust*) dalam relasi. |
+
+**Total Skor Portofolio:** **15 / 20 — Kompeten.**
 
 {{< include ../includes/evidence-template.md >}}
