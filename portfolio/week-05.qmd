@@ -1,85 +1,130 @@
----
-title: "Relationship Conversation"
-week: 3
+title: "Professional Discovery Interview"
+week: 5
 status: "Siap dinilai"
+status: "Selesai"
 self_score: "15"
 assessor_score: "—"
-description: "Evidence listening, boundary, request, atau repair."
-categories: [Fondasi, Relationship]
----
+description: "Discovery menuju shared problem statement."
+@@ -10,8 +10,10 @@ categories: [Professional, Discovery]
 
-**Nama Praktikan:** Maximillian Jose Andreas Aditjandra  
-**Nama Mitra Latihan:** Cecilia Maura Ciptami  
-**Tanggal Pelaksanaan:** 27 September 2026  
+# LEMBAR KERJA PRAKTIS: WAWANCARA PENEMUAN KEBUTUHAN & FORMULA PERNYATAAN MASALAH PELANGGAN
+*Materi Pendamping Penugasan Bab 5: Rekan Kerja dan Pelanggan: Menciptakan Nilai Bersama*
 
----
-
-## 1. Konteks dan Relationship State
-
-**Konteks & Hubungan:** 
-Praktik dilakukan secara berpasangan untuk melatih keterampilan mendengarkan mendalam (*Active Listening* pada Tiga Tingkat: Kata, Makna, dan Pribadi) tanpa terjebak menjadi "pakar pemecah masalah" yang langsung menyodorkan saran. 
-
-**State sebelum percakapan:** Kepercayaan dan kedekatan terjaga baik, namun sering kali dalam perbincangan sehari-hari ada kecenderungan spontan untuk buru-buru memberi solusi teknis. Objective latihan ini adalah melatih kehadiran utuh, memvalidasi emosi, menghormati otonomi mitra, serta mengonfirmasi jenis bantuan apa yang benar-benar mereka butuhkan melalui "Pertanyaan Emas".
+**Nama Lengkap:** Maximillian Jose Andreas Aditjandra  
+**Tanggal Pengerjaan:** 27 September 2026
 
 ---
 
-## 2. Potongan Transkrip (Roleplay Tiga Tingkat Mendengarkan)
-
-> **Cecilia (Pembicara):** "Aku akhir-akhir ini lagi agak bingung dan kesulitan cari pasangan yang seiman, terutama selama masa perkuliahan ini. Kuliah di kampus negeri kan latar belakang mahasiswanya beragam banget. Seringkali aku nemu pribadi yang karakternya cocok dan nyambung, tapi sayangnya beda keyakinan."  
-> **Jose (Pendengar):** *(Menyimak dengan kontak mata terbuka, tanpa menyela)* "Jadi kalau aku tidak salah tangkap, kamu merasa bimbang karena di lingkungan kampus yang beragam ini, ketika kamu sudah menemukan seseorang yang secara kepribadian sangat nyambung dan cocok, perbedaan agama sering kali menjadi tembok penghalang utamanya ya?"  
-> **Cecilia:** "Iya, betul banget. Rasanya kayak buang-buang energi kalau diterusin tapi dari awal udah tahu bakal terbentur hal prinsip itu."  
-> **Jose:** "Sepertinya kamu merasa bingung dan sedikit frustrasi karena belum menemukan ruang atau komunitas yang tepat untuk bertemu kriteria yang sejalan ya? Dan kebutuhan utamamu sebenarnya adalah rasa aman secara spiritual serta kepastian adanya pendamping hidup yang seiman."  
-> **Cecilia:** "Iya, tepat banget rasanya."  
-> **Jose:** "Apakah saat ini kamu hanya ingin didengarkan saja, dibantu memikirkan pilihan tindakan bersama, atau kamu memerlukan saran dariku?"  
-> **Cecilia:** "Aku hanya ingin didengarkan saja kok, makasih ya udah ngertiin."
+> **“Produk yang canggih belum tentu bernilai. Nilai lahir ketika pengetahuan, pekerjaan, dan layanan sungguh-sungguh menjawab persoalan manusia.”**
+@@ -24,6 +26,19 @@ Sebagai calon profesional, kesalahan terbesar yang sering kita lakukan adalah **
 
 ---
 
-## 3. Analisis Listening, Boundary, dan Repair
+## 📝 FASE 1: RENCANA DISCOVERY & ASUMSI AWAL
 
-*   **Listening (Tiga Tingkat):** 
-    *   *Tingkat 1 (Kata):* Menangkap fakta objektif mengenai kesulitan mencari pasangan seiman di lingkungan kampus negeri yang heterogen.
-    *   *Tingkat 2 (Makna):* Melakukan *paraphrase* secara akurat untuk memastikan pemahaman terhadap dilema kecocokan personal vs perbedaan keyakinan.
-    *   *Tingkat 3 (Pribadi):* Menebak secara tentatif emosi (bingung/frustrasi) serta kebutuhan dasar (rasa aman secara spiritual dan kepastian pendamping hidup).
-*   **Boundary & Otonomi:** Menghormati batasan otonomi mitra sepenuhnya melalui "Pertanyaan Emas". Ketika mitra menyatakan hanya ingin didengarkan, peran sebagai pendengar dijaga secara konsisten tanpa memaksakan solusi atau saran teknis.
-*   **Repair & Kehadiran:** Mitra memberikan umpan balik bahwa tatapan mata yang fokus dan sikap mendengarkan tanpa interupsi memberikan rasa aman yang nyata. Secara internal, Jose berhasil menahan dorongan otomatis untuk langsung melompat memberikan saran/solusi.
-
----
-
-## 4. Jurnal Refleksi Pasca-Latihan
-
-1. **Refleksi Kebiasaan Otomatis:**  
-   Di kehidupan sehari-hari, saya sebenarnya lebih sering mengambil posisi sebagai pendengar karena paham bahwa orang yang bercerita umumnya hanya butuh tempat melepas penat. Saat dipaksa menahan diri sepenuhnya dalam latihan berstruktur ini, prosesnya terasa natural, meskipun otak rasional tetap memproses opsi solusi di latar belakang.
-2. **Memahami vs. Menyetujui:**  
-   Latihan ini memperkuat kesadaran bahwa kita bisa memvalidasi perasaan seseorang ("wajar kamu merasa frustrasi dengan keterbatasan lingkungan itu") secara mendalam tanpa harus menghakimi atau memaksakan pandangan personal kita terhadap pilihannya.
-3. **Komitmen Langkah Pertumbuhan (14 Hari ke Depan):**  
-   Dalam 14 hari ke depan (dan seterusnya), saya berkomitmen untuk secara sadar menggunakan "Pertanyaan Emas" di setiap awal atau akhir sesi curhat dengan pasangan atau sahabat, guna memastikan apakah mereka hanya butuh ruang untuk didengarkan atau memang memerlukan bantuan pemikiran.
+### **Initial Assumption & Rencana Wawancara**
+*   **Asumsi Awal (Jose):** Masalah utama pemilik UMKM *online* dalam mengelola biaya platform adalah persoalan matematis yang dapat diselesaikan dengan membangun sistem prediktif *Machine Learning* untuk memetakan pola pemotongan biaya admin.
+*   **Rencana Pertanyaan Discovery:**
+    1. Ceritakan terakhir kali Anda mengalami kendala terkait potongan biaya admin di platform *e-commerce*.
+    2. Pada bagian mana dari proses tersebut yang paling menghambat operasional atau strategi harga Anda?
+    3. Apa dampaknya terhadap margin keuntungan dan strategi penetapan harga produk (*pricing*) Anda?
+    4. Cara apa yang selama ini Anda gunakan untuk mengatasi atau mencari kejelasan informasi tersebut?
+    5. Constraint atau batasan apa (seperti birokrasi platform) yang harus dipertimbangkan?
 
 ---
 
-## 5. Rubrik Evaluasi Diri (Self-Assessment)
+## 📝 FASE 2: LEMBAR PENGERJAAN MAHASISWA
 
-| Dimensi Penilaian | Skor | Evidence Singkat |
-| :--- | :---: | :---|
-| **1. Kehadiran & Menyimak Aktif** | 4 | Menyimak secara utuh tanpa interupsi, kontak mata hangat, dan bahasa tubuh terbuka. |
-| **2. Pemisahan Fakta & Interpretasi** | 3 | Merangkum fakta cerita secara jernih dan melakukan *paraphrase* akurat tanpa bumbu asumsi pribadi. |
-| **3. Pendalaman Rasa Ingin Tahu** | 4 | Mengajukan pertanyaan terbuka yang tulus membantu mitra mengeksplorasi perasaannya sendiri. |
-| **4. Validasi Emosi & Otonomi** | 4 | Memvalidasi emosi secara tentatif dan menghormati penuh otonomi mitra di akhir sesi lewat Pertanyaan Emas. |
-
-**Total Skor Mandiri:** **15 / 16 (Nilai Konversi: 93.75 / Skala 100)**
+### 👥 1. Profil Narasumber (Disamarkan Demi Privasi)
+@@ -34,60 +49,44 @@ Sebagai calon profesional, kesalahan terbesar yang sering kita lakukan adalah **
 
 ---
 
-## 6. Self-Assessment Dimensi Portofolio
+### 📓 2. Log Catatan Wawancara (Gunakan 5 Pertanyaan Penemuan)
+### 📓 2. Log Catatan Wawancara (Menggunakan Potongan Transkrip)
 
-| Dimensi | Skor | Evidence Singkat |
-|---|---:|---|
-| **Person & Character** | 3 | Kebutuhan kedua *person* (pendengar dan pembicara) serta dinamika relasi dikenali dengan baik. |
-| **Objective & State** | 3 | State awal (kebutuhan ruang aman bercerita) dan objective (mendengarkan tanpa memperbaiki) tercapai. |
-| **Repertoire, Language & AI** | 3 | Penerapan *observation, paraphrase, tentatif emotion check*, dan *golden question* dilakukan secara konsisten. |
-| **Response & Adaptation** | 3 | Respons pembicara ("hanya ingin didengarkan") diadaptasi secara tepat tanpa memaksakan saran. |
-| **Agreement, Action & Relationship** | 3 | Komitmen mendengarkan dan validasi emosi memperkuat ikatan kepercayaan (*trust*) dalam relasi. |
+#### **Pertanyaan 1: Kejadian Nyata & Contoh Konkret**
+*   *Tuliskan pertanyaan Anda & contoh kasus nyata yang diceritakan narasumber:*
+    > **Kejadian:** Kak Aurel mengeluhkan pemotongan biaya admin dari platform *e-commerce* (Shopee) yang dirasa tidak transparan. Tidak ada rincian perhitungan atau dasar yang jelas mengenai persentase atau nominal biaya admin yang dibebankan kepada tokonya di setiap transaksi.
 
-**Total Skor Portofolio:** **15 / 20 — Kompeten.**
+#### **Pertanyaan 2: Dampak Nyata & Beban Masalah**
+*   *Tuliskan dampak langsung dari masalah tersebut terhadap pekerjaan, waktu, atau perasaan mereka:*
+    > **Dampak:** Margin keuntungan UMKM menjadi tidak menentu dan berisiko tergerus. Sebagai kompensasinya, Kak Aurel terpaksa harus sedikit menaikkan harga jual produk secara mendadak demi menutup biaya admin yang tidak bisa diprediksi tersebut.
+
+#### **Pertanyaan 3: Pemetaan Pihak Terdampak**
+*   *Siapa saja pribadi dan peran yang ikut terganggu oleh peristiwa ini?*
+    > **Pihak Terdampak:** Selain *seller* (penjual) yang kebingungan mengatur strategi harga, *customer* (pembeli) ikut menjadi korban karena harus membeli produk *skincare* dengan harga yang lebih mahal dari seharusnya.
+
+#### **Pertanyaan 4: Gambaran Keadaan yang Lebih Baik (Hasil Akhir, Bukan Fitur)**
+*   *Bagaimana situasi ideal yang diharapkan? Ingat: Fokus pada KEMAMPUAN narasumber, bukan teknologi digitalnya.*
+    > **Situasi Ideal:** Kak Aurel mengharapkan adanya transparansi dan kejelasan variabel penentu biaya admin dari awal. Dengan begitu, *seller* paham dasar penentuannya dan mampu melakukan penyesuaian strategi harga ke depannya agar tidak memberatkan pembeli.
+
+#### **Pertanyaan 5: Batasan & Kendala Lapangan**
+*   *Apa saja kendala nyata dari segi waktu, biaya, kebijakan, atau kemampuan yang membatasi solusi mereka?*
+    > **Kendala:** Adanya birokrasi *e-commerce* yang tertutup. Saat Kak Aurel menghubungi *Customer Service* (CS), pihak CS tidak dapat membeberkan cara perhitungan atau variabelnya dengan alasan "aturan kerahasiaan dan keamanan data perusahaan."
+> **Jose:** "Kak, boleh ceritakan pengalaman pas kena potong biaya admin di Shopee kemarin? Gimana rasanya waktu tahu nominalnya nggak sesuai ekspektasi?"  
+> **Kak Aurel:** "Iya, itu yang bikin pusing. Pemotongan biaya adminnya dirasa nggak transparan. Tiba-tiba persentasenya berubah atau kepotong besar tanpa ada rincian perhitungan atau dasar yang jelas di setiap transaksi."  
+> **Jose:** "Jadi masalah utamanya ada di ketidakjelasan variabel perhitungannya ya, Kak? Seberapa sering hal itu bikin margin keuntungan kegeser?"  
+> **Kak Aurel:** "Banget! Margin jadi nggak menentu. Terpaksa aku harus sedikit menaikkan harga jual produk secara mendadak demi menutup biaya admin yang nggak bisa diprediksi itu, dan itu bikin pembeli komplain."  
+> **Jose:** "Waktu Kak Aurel coba tanya ke *Customer Service* (CS), respons mereka gimana?"  
+> **Kak Aurel:** "Pernah aku tanyain, tapi CS nggak bisa bantu karena alasan 'aturan kerahasiaan dan keamanan data perusahaan'. Formula perhitungannya dikunci total."
+
+---
+
+## ✒️ FASE 3: FORMULASI PERNYATAAN MASALAH PELANGGAN
+## ✒️ FASE 3: FORMULASI PERNYATAAN MASALAH PELANGGAN (*SHARED PROBLEM STATEMENT*)
+
+### 📐 Formula Standar:
+> **`[Pribadi/Peran]` mengalami `[keadaan yang dapat diamati]` ketika `[konteks]`, sehingga `[dampak]`. Ia membutuhkan `[hasil/kemampuan]`, dengan mempertimbangkan `[kendala]`.**
+
+### ✍️ Draft 1: Pernyataan Masalah Awal (Sebelum Konfirmasi)
+*Susun draf pertama Anda setelah selesai mewawancarai narasumber:*
+> Pemilik UMKM *online* mengalami pemotongan biaya admin yang tiba-tiba dan tidak memiliki rincian pasti ketika berjualan di platform *e-commerce*, sehingga ia terpaksa menaikkan harga barang yang membebani pembeli. Ia membutuhkan transparansi perhitungan agar bisa menyesuaikan harga dengan stabil, dengan mempertimbangkan kendala bahwa *Customer Service* dilarang membeberkan variabel perhitungan tersebut dengan alasan rahasia perusahaan.
+
+### 🔄 Draft 2: Pernyataan Masalah Terkonfirmasi (Setelah Konfirmasi)
+*Bacakan draf pertama Anda kepada narasumber, minta masukan mereka ("Apakah rumusan ini menggambarkan situasi Anda?"), dan tulis perbaikannya di bawah ini berdasarkan koreksi narasumber:*
+> *(Simulasi perbaikan agar lebih tajam pada aspek prediksi):*
+### 🔄 Draft 2: Pernyataan Masalah Terkonfirmasi (*Shared Problem Statement* bersama Kak Aurel)
+> Pemilik UMKM *online* mengalami pemotongan biaya admin yang tidak transparan dan bervariasi ketika memproses transaksi di *e-commerce*, sehingga margin keuntungannya tergerus dan terpaksa membebankan kenaikan harga pada pembeli. Ia membutuhkan kemampuan untuk mengetahui dasar variabel potongan secara pasti agar dapat merancang strategi harga (*pricing*) yang stabil ke depan, dengan mempertimbangkan kendala birokrasi platform tertutup yang mengunci formula perhitungan sebagai data rahasia perusahaan.
+
+*(Kak Aurel mengonfirmasi bahwa rumusan ini secara tepat menangkap inti masalah operasionalnya tanpa terjebak pada janji solusi instan).*
+
+---
+
+## 🎯 FASE 4: REFLEKSI INTRAPRIBADI
+Tuliskan refleksi singkat Anda (100–150 kata) mengenai proses wawancara ini:
+## 🎯 FASE 4: REFLEKSI INTRAPRIBADI & ANALISIS BATAS
+
+1. *Seberapa cepat Anda menahan ego untuk tidak langsung menawarkan solusi teknologi di awal percakapan?*
+1. **Seberapa cepat Anda menahan ego untuk tidak langsung menawarkan solusi teknologi di awal percakapan?**  
+   Selama mendengarkan, pikiran saya sebagai mahasiswa Komputasi langsung bekerja memikirkan solusi (*over-directing*). Insting awal saya adalah ingin menyodorkan ide: *"Kenapa nggak kita buatkan sistem prediktif pakai Machine Learning saja untuk menghitung pola adminnya?"* Namun, saya memilih diam dan mendengarkan keluhannya sampai habis.
+2. *Asumsi awal apa yang Anda miliki yang ternyata terbukti keliru atau berubah setelah mendengarkan penjelasan narasumber secara utuh?*
+   Asumsi saya terbukti keliru. Saya berpikir masalah ini murni persoalan matematis yang bisa diselesaikan teknologi prediktif (AI). Ternyata akar masalahnya ada di **birokrasi dan kebijakan tertutup**. Sistem *Machine Learning* terhebat pun akan sulit dibangun jika kita tidak diberi akses terhadap variabel/paramater dasar pengukurannya dari pihak *e-commerce*. 
+3. *Janji atau langkah kecil apa yang harus segera Anda tepati untuk menjaga kepercayaan profesional dengan narasumber ini?*
+2. **Asumsi awal apa yang Anda miliki yang ternyata terbukti keliru atau berubah setelah mendengarkan penjelasan narasumber secara utuh?**  
+   Asumsi saya terbukti keliru. Saya berpikir masalah ini murni persoalan matematis yang bisa diselesaikan teknologi prediktif (AI). Ternyata akar masalahnya ada di **birokrasi dan kebijakan tertutup**. Sistem *Machine Learning* terhebat pun akan sulit dibangun jika kita tidak diberi akses terhadap variabel/parameter dasar pengukurannya dari pihak *e-commerce*. 
+3. **Janji atau langkah kecil apa yang harus segera Anda tepati untuk menjaga kepercayaan profesional dengan narasumber ini?**  
+   Saya harus menepati janji untuk tidak membocorkan identitas tokonya ke publik demi menjaga kelangsungan bisnisnya di platform tersebut. Selain itu, saya berjanji tidak akan menyodorkan "solusi teknis palsu" yang sebenarnya tidak bisa diterapkan (*infeasible*) akibat blokade birokrasi tersebut.
+
+---
+
+## 📊 FASE 5: RUBRIK PENILAIAN MANDIRI (SELF-ASSESSMENT)
+Evaluasi lembar kerja Anda secara jujur menggunakan kriteria rubrik Bab 5 berikut sebelum dikumpulkan ke dalam portofolio Anda.
+
+| Kriteria Evaluasi | ⭐ Belum Tampak (Skor < 60) | ⭐⭐ Mulai Berkembang (Skor 60-79) | ⭐⭐⭐ Cakap / Unggul (Skor 80-100) | Skor Mandiri |
+| :--- | :--- | :--- | :--- | :--- |
+@@ -96,4 +95,13 @@ Evaluasi lembar kerja Anda secara jujur menggunakan kriteria rubrik Bab 5 beriku
+| **Etika & Penjagaan Privasi** | Data pribadi dikumpulkan berlebihan, tidak meminta izin narasumber, atau memaksa narasumber. | Meminta izin umum, namun belum menyamarkan identitas atau kurang peka pada data sensitif. | Persetujuan diperoleh secara sukarela, privasi dijaga ketat dengan samaran, dan martabat narasumber sangat dihormati. | **⭐⭐⭐ (90)** |
+| **Keandalan & Hubungan** | Memberikan janji manis berlebihan atau kepastian palsu yang tidak masuk akal demi menyenangkan narasumber. | Menyatakan batas secara umum namun tindak lanjutnya masih mengambang. | Jujur menyatakan batas kemampuan serta memberikan kejelasan langkah dan waktu tindak lanjut berikutnya. | **⭐⭐⭐ (85)** |
 
 {{< include ../includes/evidence-template.md >}}
+**Self-Assessment Dimensi Penilaian Tambahan:**
+| Dimensi | Skor | Evidence Singkat |
+|---|---:|---|
+| **Person & Character** | 3 | Pengalaman dan *constraint* pelaku UMKM dipetakan secara nyata |
+| **Objective & State** | 3 | Asumsi awal (pembuatan AI prediktif) diperbarui menjadi *problem statement* berbasis birokrasi tertutup |
+| **Repertoire, Language & AI** | 3 | Pertanyaan terbuka, parafrase, konfirmasi, dan pemanfaatan AI secara terbatas untuk memetakan fakta/asumsi |
+| **Response & Adaptation** | 3 | Menahan solusi teknis awal setelah mendengarkan batasan kebijakan CS |
+| **Agreement, Action & Relationship** | 3 | *Problem statement* dikonfirmasi bersama Kak Aurel; komitmen penjagaan privasi terjaga |
+
+**Total Skor Mandiri:** **15 / 20 — Kompeten.**
