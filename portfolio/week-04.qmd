@@ -1,6 +1,6 @@
 ---
 title: "Intra-Self Communication Journal"
-week: 2
+week: 4
 status: "Siap Dinilai"
 self_score: "19"
 assessor_score: "—"
@@ -10,62 +10,68 @@ categories: [Fondasi, Intra-Self]
 
 ## Episode
 
-**Peristiwa:** Seorang rekan tim lomba bisnis mengutarakan keinginan untuk merombak ide dasar perlombaan ketika progres pengerjaan dokumen kami sudah mencapai sekitar 75%.
+**Peristiwa:** Seorang rekan tim dalam lomba ide bisnis mengusulkan untuk merombak ide dasar ketika progres pengerjaan dokumen sudah mencapai sekitar 75%.
 
 | Lapisan | Catatan Jose |
 |---|---|
-| Fact | Rekan tim menyampaikan keinginan untuk merombak ide dasar ketika progres dokumen sudah mencapai sekitar 75%. Saya merespons dengan menanyakan kembali maksudnya dan solusi spesifik yang ia tawarkan. |
-| Initial story | “Dia meragukan kapabilitas saya dalam lomba ideasi bisnis karena ide awal tim merupakan hasil brainstorming saya.” Saya juga menyalahkan diri sendiri karena merasa tidak enakan untuk langsung menolak usulannya yang menurut saya kurang masuk akal dengan waktu yang tersisa. |
+| Fact | Rekan tim menyampaikan keinginan untuk merombak ide dasar ketika progres dokumen sudah mencapai sekitar 75%. Saya merespons dengan menanyakan maksud dan solusi spesifik yang ia tawarkan. |
+| Initial story | “Dia meragukan kapabilitas saya dalam ideasi bisnis karena ide awal tim merupakan hasil brainstorming saya.” Saya juga menyalahkan diri sendiri karena merasa tidak enakan untuk langsung menolak usulan yang menurut saya kurang masuk akal dengan waktu yang tersisa. |
 | Emotion/body signal | Sedih, kecewa, dan kesal dengan intensitas 7/10. Saya merasa murung, kehilangan energi, dan terdiam menatap layar laptop dengan tatapan kosong. |
 | Reactive character | “Victim” yang merasa terpojok, tidak berdaya, dan cenderung memendam kekesalan karena tidak enak menolak usulan rekan. |
-| Desired character | “Growth Leader” yang mampu mengendalikan emosi, memahami tujuan bersama, dan mencari solusi yang tetap realistis terhadap waktu dan progres tim. |
+| Desired character | “Growth Leader” yang mampu mengendalikan emosi, memahami tujuan bersama, dan mencari solusi realistis tanpa mengorbankan hubungan maupun progres tim. |
 
-Initial story melampaui fakta. Rekan memang mengusulkan perubahan terhadap ide, tetapi hal tersebut belum membuktikan bahwa ia meragukan kemampuan saya secara personal. Ia juga mungkin mengkhawatirkan daya saing ide dan ingin meningkatkan peluang tim untuk menang.
+Initial story saya belum tentu sesuai dengan fakta. Rekan memang mengusulkan perubahan terhadap ide, tetapi hal tersebut tidak otomatis berarti ia meragukan kemampuan saya. Ada kemungkinan ia justru mengkhawatirkan daya saing ide dan ingin meningkatkan peluang tim untuk lolos atau menang.
 
 ## Alternative narratives
 
-1. **Team concern:** Rekan mungkin mempertanyakan ide karena khawatir konsep tersebut belum cukup kompetitif untuk lolos atau menang, bukan karena meragukan kemampuan saya.
-2. **Risk-management:** Keinginan merombak ide pada progres 75% dapat dipandang sebagai persoalan risiko, waktu, dan kualitas hasil akhir, bukan sebagai konflik personal.
+1. **Team concern:** Rekan mungkin mempertanyakan ide karena khawatir konsep tersebut belum cukup kompetitif, bukan karena menyerang kemampuan saya secara personal.
+2. **Risk-management:** Usulan perombakan pada progres 75% dapat dilihat sebagai persoalan risiko, waktu, dan kualitas hasil akhir, bukan semata-mata konflik personal.
 3. **Growth opportunity:** Ketidaksepakatan ini dapat menjadi kesempatan untuk melatih kontrol emosi, komunikasi asertif, dan pengambilan keputusan dalam kondisi tekanan waktu.
 
-Alternative ketiga paling berguna karena tetap mengakui bahwa situasinya sulit dan mengecewakan, tetapi mengubah fokus dari perasaan diserang menjadi tindakan yang masih dapat saya kendalikan. Tujuan saya bukan sekadar mempertahankan ide awal, tetapi memastikan keputusan tim tetap rasional dan mendukung peluang untuk menang.
+Alternative yang paling membantu adalah melihat situasi sebagai **masalah bersama yang perlu diselesaikan**, bukan sebagai serangan terhadap ide atau kemampuan pribadi saya. Saya tetap dapat mengakui bahwa perubahan total pada tahap ini berisiko, tetapi tidak perlu langsung menolak kekhawatiran rekan.
+
+Dengan perspektif tersebut, pilihan saya tidak lagi terbatas pada “mempertahankan ide” atau “mengganti ide secara total”. Saya dapat mencari bentuk **iterasi ide** yang mempertahankan fondasi pekerjaan yang sudah selesai sekaligus menjawab kekhawatiran mengenai daya saing.
 
 ## Internal conversation dan agreement
 
-> **Victim:** “Pasrah sajalah, mungkin ideku memang kurang bagus. Tapi kesal sekali karena waktunya sudah sangat mepet, kenapa baru bilang sekarang?”
+> **Victim:** “Pasrah sajalah, mungkin ideku memang kurang bagus. Tapi kesal sekali karena waktunya sudah sangat mepet. Kenapa baru bilang sekarang?”
 >
 > **Growth Leader:** “Tujuannya kan sama-sama ingin menang. Membongkar total di progres 75% memang terlalu berisiko, tetapi kekhawatirannya juga tidak bisa diabaikan. Coba cari titik tengahnya.”
 >
-> **Jose:** “Saya tidak akan sekadar menolak secara emosional. Saya akan mengajak diskusi terbuka, memahami alasan kekhawatirannya, menjelaskan risiko perombakan total, dan menawarkan penyesuaian atau iterasi ide.”
+> **Jose:** “Saya tidak akan sekadar menolak secara emosional. Saya akan memahami alasan kekhawatirannya, menjelaskan risiko perombakan total, lalu menawarkan penyesuaian atau iterasi ide.”
 
-**Internal agreement:** Saya akan menenangkan diri sebelum mengambil keputusan final, memahami alasan rekan saya, lalu mengajak berdiskusi secara terbuka. Saya akan menawarkan penyesuaian ide, bukan perombakan total, dengan mempertimbangkan progres 75% dan waktu pengumpulan dokumen yang sudah dekat.
+**Internal agreement:** Saya akan menenangkan diri sebelum mengambil keputusan, memahami alasan rekan, dan mengajak berdiskusi secara terbuka. Saya tidak akan langsung menolak ataupun menerima perombakan total, tetapi akan mencari alternatif yang tetap mempertimbangkan progres 75%, waktu yang tersisa, dan tujuan tim untuk menghasilkan karya yang kompetitif.
 
 ## Evidence tindakan
 
-Jose tidak langsung menolak usulan rekan meskipun merasa kecewa dan kesal. Ia mengambil jeda untuk meredakan reaktivitas sebelum melanjutkan pembicaraan dan mencoba melihat situasi dari sudut pandang rekan.
+Ketika menerima usulan tersebut, saya tidak langsung menolak meskipun merasa kecewa dan kesal. Saya mengambil jeda untuk mengurangi reaktivitas sebelum menentukan cara merespons.
 
-Dalam percakapan, Jose mengakui kekhawatiran rekan mengenai daya saing ide terlebih dahulu sebelum menjelaskan bahwa perombakan total pada progres 75% memiliki risiko besar terhadap deadline. Sebagai jalan tengah, Jose menawarkan **iterasi ide**, yaitu mempertahankan dasar konsep yang sudah dikerjakan sambil menyesuaikan fitur atau penyampaiannya agar lebih kompetitif.
+Saya kemudian menggunakan *sounding board* dengan orang terdekat untuk menguji apakah cara penyampaian yang saya rencanakan terlalu defensif atau berpotensi membuat rekan merasa diserang. Dari proses tersebut, saya mendapatkan masukan untuk mengakui kekhawatiran rekan terlebih dahulu sebelum menjelaskan risiko dari perombakan total.
 
-Respons tersebut membuat diskusi bergeser dari pilihan “mempertahankan ide atau mengganti total” menjadi pilihan yang lebih realistis, yaitu mempertahankan fondasi ide dan memperbaiki bagian yang dianggap masih kurang.
+Dalam diskusi dengan rekan, saya menyampaikan bahwa saya memahami kekhawatirannya terhadap daya saing ide. Setelah itu, saya menjelaskan bahwa perombakan total pada progres 75% memiliki risiko besar terhadap deadline dan pekerjaan yang sudah selesai. Sebagai jalan tengah, saya menawarkan **iterasi ide**, yaitu mempertahankan fondasi konsep yang sudah dibuat sambil menyesuaikan fitur atau cara penyampaiannya agar lebih kompetitif.
+
+Dengan cara tersebut, saya tidak hanya mempertahankan pendapat sendiri, tetapi mengubah konflik menjadi proses pencarian solusi bersama. Fokus diskusi bergeser dari “siapa yang benar” menjadi “bagaimana ide ini dapat diperbaiki tanpa mengorbankan progres dan deadline”.
 
 ## Feedback, AI, dan refleksi
 
-Feedback utama dari situasi ini adalah bahwa respons awal saya terlalu mudah menghubungkan kritik terhadap ide dengan penilaian terhadap kemampuan pribadi. Setelah mengambil jarak dari reaksi tersebut, saya menyadari bahwa kekhawatiran rekan dapat berasal dari kepeduliannya terhadap hasil akhir tim.
+Feedback yang saya dapat dari situasi ini adalah bahwa saya cenderung menghubungkan kritik terhadap ide dengan penilaian terhadap kemampuan pribadi. Reaksi tersebut membuat saya merasa terpojok dan memilih untuk memendam kekesalan. Setelah mengambil jarak dari reaksi awal, saya menyadari bahwa kritik terhadap ide tidak selalu berarti kritik terhadap diri saya.
 
-Saya juga menggunakan pihak terdekat sebagai *sounding board* untuk memeriksa apakah cara penyampaian yang saya rencanakan terdengar terlalu defensif atau menghakimi. Masukan yang diberikan membantu saya mengubah urutan komunikasi: mengakui kekhawatiran rekan terlebih dahulu, kemudian menjelaskan risiko, lalu menawarkan alternatif.
+Penggunaan *sounding board* juga membantu saya melihat bahwa cara menyampaikan respons sama pentingnya dengan isi respons. Daripada langsung mengatakan bahwa perubahan tersebut tidak masuk akal, saya perlu menunjukkan bahwa kekhawatiran rekan dipahami terlebih dahulu. Setelah itu, saya dapat menjelaskan risiko secara objektif dan menawarkan alternatif yang masih memungkinkan.
 
-AI tidak digunakan sebagai sumber bukti tindakan dalam kasus ini. Karena tidak terdapat bukti fisik penggunaan AI, aspek AI tidak saya klaim sebagai bagian utama dari proses dan skor dimensi ini tidak dimaksimalkan.
+Dari pengalaman ini, saya belajar bahwa komunikasi asertif bukan berarti selalu mempertahankan pendapat sendiri. Komunikasi asertif berarti mampu menyampaikan batas, risiko, dan kebutuhan secara jelas sambil tetap memberi ruang bagi sudut pandang orang lain.
 
-**Next practice:** ketika menerima usulan atau kritik yang berpotensi memicu reaksi emosional, saya akan terlebih dahulu memisahkan `fact`, `story`, dan `next action`, kemudian mencari minimal satu interpretasi alternatif sebelum menentukan respons.
+AI tidak saya jadikan sebagai bukti utama dalam proses ini karena tidak terdapat bukti fisik penggunaan AI yang dapat diverifikasi. Oleh karena itu, aspek AI tidak saya klaim sebagai evidence dan skor pada dimensi ini tidak saya maksimalkan.
+
+**Next practice:** ketika menghadapi kritik atau usulan yang memicu reaksi emosional, saya akan memisahkan `fact`, `story`, dan `next action`, kemudian mencari minimal satu interpretasi alternatif sebelum memberikan respons.
 
 ## Self-assessment
 
 | Dimensi | Skor | Evidence singkat |
 |---|---:|---|
-| Person & Character | 4 | Karakter “Victim” dan “Growth Leader” dibedakan sebagai pilihan respons. Saya mampu mengenali kecenderungan untuk pasrah dan memendam kekesalan, lalu secara sadar memilih peran yang lebih konstruktif. |
-| Objective & State | 4 | Kondisi emosional dan fisik dikenali secara spesifik, kemudian reaction berupa murung dan pasrah diarahkan menjadi state yang lebih tenang, rasional, dan berorientasi pada penyelesaian masalah. |
-| Repertoire, Language & AI | 3 | Menggunakan jeda emosional, komunikasi asertif, dan *sounding board* untuk menyesuaikan cara berkomunikasi. Namun, tidak terdapat bukti fisik penggunaan AI sehingga dimensi ini tidak dimaksimalkan. |
-| Response & Adaptation | 4 | Interpretasi awal berubah dari kemungkinan serangan personal menjadi kemungkinan kepedulian terhadap daya saing tim. Perubahan perspektif tersebut menghasilkan strategi baru berupa iterasi ide daripada perombakan total. |
+| Person & Character | 4 | Saya mampu membedakan karakter “Victim” yang cenderung pasrah dan memendam kekesalan dengan “Growth Leader” yang memilih mengendalikan emosi, memahami tujuan bersama, dan mencari solusi realistis. |
+| Objective & State | 4 | Saya mengenali kondisi emosional dan fisik secara spesifik, kemudian mengubah state dari reaktif dan murung menjadi lebih tenang, rasional, dan berorientasi pada penyelesaian masalah. |
+| Repertoire, Language & AI | 3 | Menggunakan jeda emosional, komunikasi asertif, dan *sounding board* untuk menyesuaikan cara berkomunikasi. Namun, tidak terdapat bukti fisik penggunaan AI sehingga aspek AI tidak dapat diverifikasi dan dimensi ini tidak dimaksimalkan. |
+| Response & Adaptation | 4 | Saya mengubah interpretasi dari kemungkinan serangan personal menjadi kemungkinan kepedulian terhadap daya saing tim. Perubahan perspektif tersebut menghasilkan strategi baru berupa iterasi ide daripada perombakan total. |
 | Agreement, Action & Relationship | 4 | *Internal agreement* menghasilkan tindakan konkret berupa diskusi terbuka dan kompromi. Solusi mempertahankan progres yang sudah ada, mengakomodasi kekhawatiran rekan, dan menjaga hubungan kerja dalam tim. |
 
 **Total Skor Mandiri:** **19 / 20 — Sangat Kompeten.**
