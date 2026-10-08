@@ -1,83 +1,105 @@
 ---
-title: "Professional Discovery Interview"
+title: "Intra-Self Communication Journal"
 week: 5
-status: "Siap dinilai"
+status: "Siap Dinilai"
 self_score: "19"
 assessor_score: "—"
-description: "Discovery menuju shared problem statement."
-categories: [Professional, Discovery]
+description: "Evidence perubahan dari asumsi awal menuju pemahaman masalah bersama."
+categories: [Fondasi, Intra-Self]
 ---
 
 ## Episode
 
-**Peristiwa:** Saya melakukan wawancara discovery dengan Kak Aurel, seorang pemilik UMKM *online*, untuk memahami masalah yang dihadapi dalam mengelola biaya admin pada platform *e-commerce*. Pada awalnya, saya mengasumsikan bahwa masalah tersebut terutama merupakan persoalan matematis yang dapat diselesaikan dengan sistem prediktif *Machine Learning*. Namun, hasil wawancara menunjukkan bahwa persoalan utamanya justru berkaitan dengan ketidaktransparanan biaya admin dan keterbatasan informasi dari pihak platform.
+**Peristiwa:** Saya menemukan adanya ketidakjelasan mengenai biaya admin pada proses berjualan melalui Shopee. Kondisi tersebut membuat saya mempertanyakan apakah masalah utama yang terjadi berasal dari kurangnya informasi, kurangnya transparansi, atau dari cara penjual memahami struktur biaya yang berlaku.
 
 | Lapisan | Catatan Jose |
 |---|---|
-| Fact | Kak Aurel mengalami pemotongan biaya admin dari platform *e-commerce* (Shopee) yang dirasa tidak transparan. Tidak terdapat rincian atau dasar yang jelas mengenai persentase maupun nominal biaya yang dibebankan pada setiap transaksi. |
-| Initial assumption | “Masalah utama ini adalah persoalan matematis yang dapat diselesaikan dengan sistem prediktif *Machine Learning* untuk memetakan pola pemotongan biaya admin.” |
-| Impact | Ketidakpastian biaya admin membuat margin keuntungan menjadi tidak menentu. Kak Aurel kemudian perlu menaikkan harga jual untuk menutup biaya tersebut, sehingga pembeli dapat merasa terbebani. |
-| Constraint | Ketika mencoba meminta penjelasan kepada *Customer Service* (CS), Kak Aurel tidak memperoleh formula atau variabel perhitungan karena adanya kebijakan kerahasiaan dan keamanan data perusahaan. |
-| Desired state | Kak Aurel membutuhkan transparansi dan kejelasan mengenai dasar penentuan biaya admin agar dapat memperkirakan biaya dan menyusun strategi *pricing* dengan lebih stabil. |
+| Fact | Terdapat biaya admin pada transaksi Shopee yang memengaruhi pendapatan penjual, sementara informasi mengenai struktur dan dampaknya tidak selalu langsung dipahami oleh penjual. |
+| Initial story | “Penjual dirugikan karena Shopee tidak transparan mengenai biaya admin.” Saya pada awalnya cenderung melihat masalah ini sebagai persoalan transparansi dari pihak platform. |
+| Emotion/body signal | Saya merasa bingung dan cukup kesal karena terdapat selisih antara ekspektasi pendapatan dengan hasil yang diterima setelah adanya biaya. Kondisi tersebut membuat saya terdorong untuk segera mencari pihak yang dianggap bertanggung jawab. |
+| Reactive character | “Victim” yang langsung melihat masalah sebagai sesuatu yang dilakukan pihak lain terhadap penjual dan cenderung mencari penyebab dari luar diri sendiri. |
+| Desired character | “Growth Leader” yang mampu menahan asumsi awal, memeriksa informasi yang tersedia, memahami perspektif pihak lain, dan merumuskan masalah secara lebih objektif. |
 
-Asumsi awal saya ternyata terlalu cepat mengarahkan masalah ke solusi teknologi. Wawancara menunjukkan bahwa sebelum membicarakan solusi, saya perlu memahami terlebih dahulu akar masalah, pihak yang terdampak, serta batasan yang benar-benar ada di lapangan.
+Setelah memisahkan fakta dari interpretasi, saya menyadari bahwa pernyataan “Shopee tidak transparan” masih merupakan asumsi. Adanya biaya admin memang merupakan fakta, tetapi kesimpulan bahwa masalah utamanya adalah ketidaktransparanan perlu diuji lebih lanjut.
 
-## Alternative narratives
+## Testing Initial Assumption
 
-1. **Technology-first:** Masalah dapat dipandang sebagai persoalan matematis yang dapat diselesaikan dengan sistem prediktif *Machine Learning*.
-2. **Problem-first:** Masalah utama bukan sekadar menghitung biaya admin, tetapi ketidaktersediaan informasi mengenai variabel yang menentukan biaya tersebut.
-3. **Constraint-aware:** Solusi teknologi tidak dapat langsung menjadi jawaban apabila sumber informasi utama masih tertutup oleh kebijakan platform.
+Saya kemudian mencoba melihat masalah dari beberapa kemungkinan perspektif.
 
-Alternative kedua dan ketiga lebih sesuai dengan hasil discovery. Saya menyadari bahwa solusi yang terlihat canggih belum tentu menjawab masalah sebenarnya. Bahkan sistem *Machine Learning* yang baik akan sulit bekerja apabila data dan parameter dasar yang dibutuhkan tidak dapat diakses.
+Pertama, masalah dapat berasal dari **kurangnya pemahaman penjual terhadap struktur biaya**. Penjual mungkin mengetahui bahwa terdapat biaya admin, tetapi tidak memahami bagaimana biaya tersebut dihitung atau bagaimana perubahan biaya memengaruhi margin keuntungan.
 
-Dengan demikian, fokus saya bergeser dari **“teknologi apa yang dapat dibuat?”** menjadi **“kemampuan apa yang sebenarnya dibutuhkan oleh narasumber dalam menghadapi masalah ini?”**
+Kedua, masalah dapat berasal dari **informasi yang sulit dipahami atau tersebar dalam beberapa bagian**, sehingga penjual kesulitan memperoleh gambaran mengenai total biaya yang sebenarnya.
 
-## Internal conversation dan agreement
+Ketiga, masalah juga dapat dilihat dari sisi **keterbatasan sistem atau aturan platform**. Penjual tidak memiliki kendali penuh terhadap besarnya biaya yang ditetapkan, sehingga keputusan bisnis mereka harus menyesuaikan dengan aturan platform.
 
-> **Initial Jose:** “Masalahnya kelihatannya matematis. Kenapa tidak dibuat sistem prediktif menggunakan *Machine Learning* untuk menghitung pola biaya admin?”
+Dari pengujian tersebut, saya tidak lagi melihat masalah hanya sebagai “Shopee merugikan penjual”. Saya mulai melihat adanya hubungan antara **informasi biaya, pemahaman penjual, dan keterbatasan platform**.
+
+## Objective & State
+
+Tujuan awal saya adalah memahami mengapa penjual dapat merasa dirugikan oleh biaya admin dan faktor apa yang sebenarnya dapat dikendalikan.
+
+State awal saya cukup reaktif karena saya langsung menghubungkan biaya admin dengan ketidaktransparanan. Setelah melakukan pengujian terhadap asumsi tersebut, state saya berubah menjadi lebih analitis.
+
+Saya menyadari bahwa tidak semua faktor berada dalam kendali penjual. Penjual tidak dapat secara langsung mengubah kebijakan biaya platform, tetapi masih dapat mengendalikan cara menghitung margin, menentukan harga, memilih strategi penjualan, dan memahami dampak biaya terhadap keuntungan.
+
+Dengan demikian, fokus saya bergeser dari mencari pihak yang salah menjadi memahami **bagaimana masalah biaya dapat dikelola oleh penjual dalam batasan sistem yang ada**.
+
+## Alternative Narratives
+
+1. **Information gap:** Masalah tidak selalu berarti informasi sengaja disembunyikan, tetapi dapat terjadi karena informasi biaya belum dipahami dengan baik oleh penjual.
+2. **Business constraint:** Biaya admin merupakan salah satu constraint dalam menjalankan bisnis melalui marketplace yang harus diperhitungkan dalam penetapan harga dan margin.
+3. **Shared problem:** Masalah dapat dipahami sebagai kesenjangan antara informasi biaya yang tersedia, kemampuan penjual memahami informasi tersebut, dan kebutuhan penjual untuk mengambil keputusan bisnis.
+
+Alternative yang paling membantu adalah melihat persoalan sebagai **masalah pemahaman dan pengelolaan biaya**, bukan hanya sebagai persoalan siapa yang bersalah.
+
+## Shared Problem Statement
+
+Setelah menguji asumsi awal, saya merumuskan masalah bersama sebagai berikut:
+
+> **Bagaimana membantu penjual memahami dan memperhitungkan biaya admin marketplace secara lebih jelas sehingga mereka dapat menentukan harga, margin, dan strategi penjualan dengan lebih tepat dalam keterbatasan aturan platform?**
+
+Problem statement tersebut lebih berguna dibandingkan asumsi awal karena tidak langsung menyalahkan salah satu pihak dan masih membuka ruang untuk mencari solusi.
+
+## Internal Conversation dan Agreement
+
+> **Victim:** “Berarti penjual memang dirugikan karena biaya adminnya besar. Shopee seharusnya lebih transparan.”
 >
-> **Discovery Jose:** “Tunggu. Sebelum menentukan solusi, saya perlu memahami pengalaman konkretnya. Apa yang sebenarnya membuat biaya admin menjadi masalah?”
+> **Growth Leader:** “Biaya admin memang berdampak pada keuntungan, tetapi jangan langsung menyimpulkan bahwa masalah utamanya hanya transparansi. Coba lihat apakah penjual memahami struktur biayanya dan apa yang masih bisa mereka kendalikan.”
 >
-> **Reflective Jose:** “Ternyata persoalannya bukan hanya sulit menghitung biaya, tetapi karena variabel dan formula perhitungannya sendiri tidak transparan. Kalau sumber datanya tidak tersedia, solusi teknologi yang saya bayangkan belum tentu *feasible*.”
->
-> **Jose:** “Saya akan menahan dorongan untuk langsung menawarkan teknologi dan memusatkan perhatian pada problem statement yang benar-benar dikonfirmasi oleh narasumber.”
+> **Jose:** “Saya perlu memisahkan faktor yang bisa dan tidak bisa dikendalikan. Daripada hanya mempertanyakan kebijakan platform, lebih baik mencari cara agar penjual dapat memahami biaya tersebut dan menyesuaikan strategi bisnisnya.”
 
-**Internal agreement:** Saya sepakat untuk tidak memaksakan solusi teknologi yang belum terbukti dapat diterapkan. Saya akan memprioritaskan pemahaman terhadap masalah, dampak, kebutuhan, dan batasan narasumber sebelum menentukan bentuk solusi.
+**Internal agreement:** Saya sepakat untuk tidak menggunakan asumsi awal sebagai kesimpulan akhir. Saya akan melihat masalah dari perspektif penjual dan constraint yang mereka hadapi, kemudian merumuskan masalah yang dapat ditindaklanjuti.
 
-## Evidence tindakan
+## Evidence Tindakan
 
-Dalam proses wawancara, saya menahan dorongan untuk langsung menawarkan solusi *Machine Learning* dan memilih menggali pengalaman konkret Kak Aurel terlebih dahulu. Pertanyaan diarahkan pada kejadian nyata, dampak terhadap margin dan harga jual, pihak yang terdampak, keadaan ideal, serta kendala yang dihadapi.
+Setelah mengubah perspektif, saya tidak lagi hanya berfokus pada apakah biaya admin Shopee merupakan sesuatu yang adil atau tidak. Saya mulai memetakan faktor yang dapat dikendalikan oleh penjual dan faktor yang berada di luar kendali mereka.
 
-Hasil wawancara menunjukkan bahwa ketidaktransparanan biaya admin menyebabkan margin keuntungan sulit diprediksi. Untuk mengantisipasinya, Kak Aurel perlu menaikkan harga jual produk, yang kemudian dapat berdampak pada pembeli.
+Faktor yang relatif dapat dikendalikan antara lain penetapan harga jual, perhitungan margin, pemilihan produk, serta strategi penggunaan marketplace. Sementara itu, kebijakan dan besaran biaya platform merupakan constraint eksternal yang harus diperhitungkan.
 
-Saya juga menggali batasan yang muncul ketika Kak Aurel menghubungi CS. Informasi mengenai formula atau variabel perhitungan tidak diberikan karena alasan kerahasiaan dan keamanan data perusahaan. Temuan ini menjadi titik penting karena menunjukkan bahwa solusi berbasis prediksi tidak dapat langsung dianggap *feasible* tanpa akses terhadap parameter yang relevan.
+Dari pemetaan tersebut, saya mengubah arah penyelesaian masalah menjadi pencarian cara untuk membuat biaya marketplace lebih mudah dipahami dan diperhitungkan dalam keputusan bisnis.
 
-Berdasarkan hasil tersebut, saya menyusun dan mengonfirmasi *shared problem statement* bersama Kak Aurel, dengan fokus pada kebutuhan untuk memahami dasar biaya admin dan menyusun strategi *pricing* yang lebih stabil.
+Perubahan ini membuat saya tidak lagi melihat masalah sebagai konflik antara penjual dan platform, tetapi sebagai persoalan yang membutuhkan pemahaman bersama mengenai **biaya, dampak terhadap margin, dan batasan yang dimiliki masing-masing pihak**.
 
-## Shared problem statement
+## Feedback, Repertoire, dan Refleksi
 
-> Pemilik UMKM *online* mengalami pemotongan biaya admin yang tidak transparan dan bervariasi ketika memproses transaksi di *e-commerce*, sehingga margin keuntungannya tergerus dan terpaksa membebankan kenaikan harga pada pembeli. Ia membutuhkan kemampuan untuk mengetahui dasar variabel potongan secara pasti agar dapat merancang strategi harga (*pricing*) yang stabil ke depan, dengan mempertimbangkan kendala birokrasi platform tertutup yang mengunci formula perhitungan sebagai data rahasia perusahaan.
+Pengalaman ini menunjukkan bahwa asumsi awal dapat membuat saya terlalu cepat menentukan siapa yang menjadi penyebab masalah. Ketika asumsi tersebut diuji, saya menemukan bahwa persoalannya lebih kompleks karena melibatkan informasi, pemahaman pengguna, dan constraint dari sistem marketplace.
 
-Rumusan tersebut lebih tepat dibanding asumsi awal karena tidak langsung menjanjikan solusi teknologi. Fokusnya berada pada **masalah yang dialami, dampaknya, kemampuan yang dibutuhkan, dan constraint yang membatasi**.
+Repertoire yang saya gunakan adalah **assumption testing**, pemisahan antara fakta dan interpretasi, serta pemetaan faktor yang dapat dan tidak dapat dikendalikan. Repertoire tersebut membantu saya mengubah respons dari reaktif menjadi lebih analitis.
 
-## Feedback, AI, dan refleksi
+Saya juga belajar bahwa dalam menyelesaikan masalah, shared problem statement lebih berguna daripada langsung menentukan siapa yang salah. Dengan merumuskan masalah secara bersama, ruang solusi menjadi lebih luas dan tindakan yang diambil dapat lebih realistis terhadap constraint yang ada.
 
-Feedback terpenting dari proses discovery ini adalah bahwa saya perlu mengurangi kecenderungan *over-directing* sebagai mahasiswa Komputasi. Ketika mendengar masalah yang terlihat dapat diselesaikan dengan teknologi, saya cenderung langsung memikirkan bentuk sistem yang dapat dibuat. Namun, proses wawancara menunjukkan bahwa solusi baru dapat dipertimbangkan setelah masalah dan batasannya benar-benar dipahami.
+AI tidak saya jadikan sebagai evidence utama dalam proses ini karena tidak terdapat bukti fisik penggunaan AI yang dapat diverifikasi. Oleh karena itu, aspek AI tidak saya klaim sebagai evidence dan skor pada dimensi ini tidak saya maksimalkan.
 
-Saya juga belajar bahwa *shared problem statement* harus dibangun berdasarkan pengalaman narasumber, bukan hanya berdasarkan interpretasi saya sendiri. Perubahan dari asumsi “masalah matematis” menjadi masalah “ketidaktransparanan dan keterbatasan akses informasi” menjadi bukti bahwa proses discovery berhasil mengubah cara saya melihat persoalan.
+**Next practice:** ketika menemukan masalah serupa, saya akan terlebih dahulu menuliskan asumsi awal, memisahkan fakta dari interpretasi, menguji minimal satu alternatif penyebab, lalu merumuskan shared problem statement sebelum menentukan solusi.
 
-AI tidak dijadikan bukti utama dalam proses ini karena tidak terdapat bukti fisik penggunaan AI yang dapat dilampirkan. Karena itu, dimensi AI tidak saya maksimalkan.
-
-**Next practice:** Dalam discovery berikutnya, saya akan menahan dorongan untuk menawarkan solusi pada awal percakapan dan terlebih dahulu memastikan tiga hal: **fakta masalah, kebutuhan narasumber, dan constraint yang membatasi solusi.**
-
-## Self-assessment
+## Self-Assessment
 
 | Dimensi | Skor | Evidence singkat |
 |---|---:|---|
-| Person & Character | 4 | Saya mampu mengenali kecenderungan *over-directing* dan mengubah peran dari “pemberi solusi” menjadi *discovery partner* yang berfokus memahami pengalaman narasumber. |
-| Objective & State | 4 | Tujuan wawancara bergeser dari mencari pembenaran untuk solusi *Machine Learning* menjadi memahami problem, dampak, kebutuhan, dan constraint secara objektif. |
-| Repertoire, Language & AI | 3 | Menggunakan pertanyaan terbuka, parafrase, konfirmasi, dan pendalaman masalah. Namun, tidak terdapat bukti fisik penggunaan AI sehingga dimensi ini tidak dimaksimalkan. |
-| Response & Adaptation | 4 | Saya mampu mengubah asumsi awal setelah menemukan bahwa akar masalah lebih berkaitan dengan transparansi dan kebijakan platform daripada sekadar persoalan matematis. |
-| Agreement, Action & Relationship | 4 | *Shared problem statement* dikonfirmasi bersama narasumber, privasi dijaga, dan saya berkomitmen untuk tidak memberikan solusi teknis yang belum terbukti *feasible*. |
+| Person & Character | 4 | Saya mampu mengenali karakter “Victim” yang cepat menyalahkan faktor eksternal dan mengubahnya menjadi “Growth Leader” yang menguji asumsi serta melihat masalah dari beberapa perspektif. |
+| Objective & State | 4 | Saya mengidentifikasi tujuan untuk memahami sumber masalah dan perubahan state dari reaktif menjadi analitis. Saya juga membedakan faktor yang dapat dan tidak dapat dikendalikan. |
+| Repertoire, Language & AI | 3 | Saya menggunakan assumption testing, pemisahan fakta dan interpretasi, serta pemetaan constraint. Namun, tidak terdapat bukti fisik penggunaan AI yang dapat diverifikasi sehingga dimensi ini tidak dimaksimalkan. |
+| Response & Adaptation | 4 | Saya mengubah asumsi awal bahwa masalah terutama berasal dari ketidaktransparanan menjadi pemahaman bahwa masalah juga berkaitan dengan information gap, pemahaman penjual, dan constraint platform. |
+| Agreement, Action & Relationship | 4 | Perubahan perspektif menghasilkan shared problem statement dan tindakan yang lebih kolaboratif: memahami biaya, memetakan constraint, dan mencari cara agar penjual dapat mengambil keputusan bisnis dengan lebih tepat. |
 
-**Total Skor Mandiri:** **19 / 20 — Sangat Kompeten.**
+**Total Skor Mandiri: 19 / 20 — Sangat Kompeten.**
