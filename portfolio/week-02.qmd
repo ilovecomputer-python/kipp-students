@@ -2,143 +2,66 @@
 title: "Intra-Self Communication Journal"
 week: 2
 status: "Siap Dinilai"
-self_score: "15"
+self_score: "19"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
 ---
 
-**Nama Lengkap:** Maximillian Jose Andreas Aditjandra  
-**Tanggal Pengerjaan:** 27 September 2026  
+## Episode
 
-# Lembar Kerja Praktis: Tiga Narasi atas Satu Peristiwa
+**Event:** Seorang rekan tim lomba bisnis mengutarakan keinginan untuk merombak ide dasar perlombaan ketika progres pengerjaan dokumen kami sudah mencapai sekitar 75%.
 
-*(Bahan Aktivitas Mandiri & Portofolio Kuliah 2: Percakapan dengan Diri Sendiri)*
+| Lapisan | Catatan Jose |
+|---|---|
+| Fact | Rekan tim mengutarakan keinginan untuk merombak ide dasar ketika progres dokumen sudah sekitar 75%; saya merespons dengan menanyakan kembali maksudnya dan solusi spesifik yang ia tawarkan. |
+| Initial story | “Dia meragukan kapabilitas saya dalam lomba ideasi bisnis karena ide awal tim merupakan hasil brainstorming saya.” Saya juga menyalahkan diri sendiri karena merasa tidak enakan untuk langsung menolak usulannya. |
+| Emotion/body signal | Sedih, kecewa, dan kesal 7/10; merasa murung, kehilangan energi, dan terdiam menatap layar laptop dengan tatapan kosong. |
+| Reactive character | “Victim” yang merasa terpojok dan tidak berdaya karena tidak enak menolak usulan rekan. |
+| Desired character | “Growth Leader” yang mampu mengendalikan emosi, memahami tujuan bersama, dan mencari titik tengah yang realistis. |
 
-Lembar kerja ini dirancang untuk melatih kemampuan **kejernihan batin (intrapersonal communication)** Anda. Tujuannya adalah membantu Anda memisahkan fakta objektif dari cerita batin, mengenali emosi, dan merumuskan respons yang disengaja (*chosen response*) alih-alih bereaksi secara otomatis (*autopilot*) atas peristiwa sulit dalam kehidupan sehari-hari [10, 13].
+Initial story melampaui fakta: rekan memang mengusulkan perubahan ide, tetapi hal tersebut belum membuktikan bahwa ia meragukan kemampuan saya. Ada kemungkinan bahwa ia hanya mengkhawatirkan daya saing ide dan ingin meningkatkan peluang tim untuk menang.
 
----
+## Alternative narratives
 
-## **Siklus Pemikiran: Dari Rangsangan Menuju Respons**
+1. **Team concern:** rekan mungkin mempertanyakan ide karena khawatir konsep tersebut belum cukup kompetitif untuk lolos atau menang, bukan karena meragukan kemampuan saya.
+2. **Risk-management:** keinginan merombak ide pada progres 75% dapat dilihat sebagai persoalan risiko dan waktu, bukan sebagai konflik personal.
+3. **Growth opportunity:** ketidaksepakatan ini dapat menjadi kesempatan untuk melatih kontrol emosi, komunikasi asertif, dan pengambilan keputusan dalam tekanan waktu.
 
-Sebelum mengisi lembar kerja, ingatlah alur pembentukan makna batin berikut [13]: 
-$$\text{Peristiwa (Fakta)} \longrightarrow \text{Interpretasi (Asumsi)} \longrightarrow \text{Narasi (Identitas)} \longrightarrow \text{Emosi} \longrightarrow \text{Pilihan} \longrightarrow \text{Tindakan}$$
+Alternative ketiga paling berguna karena tetap mengakui bahwa situasinya sulit dan mengecewakan, tetapi mengarahkan perhatian saya pada tindakan yang masih dapat saya kendalikan.
 
----
+## Internal conversation dan agreement
 
-## **Bagian 1: Identifikasi Kasus (Bahan Mentah)**
+> **Victim:** “Pasrah sajalah, mungkin ideku memang kurang bagus. Tapi kesal sekali karena waktunya sudah sangat mepet, kenapa baru bilang sekarang?”  
+> **Growth Leader:** “Tujuannya kan sama-sama ingin menang. Membongkar total di progres 75% memang terlalu berisiko, tetapi kekhawatirannya juga tidak bisa diabaikan. Coba cari titik tengahnya.”  
+> **Jose:** “Saya tidak akan sekadar menolak secara emosional. Saya akan mengajak diskusi terbuka, menjelaskan risiko dari perombakan total, dan menawarkan penyesuaian atau iterasi ide.”
 
-Pilihlah satu peristiwa sulit, menantang, atau kurang menyenangkan yang baru-baru ini Anda alami (misalnya: pesan tidak dibalas, kritik dari dosen, tugas kelompok terhambat, atau rencana yang batal) [11, 13]. 
+**Internal agreement:** sebelum mengambil keputusan final, saya akan menenangkan diri dan memahami alasan rekan saya. Setelah itu, saya akan mengajak berdiskusi secara terbuka dan menawarkan penyesuaian ide, bukan perombakan total, dengan mempertimbangkan progres 75% dan waktu pengumpulan dokumen yang sudah dekat.
 
-### **1. Peristiwa yang Dapat Diamati (Fakta Objektif)**
+## Evidence tindakan
 
-*Tuliskan apa yang benar-benar terjadi tanpa penilaian karakter, generalisasi (hindari kata "selalu" atau "pasti"), atau dugaan niat. Bayangkan apa yang terekam oleh kamera video [13, 145].*
-> **Fakta Anda:** 
-Seorang rekan tim lomba bisnis mengutarakan keinginan untuk merombak ide dasar perlombaan ketika progres pengerjaan dokumen kami sudah mencapai sekitar 75% (tiga perempat jalan). Saya meresponsnya secara verbal dengan menanyakan kembali apa maksudnya dan solusi spesifik yang ia tawarkan.
+- Saya tidak langsung menolak usulan rekan meskipun merasa kecewa dan kesal.
+- Saya mengambil jeda untuk meredakan reaktivitas sebelum melanjutkan percakapan.
+- Saya mempertimbangkan kemungkinan bahwa kekhawatiran rekan berasal dari keinginannya agar tim memiliki peluang menang yang lebih besar.
+- Saya menawarkan solusi berupa **iterasi ide**, yaitu mempertahankan dasar konsep tetapi menyesuaikan fitur atau penyampaiannya agar lebih kompetitif.
+- Rekan menerima gagasan untuk melakukan penyesuaian daripada membongkar keseluruhan ide.
 
-### **2. Interpretasi Pertama (Asumsi Otomatis)**
+## Feedback, AI, dan refleksi
 
-*Tuliskan pemikiran atau kesimpulan pertama yang langsung melompat di kepala Anda ketika peristiwa itu terjadi [13, 145].* 
-> **Interpretasi Pertama Anda:** 
-Saya berasumsi bahwa dia meragukan kapabilitas saya dalam lomba ideasi bisnis, karena ide awal tim merupakan hasil *brainstorming* saya. Saya juga menyalahkan diri saya sendiri karena merasa "tidak enakan" untuk langsung menolak usulannya yang menurut saya kurang masuk akal mengingat waktu yang tersisa.
+Saya menggunakan komunikasi yang lebih asertif dan tidak defensif dengan mengakui kekhawatiran rekan terlebih dahulu sebelum menjelaskan risiko dari perombakan total. Saya juga meminta pendapat pihak terdekat sebagai *sounding board* untuk memastikan cara penyampaian saya tetap rasional dan tidak terdengar menghakimi.
 
-### **3. Emosi & Sensasi Tubuh**
+Saya tidak memiliki bukti fisik penggunaan AI dalam proses ini, sehingga aspek AI tidak menjadi dasar peningkatan skor pada dimensi ini.
 
-*Identifikasi emosi konkret yang Anda rasakan (marah, cemas, malu, kecewa, sedih) dan tandai intensitasnya dari skala 0–10. Catat juga reaksi fisik yang Anda rasakan (napas pendek, rahang menegang, dada sesak) [13, 147].* 
-> * **Emosi yang Dirasakan:** Sedih, kecewa (terhadap diri sendiri dan teman setim), dan kesal (Skala intensitas: 7/10).
-> * **Sensasi Tubuh yang Muncul:** Merasa murung, kehilangan energi secara fisik, dan terdiam menatap layar laptop dengan tatapan kosong sepanjang malam.
+**Next practice:** ketika menghadapi konflik atau feedback serupa, saya akan memisahkan `fact`, `story`, dan `next action` sebelum memberikan respons agar tidak langsung mengikuti reaksi emosional.
 
----
+## Self-assessment
 
-## **Bagian 2: Membedah Tiga Narasi**
-
-Kini, mari kita bawa peristiwa di atas ke dalam tiga kacamata cerita batin yang berbeda untuk melihat bagaimana narasi tersebut mengarahkan pilihan hidup Anda [13, 157].
-
-### **Versi A: Narasi Korban (Victim Narrative)**
-
-*Tempatkan diri Anda sepenuhnya sebagai korban keadaan. Tuliskan narasi di mana semua kendali berada di luar diri Anda, orang lain sepenuhnya bersalah, dan Anda tidak memiliki pilihan selain pasrah, menyalahkan diri sendiri, atau membalas secara pasif [13, 157].* 
-> * **Isi Narasi Korban Anda:** 
-Sebagai ketua kelompok, saya merasa tidak berdaya dan terbelenggu oleh rasa "tidak enakan" saya sendiri. Saya merasa seolah-olah dipojokkan dan menjadi pihak yang bersalah atas lambatnya progres karena ide saya tidak disetujuinya dan ia memaksakan perubahan. Saya lumpuh karena tidak enak menolak.
-> * **Pilihan Tindakan Otomatis (Reaktif) dari Narasi ini:** 
-Pasrah, memendam kekesalan sendirian di malam hari (murung menatap laptop), menyalahkan diri sendiri atas ide yang saya buat, dan membiarkan tim terhambat tanpa berani mengambil ketegasan.
-
-### **Versi B: Narasi Analitis (Analytical Narrative)**
-
-*Gunakan kacamata yang objektif dan rasional. Pisahkan dengan tegas antara fakta yang diketahui, hal-hal yang masih berupa dugaan (belum diketahui), serta faktor-faktor yang berada di bawah kendali Anda langsung [13, 157, 158].* 
-> * **Apa fakta yang benar-benar telah terbukti?** 
-Rekan saya memang sempat mendebat ide ini di fase awal sebelum akhirnya sepakat, dan kini ia kembali mempermasalahkannya saat progres sudah 75%.
-> * **Apa penjelasan lain (alternatif asumsi) yang masuk akal namun belum saya periksa?** 
-Dia mungkin sangat peduli dengan hasil tim dan khawatir ide saat ini tidak memiliki bobot kompetitif yang cukup untuk lolos ke final atau juara. Niatnya pada dasarnya baik untuk kemajuan tim, bukan murni sentimen personal terhadap saya.
-> * **Faktor apa dalam situasi ini yang berada di bawah kendali saya langsung?** 
-Keberjalanan kelompok, keputusan operasional akhir (*go/no-go* atas perubahan ide), dan bagaimana cara saya merespons serta mengakomodasi pertimbangannya tanpa merusak *timeline*.
-
-### **Versi C: Narasi Pertumbuhan (Growth Narrative)**
-
-*Gunakan kacamata belas kasih (compassion) dan pola pikir bertumbuh (growth mindset). Akui bahwa situasinya sulit dan emosi Anda valid, namun arahkan batin Anda untuk menemukan hikmah/pelajaran serta memilih tindakan yang selaras dengan nilai jangka panjang Anda [13, 151, 157].* 
-> * **Isi Narasi Pertumbuhan Anda:** 
-Situasi ini memang merepotkan dan menguras energi karena tenggat waktu pengumpulan dokumen sudah mepet, sehingga wajar jika saya merasa kecewa. Namun, niat teman saya sebenarnya didasari keinginan agar tim menang. Ketidaksepakatan ini adalah ujian bagi saya untuk mempraktikkan kontrol emosi dan manajemen krisis tim, mencegah hal kecil berdampak destruktif pada dinamika kelompok.
-> * **Pelajaran apa yang dapat saya ambil dari situasi ini?** 
-1) **Manajemen Waktu Ideasi:** Proses *brainstorming* di awal harus dialokasikan waktunya lebih panjang agar semua keraguan tuntas sebelum eksekusi dimulai.
-2) **Manajemen Risiko Internal (Plan B):** Perlunya protokol krisis di dalam tim sehingga ketika ketidaksepakatan teknis muncul di tengah jalan, tim tidak kelabakan.
-3) **Komunikasi Progresif:** Membangun ruang diskusi yang asertif tanpa penghakiman sejak awal, agar anggota yang tidak setuju merasa aman mengutarakan pendapatnya jauh-jauh hari.
-
----
-
-## **Bagian 3: Merancang Respons (Action & Support)**
-
-### **1. Pilihan Respons Terbaik**
-
-*Berdasarkan Narasi Pertumbuhan Anda, tuliskan tindakan kecil, konkret, dan asertif yang akan Anda lakukan sekarang untuk merespons situasi tersebut [13, 157, 158].* 
-> * **Langkah nyata yang saya pilih:** 
-Saya tidak akan sekadar menolak sarannya, tetapi saya akan mengajaknya berdiskusi secara terbuka dan menawarkan kompromi berupa **"penyesuaian (iterasi) ide"** alih-alih perombakan total. Saya akan menjabarkan matriks risikonya secara rasional: memetakan risiko perombakan di sisa waktu, memvalidasi hasil kerja yang sudah susah payah kami selesaikan, dan mencari titik urgensi dari ide barunya yang bisa diintegrasikan ke progres 75% kami.
-
-### **2. Dukungan yang Diperlukan**
-
-*Siapa orang tepercaya (teman, keluarga, dosen) yang dapat Anda mintai umpan balik jujur atau bantuan untuk mendampingi Anda menjalankan pilihan ini? [13, 158]* 
-> * **Nama rekan/pendamping:** 
-Pacar saya (inisial G) dan kakak saya (inisial Y). Mereka akan saya jadikan *sounding board* untuk memvalidasi bahwa argumen yang saya siapkan tetap rasional, objektif, dan tidak sembarangan karena dikuasai emosi marah.
-
----
-
-## **Internal Conversation, Agreement & Evidence Tindakan**
-
-> **Victim:** "Pasrah sajalah, mungkin ideku memang kurang bagus. Tapi kesal sekali karena waktunya sudah sangat mepet, kenapa baru bilang sekarang?"  
-> **Growth Leader:** "Tunggu, tujuannya kan sama-sama ingin menang. Membongkar total di progres 75% terlalu berisiko, tapi kita tidak bisa mengabaikan kekhawatirannya. Coba cari titik tengahnya."  
-> **Jose:** "Saya tidak akan sekadar menolak secara emosional. Saya akan mengajak diskusi terbuka, menjabarkan matriks risiko waktu yang tersisa, dan menawarkan penyesuaian (iterasi) ide alih-alih perombakan total."
-
-**Internal agreement:** Sebelum mengambil keputusan final dengan rekan tim, saya menenangkan diri dan menghubungi pihak terdekat (G) untuk meminta pendapat dan memvalidasi draf kalimat saya—memastikan apakah respons yang akan saya sampaikan sudah objektif dan tidak terkesan menghakimi.
-
-### **Evidence Tindakan:**
-- **Validasi Nada Bicara & Argumen (*Sounding Board* dengan G):** 
-  > *Jose:* "G, kira-kira kalau aku jawab begini ke temanku aman nggak ya? Takutnya dia malah merasa dihakimi karena aku nolak perombakan idenya."  
-  > *G:* "Coba ubah dikit kalimatnya biar terkesan kita apresiasi kepedulian dia dulu, baru kita sodorin data risiko waktunya. Jadi dia ngerasa diajak kerja sama, bukan diserang."  
-  *(Masukan G digunakan untuk menyempurnakan respons agar tetap berempati dan tidak defensif).*
-
-- **Simulasi Transkrip Percakapan Kompromi (Iterasi Ide) dengan Rekan Tim:**
-  > **Rekan Tim:** "Jose, sori banget sebelumnya ya... Aku kepikiran terus soal ide kita yang sekarang. Jujur aku agak *worry* kalau konsep ini dipakai, kita bakal kalah saing di tahap *pitching* nanti pas babak final. Gimana kalau bagian *core value*-nya kita rombak aja biar lebih *impactful*?"  
-  > *(Jeda beberapa saat untuk meredakan reaktivitas batin)*  
-  > **Jose:** "Halo, makasih masukannya ya. Aku paham banget kalau kamu *worry* soal daya saing dan pengen kita menang. Tadi aku udah coba bedah sisa waktu kita ke depan. Kalau kita bongkar total sekarang (pas progres udah 75%), risikonya terlalu besar buat kejar *deadline* pengumpulan dokumen lusa. Gimana kalau kita ambil jalan tengah? Ide dasarnya kita pertahankan sesuai *progress* yang ada, tapi bagian fitur/penyampaiannya kita *iterasi* dan *tweak* sedikit sesuai poin kekhawatiranmu kemarin. Jadi kita nggak buang hasil kerja yang udah ada, tapi bobot kompetitifnya tetap dapet. Menurutmu gimana?"  
-  > **Rekan Tim:** "Wah, iya juga sih kalau dibongkar total emang bakal keteteran waktunya. Ide *tweak* fitur itu masuk akal banget. Boleh deh, besok kita bedah bareng ya bagian mana aja yang perlu di-*adjust*. Sori ya kemarin sempat nge-*push* ubah total."  
-  > **Jose:** "Sama-sama, santai aja! Bagus juga kamu udah *notice* sejak awal. Besok kita *zoom* atau ketemuan sebentar buat selesein ya. 👍"
-
----
-
-## **Panduan Evaluasi Mandiri (Rubrik Portofolio)**
-
-Simpan lembar kerja ini ke dalam **Portofolio Komunikasi** Anda [3, 134]. Evaluasi kualitas pengerjaan Anda menggunakan kriteria berikut sebelum diserahkan kepada dosen [13, 159]:
-
-- [x] **Pemisahan Fakta vs Cerita:** Apakah fakta yang Anda tulis di Bagian 1 benar-benar bebas dari asumsi, penilaian moral, dan dramatisasi?
-- [x] **Kekayaan Alternatif:** Apakah Narasi Analitis Anda berhasil menawarkan minimal 2 alternatif penjelasan rasional yang berbeda dari interpretasi pertama Anda?
-- [x] **Kematangan Emosional:** Apakah emosi Anda diakui secara jujur tanpa dikuasai sepenuhnya oleh reaksi impulsif batin?
-- [x] **Kepemilikan Tindakan:** Apakah tindakan akhir yang Anda pilih di Bagian 3 bersifat spesifik, realistis, dan berorientasi pada penyelesaian masalah, bukan sekadar menghindari ketidaknyamanan?
-
-**Self-Assessment Dimensi Penilaian:**
 | Dimensi | Skor | Evidence singkat |
 |---|---:|---|
-| Person & Character | 3 | Karakter *Victim* dan *Growth Leader* dipetakan jelas sebagai pilihan peran, bukan identitas mati. |
-| Objective & State | 3 | Berhasil mengubah *state* reaktif (murung/pasrah) menjadi respons proaktif yang terukur (kompromi). |
-| Repertoire, Language & AI | 3 | Jeda emosional, validasi nada ke pihak terdekat (G), dan pendekatan rasional digunakan secara efektif. |
-| Response & Adaptation | 3 | Alternatif narasi analitis mengubah cara pandang terhadap kritik rekan dari "serangan personal" menjadi "kepedulian tim". |
-| Agreement, Action & Relationship | 3 | *Internal agreement* dieksekusi menjadi diskusi kompromi, mengamankan *timeline* tanpa merusak relasi. |
+| Person & Character | 4 | Mampu membedakan karakter reaktif “Victim” dengan karakter yang ingin dipilih, yaitu “Growth Leader”, dan secara sadar mengarahkan diri pada respons yang lebih konstruktif. |
+| Objective & State | 4 | Mampu mengenali kondisi emosional dan fisik secara spesifik, kemudian mengubah reaksi berupa murung dan pasrah menjadi respons yang lebih tenang dan berorientasi pada solusi. |
+| Repertoire, Language & AI | 3 | Jeda emosional, komunikasi asertif, dan *sounding board* digunakan, tetapi tidak terdapat bukti fisik penggunaan AI. |
+| Response & Adaptation | 4 | Mampu mengubah interpretasi dari kemungkinan serangan personal menjadi kemungkinan kepedulian terhadap daya saing tim, lalu menyesuaikan strategi menjadi iterasi ide. |
+| Agreement, Action & Relationship | 4 | *Internal agreement* menghasilkan tindakan berupa diskusi dan kompromi yang mempertahankan progres, mengakomodasi kekhawatiran rekan, serta menjaga hubungan kerja tim. |
 
-**Total: 15/20 — Tingkat Cakap.** Analisis menunjukkan transisi yang jelas dari reaksi batin (*autopilot*) menuju respons rasional dan terencana dalam manajemen konflik kelompok.
+**Total: 19/20 — Sangat Kompeten.**
