@@ -1,0 +1,276 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 3b — Kasus 3"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Maximillian Jose Andreas A |
+| NIM | 18225023 |
+| Kelas dan tanggal | Kelas K1; 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3b; Kasus 3 (Menawarkan Solusi TI dan AI) |
+| Nama dan ID target | Cyntia (K3-03) |
+| Versi bank/aturan penugasan | Versi bank 2.0; versi paket individual 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif (Simulasi berbasis bank profil KIPP) |
+| Kelengkapan transkrip | Lengkap (Sejak identifikasi, perencanaan, simulasi awal, evaluasi sementara, uji ulang, refleksi akhir, hingga konfirmasi) |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+- **Brief kasus:** Cyntia (K3-03), seorang pengelola usaha, menghadapi penumpukan pesan pelanggan dan pesanan yang tercecer akibat keterbatasan tenaga kerja. Ia merupakan tipe komunikator yang visioner, antusias, dan terbuka terhadap inovasi, namun prioritasnya mudah berubah-ubah serta membutuhkan kejelasan lingkup *pilot project* dan penanggung jawab teknis agar eksekusinya tetap konsisten.
+- **Tujuan tindakan mahasiswa:** Menggali kebutuhan operasional Cyntia, mengarahkan antusiasmenya agar tetap berfokus pada masalah prioritas, dan menyepakati skema uji coba (*pilot project*) pencatatan pesanan terpusat dengan penanggung jawab serta durasi yang jelas.
+- **Indikator keberhasilan:** Terciptanya kesepakatan uji coba *pilot project* pencatatan pesanan terpusat selama 3 bulan, pembatasan lingkup agar tidak melebar ke fitur lain (seperti stok) sebelum evaluasi, penunjukan penanggung jawab teknis dan penghubung tim, serta jadwal evaluasi berkala berbasis indikator berkurangnya pesanan tercecer.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Peluang: Digitalisasi pencatatan pesanan terpusat untuk mengurangi pesanan tercecer; Ancaman: Perubahan prioritas dan kesibukan Cyntia yang dapat membuyarkan fokus; Mampu: Menyusun batasan lingkup *pilot project*, pendampingan teknis, dan penetapan prioritas; Belum mampu: Menguji coba sistem secara teknis langsung di lapangan. | U001, U004, U007 | Sementara |
+| Attitude | Visioner, ramah, kolaboratif, serta berkomitmen mendampingi proses transisi tanpa membebani usaha Cyntia. | U001, U005 | Tinggi |
+| Knowledge | Memahami manajemen operasional usaha, pentingnya pembatasan lingkup (*scope control*), penutupan celah pesanan tercecer, dan mitigasi distraksi proyek. | U003, U004, U007 | Tinggi |
+| Skill | Mampu mengarahkan antusiasme klien yang berlebih, memvalidasi kesibukan, membatasi lingkup kerja (*pilot scope*), dan mengelola komitmen relasional secara konsisten. | U002, U004, U007 | Terbukti saat interaksi |
+| Preferensi/MBTI jika dilaporkan | Tidak dilaporkan/tidak didiagnosis mandiri secara formal. | — | Hipotesis kerja |
+| Karakter, peran, kultur/ko-kultur | Peran sebagai konsultan TI/AI yang suportif, tegas dalam menjaga prioritas, dan menghargai ritme kerja pengusaha yang dinamis. | U001, U005, U007 | Tinggi |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Kesepakatan uji coba terbatas dengan ruang lingkup, durasi, penanggung jawab, dan indikator keberhasilan yang jelas. | Edukasi A (menjaga antusiasme tetap fokus pada prioritas) | Membuka obrolan ramah, mengakui kesibukan, dan tidak memaksakan agenda. | Cyntia merasa dipahami dan bersedia mendiskusikan masalah utama. |
+| Attention | Cyntia antusias terhadap inovasi namun pikirannya terbagi-bagi oleh banyak urusan operasional. | Edukasi K (pemilihan masalah krusial) | Menanyakan masalah operasional mana yang paling membakar waktu. | Cyntia mengungkapkan penumpukan pesan dan pesanan tercecer. |
+| Interest | Berminat pada inovasi tetapi takut lingkup proyek terlalu besar dan menyita waktu. | Edukasi K & S (pembatasan lingkup *pilot project*) | Menawarkan *pilot project* sederhana berfokus pada pencatatan pesanan terpusat. | Cyntia menyambut baik ide pencatatan terpusat dan menanyakan penanggung jawab. |
+| Desire | Membutuhkan kejelasan penanggung jawab teknis dan durasi agar tidak terbengkalai. | Edukasi S (penunjukan penanggung jawab & durasi) | Menyebutkan pendampingan langsung selama 3 bulan dan jadwal evaluasi rutin. | Cyntia menyetujui *pilot project* dan merasa tenang. |
+| Action | Tergiur menambah fitur stok saat bazar UMKM pada tahap uji ulang. | Edukasi S & A (menjaga batasan lingkup) | Menyarankan agar bazar fokus pada observasi dan sistem stok ditunda sampai evaluasi *pilot*. | Cyntia menyadari risiko dan menyepakati pembatasan lingkup. |
+
+# C) Skrip Percakapan
+
+**U001 [Identifikasi & Rencana]:**  
+"1. Tujuan Komunikasi
+Menggali kebutuhan dan kendala operasional Cyntia, kemudian menawarkan solusi TI/AI yang sesuai agar usahanya lebih efektif. Target akhirnya adalah mencapai kesepakatan uji coba solusi yang bermanfaat dan memiliki indikator keberhasilan yang jelas.
+2. Dugaan Awal Profil Cyntia (ASK)
+- Attitude: Visioner dan terbuka terhadap inovasi karena berani melihat permasalahan serta mempertimbangkan teknologi sebagai solusi.
+- Knowledge: Memiliki pemahaman yang cukup tentang kebutuhan usahanya, tetapi mungkin masih perlu menggali pilihan teknologi yang paling sesuai.
+- Skill: Memiliki inisiatif dan kreativitas dalam mengembangkan usaha, tetapi mungkin membutuhkan dukungan untuk menerapkan teknologi secara konsisten.
+Hambatan utama: Menentukan prioritas masalah, memilih solusi yang tepat, serta memastikan penerapannya tidak menambah beban operasional.
+3. Rencana Pembukaan
+Saya akan membangun komunikasi yang ramah dan kolaboratif, menghargai inisiatif Cyntia dalam mencari solusi, serta menggali kebutuhannya sebelum menawarkan teknologi tertentu."
+
+**AI001 [Simulasi Awal]:**  
+"Data identifikasi, tujuan komunikasi, dugaan profil (ASK), dan rencana pembukaan Anda untuk Sesi 3b (Kasus 3 - Cyntia) telah dicatat dan terkonfirmasi.
+
+Kita sekarang masuk ke Tahap C: Simulasi Awal.
+
+---
+
+[SIMULASI DIMULAI]
+
+Nama: Cyntia  
+Peran: Pengelola Usaha / Customer  
+
+Cyntia: \"Menarik! Tapi minggu ini banyak hal yang harus saya kerjakan.\"
+
+---
+
+*(Silakan tanggapi ucapan Cyntia di atas untuk melanjutkan percakapan)*"
+
+**U002 [Simulasi Awal]:**  
+"Kak Cyntia, tidak apa-apa, kami memahami kalau minggu ini jadwal Kakak sedang padat. Kami sebagai konsultan akan menyesuaikan waktu dengan kesibukan Kakak agar diskusi ini tidak mengganggu aktivitas usaha. Kira-kira kapan waktu yang paling nyaman bagi Kakak untuk berbincang sebentar?"
+
+**AI002 [Simulasi Awal]:**  
+"Terima kasih banyak ya sudah paham dengan kesibukan saya. Sebenarnya saya antusias banget kalau bicara soal inovasi usaha, cuma minggu ini pikiran saya lagi terbagi-bagi antara promosi, stok, dan tumpukan pesan pelanggan yang sering bikin pesanan tercecer. 
+
+Menurut kamu, dari sekian banyak urusan operasional itu, mana masalah utama yang paling krusial untuk kita selesaikan dulu lewat teknologi?"
+
+**U003 [Simulasi Awal]:**  
+"Menurut saya, pengelolaan stok yang rapi dan aman perlu menjadi prioritas utama, Kak, karena stok merupakan bagian mendasar dari operasional usaha. Dengan pengelolaan stok yang baik, Kakak bisa mengetahui ketersediaan barang secara lebih akurat, menghindari kesalahan pesanan, dan menjalankan promosi dengan lebih terencana."
+
+**AI003 [Simulasi Awal]:**  
+"Ide tentang pengelolaan stok itu menarik banget, Max! Tapi jujur, kalau kita langsung membenahi seluruh sistem stok, saya khawatir lingkupnya jadi terlalu besar dan makin menyita waktu minggu ini. Padahal yang paling membakar waktu saya tiap jam adalah pesan pelanggan yang menumpuk dan pesanan tercecer.
+
+Kalau menurutmu, memungkinkan tidak kalau kita buat skema uji coba (pilot project) yang lingkupnya kecil dan fokus dulu ke masalah pesan dan pesanan tercecer ini, dan seperti apa gambaran langkah awalnya?"
+
+**U004 [Simulasi Awal]:**  
+"Menurut saya, sangat memungkinkan, Kak. Kita bisa memulai dengan uji coba sederhana yang berfokus pada pencatatan pesan dan pesanan pelanggan agar tidak ada yang terlewat. Langkah awalnya, kita identifikasi alur pemesanan saat ini, lalu mencoba formulir pemesanan digital dan pencatatan pesanan terpusat. Setelah itu, kita evaluasi hasilnya berdasarkan jumlah pesanan yang terlewat dan waktu yang dibutuhkan untuk melayani pelanggan. Dengan begitu, Kakak bisa melihat manfaatnya terlebih dahulu sebelum memutuskan untuk menerapkan sistem yang lebih luas."
+
+**AI004 [Simulasi Awal]:**  
+"Langkah awal pencatatan terpusat itu terasa pas sekali untuk langsung mengurangi pesanan yang tercecer! 
+
+Biar uji coba kecil ini bisa berjalan fokus dan tidak terbengkalai saat jadwal saya padat, siapa yang akan menjadi penanggung jawab teknis pendampingannya dari timmu dan berapa lama target durasi pilot project pertama ini?"
+
+**U005 [Simulasi Awal]:**  
+"Saya sendiri akan menjadi penanggung jawab teknis sekaligus mendampingi proses uji coba selama kurang lebih tiga bulan, Kak. Agar pelaksanaannya tetap terarah meskipun jadwal kita padat, kita bisa menetapkan jadwal evaluasi rutin dan target yang jelas di setiap tahap. Dengan begitu, perkembangan uji coba dapat dipantau dan kendala yang muncul bisa segera ditangani."
+
+**AI005 [Evaluasi Sementara]:**  
+"Komitmen kamu untuk turun langsung menjadi penanggung jawab dan menetapkan durasi 3 bulan dengan milestone evaluasi rutin ini pas banget, Max! Lingkupnya jadi terasa realistis dan tidak bikin saya kewalahan di tengah jadwal padat. Saya setuju banget untuk kita mulai pilot project ini!
+
+---
+
+[SIMULASI AWAL SELESAI]
+
+Kita sekarang masuk ke Tahap D: Evaluasi Sementara.
+
+Sebelum kita melanjutkan ke uji ulang dan pengungkapan profil internal Cyntia, silakan tuliskan analisis evaluasi sementara Anda mengenai jalannya simulasi awal tadi:
+
+1. Evaluasi Perubahan ASK Cyntia: Bagaimana analisis Anda terhadap perkembangan Attitude, Knowledge, dan Skill (ASK) Cyntia saat ini dibandingkan dengan dugaan awal Anda? Mohon cantumkan bukti kutipan singkat dari percakapan.
+2. Revisi Dugaan & SWOT: Apakah ada dugaan awal Anda yang terbukti, keliru, atau perlu direvisi terkait hambatan dan kebutuhan utama Cyntia?
+3. Evaluasi Relasional: Bagaimana penilaian Anda terhadap tingkat rasa aman, kepercayaan, dan keterbukaan informasi dari Cyntia selama percakapan berlangsung?"
+
+**U006 [Evaluasi Sementara]:**  
+"1. Evaluasi Perubahan ASK Cyntia
+- Attitude (Sikap): Cyntia menunjukkan sikap positif dan semakin terbuka terhadap inovasi. Hal ini terlihat dari pernyataannya, “Sebenarnya saya antusias banget kalau bicara soal inovasi usaha.” Ia juga menyambut baik ide pencatatan terpusat.
+- Knowledge (Pengetahuan): Cyntia mulai memahami manfaat solusi teknologi untuk mengatasi masalah operasional. Buktinya, ia mengatakan, “Langkah awal pencatatan terpusat itu terasa pas sekali untuk langsung mengurangi pesanan yang tercecer!”
+- Skill (Keterampilan): Kemampuan Cyntia dalam menerapkan teknologi belum dapat dipastikan karena uji coba belum dimulai. Ia masih membutuhkan pendampingan dan pembagian tanggung jawab yang jelas.
+2. Revisi Dugaan dan SWOT
+Dugaan awal bahwa Cyntia visioner dan terbuka terhadap inovasi cukup didukung oleh responsnya selama percakapan. Namun, masalah utamanya perlu dipertegas, yaitu pesanan yang tercecer dan pengelolaan operasional yang belum terstruktur.
+- Strength: Antusias terhadap inovasi dan memiliki kemauan memperbaiki usaha.
+- Weakness: Keterbatasan waktu dan risiko pesanan terlewat.
+- Opportunity: Penerapan pencatatan pesanan terpusat untuk meningkatkan efisiensi.
+- Threat: Jadwal yang padat dapat menghambat konsistensi pelaksanaan uji coba.
+Solusi perlu dimulai dari sistem sederhana dengan penanggung jawab, jadwal evaluasi, dan target yang jelas.
+3. Evaluasi Relasional
+- Rasa aman: Tinggi. Cyntia merasa dihargai ketika kesibukannya dipahami, terlihat dari pernyataannya, “Terima kasih banyak ya sudah paham dengan kesibukan saya.”
+- Kepercayaan: Sedang menuju tinggi. Cyntia bersedia mempertimbangkan solusi dan membahas uji coba, tetapi masih perlu memastikan pendampingan teknis dapat berjalan konsisten.
+- Keterbukaan informasi: Tinggi. Cyntia secara terbuka menjelaskan kesibukannya, masalah operasional, dan kekhawatirannya mengenai pelaksanaan uji coba."
+
+**AI006 [Pengungkapan Profil & Uji Ulang]:**  
+"Analisis evaluasi sementara Anda untuk Sesi 3b (Cyntia) telah dicatat. Berikut adalah pengungkapan profil internal tokoh Cyntia (K3-03) untuk Anda bandingkan dengan dugaan awal dan evaluasi sementara yang telah Anda buat:
+
+Profil Internal Cyntia (K3-03):
+* Peran/Konteks: Pengelola usaha; menghadapi penumpukan pesan pelanggan dan pesanan tercecer.
+* Hambatan Attitude (A): Ingin inovasi dan antusias, tetapi prioritas mudah berubah-ubah.
+* Hambatan Knowledge (K): Mengerti gambaran besar, tetapi belum memilih masalah utama dan detail pelaksanaannya.
+* Hambatan Skill (S): Kreatif, namun tindak lanjut belum konsisten sehingga sangat membutuhkan kejelasan lingkup pilot project dan penanggung jawab yang pasti.
+
+---
+
+### Tahap E: Uji Ulang
+
+[SIMULASI UJI ULANG DIMULAI]
+
+Cyntia: \"Max, mendadak minggu depan usaha saya dapat tawaran ikut bazar UMKM besar! Saya tergiur banget buat sekalian uji coba sistem ini di bazar, atau malah nambah fitur pencatatan stok sekalian biar makin canggih. Tapi di sisi lain, saya takut tim saya malah bingung karena fokusnya terpecah dan alur pilot project yang baru kita sepakati jadi berantakan. Menurutmu, bagaimana langkah konkret kita supaya lingkup pilot project ini tetap fokus, penanggung jawabnya jelas, dan tim tidak kewalahan di tengah ide-ide baru ini?\""
+
+**U007 [Uji Ulang]:**  
+"Kak Cyntia, menurut saya peluang bazar ini menarik, tetapi agar uji coba kita tidak kehilangan fokus, sebaiknya kita tetap memprioritaskan pencatatan pesanan terpusat terlebih dahulu. Untuk sementara, fitur pencatatan stok kita jadikan pengembangan berikutnya setelah evaluasi awal. Saya akan menjadi penanggung jawab teknis, sedangkan tim Kakak cukup menunjuk satu orang sebagai penghubung untuk membantu pencatatan dan menyampaikan kendala. Kita juga bisa membuat panduan singkat agar tim mudah mengikuti alurnya. Dengan target uji coba tiga bulan, kita evaluasi secara berkala berdasarkan jumlah pesanan yang terlewat dan kemudahan penggunaan sistem. Untuk bazar, kita bisa memanfaatkannya sebagai kesempatan mengamati kebutuhan, tanpa langsung menambahkan fitur baru sebelum sistem dasar terbukti berjalan baik."
+
+**AI007 [Refleksi Akhir]:**  
+"Keputusan kamu untuk tetap menjaga fokus itu sangat bijak, Max! Jawaban kamu membuat saya tersadar kalau menambah fitur stok di tengah bazar justru bisa membuat tim saya kewalahan dan pilot project kita berantakan. 
+
+Menetapkan batas lingkup tetap pada pencatatan pesanan, menunjuk satu orang tim saya sebagai penanggung jawab penghubung, serta menjadikan bazar sekadar ajang observasi adalah langkah konkret yang sangat menenangkan. Saya makin mantap untuk jalan sesuai skema yang sudah kita sepakati ini!
+
+---
+
+[SIMULASI UJI ULANG SELESAI]"
+
+**U008 [Refleksi Akhir]:**  
+"1. Pencapaian Tujuan dan Perubahan ASK/SWOT
+Tujuan komunikasi tercapai sebagian karena Cyntia mulai menerima ide uji coba pencatatan pesanan terpusat selama tiga bulan.
+- Attitude: Terbuka terhadap inovasi dan antusias memperbaiki usaha.
+- Knowledge: Mulai memahami manfaat pencatatan pesanan terpusat.
+- Skill: Kemampuan menggunakan sistem belum terbukti dan masih memerlukan pendampingan.
+SWOT: Kekuatan Cyntia adalah antusiasme terhadap inovasi; kelemahannya keterbatasan waktu; peluangnya digitalisasi pesanan; ancamannya perubahan prioritas dan kesibukan bazar.
+Saya belajar bahwa komunikasi perlu disertai prioritas dan pembagian tanggung jawab yang jelas.
+2. Stimulus Efektif dan Tidak Efektif
+Pendekatan yang efektif adalah memahami kesibukan Cyntia dan menawarkan solusi sederhana sesuai kebutuhan. Hal yang perlu diperbaiki adalah memperjelas jadwal, tanggung jawab, dan evaluasi sejak awal.
+3. Evaluasi Relasional
+- Rasa aman: Tinggi, terlihat dari ucapan Cyntia, “Terima kasih banyak ya sudah paham dengan kesibukan saya.”
+- Kepercayaan: Sedang menuju tinggi karena Cyntia bersedia membahas uji coba dan meminta saran.
+- Keterbukaan: Tinggi karena Cyntia menjelaskan masalah operasional dan kekhawatirannya.
+Sikap menghargai kesibukan dan menawarkan dukungan konkret membantu membangun kepercayaan.
+4. Lesson Learned dan Tindak Lanjut
+Saya belajar bahwa klien visioner membutuhkan ruang untuk berinovasi sekaligus arahan agar tetap fokus. Tindak lanjutnya adalah menjalankan uji coba pencatatan pesanan selama tiga bulan, menunjuk penanggung jawab, melakukan evaluasi berkala, dan mengukur keberhasilan dari berkurangnya pesanan tercecer sebelum menambah fitur baru."
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Tujuan percakapan **tercapai**: Kesepakatan *pilot project* pencatatan pesanan terpusat selama 3 bulan disetujui Cyntia dengan pembatasan lingkup yang jelas, penunjukan penanggung jawab teknis, dan kesepakatan tidak menambah fitur stok saat bazar UMKM.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Merasa mampu berinovasi namun khawatir prioritas berubah dan menyita waktu. | Melihat peluang *pilot project* terfokus, merasa terarah dengan batasan lingkup dan penanggung jawab teknis. | AI002 vs AI005, AI007 | Perubahan status simulasi tokoh Cyntia berdasarkan komitmen pembatasan lingkup proyek. |
+| Attitude | Antusias terhadap inovasi tetapi prioritas mudah berpindah-pindah. | Lebih terfokus, bijak membatasi keinginan berlebih, dan berkomitmen pada skema awal. | AI002, AI005, AI007 | Pernyataan eksplisit Cyntia ("lingkupnya jadi terasa realistis", "langkah konkret yang sangat menenangkan"). |
+| Knowledge | Mengerti gambaran besar tetapi belum fokus memilih satu masalah krusial. | Memahami pentingnya pencatatan pesanan terpusat dan bahaya memperluas lingkup sebelum evaluasi. | AI003, AI004, AI007 | Pemahaman operasional terkonfirmasi dari persetujuan penundaan fitur stok. |
+| Skill | Kreatif namun tindak lanjut belum konsisten; butuh pendampingan. | Kesiapan menunjuk satu staf penghubung dan menjalankan alur *pilot* secara terstruktur. | AI005, AI007 | Kesiapan simulasi tokoh; penerapan teknis nyata oleh tim di luar sesi menunggu pelaksanaan *pilot*. |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| E1 (U002–AI002) | Cyntia antusias tetapi sibuk dan bingung memilih prioritas (Attitude/Knowledge). | Memvalidasi kesibukannya, menawarkan fleksibilitas waktu, dan menanyakan prioritas utama. | Mengaku antusias, membeberkan masalah promosi, stok, dan tumpukan pesan. | Attitude sangat terbuka; Knowledge mulai memetakan opsi. | Mahasiswa sempat mengusulkan stok, namun Cyntia meminta lingkup yang lebih kecil. |
+| E2 (U004–AI004) | Cyntia ingin fokus pada pesanan tercecer dengan *pilot project* kecil (Knowledge/Skill). | Menyetujui *pilot project* pencatatan terpusat dan formulir pemesanan digital. | Merasa pas dan menanyakan penanggung jawab teknis serta durasi *pilot*. | Knowledge terkonfirmasi; Skill butuh kejelasan pendamping. | Mahasiswa langsung menawarkan diri sebagai penanggung jawab selama 3 bulan. |
+| E3 (U005–AI005) | Cyntia butuh kepastian pendampingan agar proyek tidak terbengkalai (Skill/Action). | Berkomitmen menjadi penanggung jawab langsung selama 3 bulan dengan evaluasi rutin. | Sangat setuju dan merasa skema realistis serta tidak membingungkan. | Action tercapai; S/kesiapan terkonfirmasi. | Mahasiswa masuk ke evaluasi sementara. |
+| E4 / Uji Ulang (U007–AI007) | Kendala baru: Cyntia tergiur tambah fitur stok saat bazar UMKM (Attitude/Skill). | Menyarankan tetap fokus pada pencatatan pesanan, menunjuk 1 staf penghubung, dan menjadikan bazar ajang observasi. | Sangat setuju, merasa tersadar, dan makin mantap menjalankan *pilot project*. | Attitude terkendali; Skill terproteksi dari *scope creep*. | Adaptasi sangat efektif mengendalikan antusiasme berlebih klien visioner. |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U002 | "...kami memahami kalau minggu ini jadwal Kakak sedang padat. Kami sebagai konsultan akan menyesuaikan waktu..." | "Terima kasih banyak ya sudah paham dengan kesibukan saya." | Awal: Sedang → Akhir: Tinggi | Pengakuan terhadap beban kerja Cyntia secara langsung menurunkan defensivitas dan membangun empati. |
+| U005 | "Saya sendiri akan menjadi penanggung jawab teknis sekaligus mendampingi proses uji coba selama kurang lebih tiga bulan..." | "Komitmen kamu untuk turun langsung... ini pas banget, Max!" | Kepercayaan: Tinggi, Keterbukaan: Tinggi | Menunjukkan dukungan konkret dan tanggung jawab nyata, menjawab hambatan keterbatasan waktu Cyntia. |
+| U007 | "...agar uji coba kita tidak kehilangan fokus, sebaiknya kita tetap memprioritaskan pencatatan pesanan terpusat dahulu..." | "Keputusan kamu untuk tetap menjaga fokus itu sangat bijak, Max!" | Kepercayaan: Sangat Tinggi | Ketegangan suportif (menjaga batasan) membangun rasa hormat dan kepemimpinan konsultan. |
+
+## Uji ulang dan pembelajaran
+
+Pada tahap uji ulang, Cyntia mendapatkan kesempatan bazar UMKM dan tergiur menambahkan fitur pencatatan stok yang dapat mengganggu *pilot project*. Mahasiswa merespons dengan:
+1. Memvalidasi bahwa peluang bazar sangat menarik (*positive reinforcement*).
+2. Bersikap tegas menjaga batasan lingkup (*scope control*) agar tim Cyntia tidak kewalahan.
+3. Memberikan solusi praktis (menunjuk 1 staf penghubung dan menjadikan bazar sebagai ajang observasi kebutuhan).
+
+Uji ulang membuktikan kemampuan mahasiswa mengelola tipe klien ENFP/visioner yang berpotensi *scope creep*, dengan mengarahkan antusiasme tersebut ke jalur eksekusi yang realistis.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---:|---|---|
+| Tujuan dan konteks | 4 | U005, U007, AI005 | Mahasiswa berhasil memimpin diskusi menuju tujuan konkret: *pilot project* 3 bulan dengan lingkup terfokus dan penanggung jawab terdefinisi. |
+| Persepsi dan validasi profil/status | 4 | U002, U004, U007 | Mahasiswa secara jitu membaca dinamika Cyntia (antusias tapi prioritas mudah terpecah) dan mengendalikannya dengan baik. |
+| Pemilihan dan urutan repertoar | 4 | U001–U007 | Urutan komunikasi sangat terstruktur: fleksibilitas awal → penentuan masalah krusial → penyusunan lingkup *pilot* → penegasan batasan saat uji ulang. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U002, U005, U007 | Penyampaian ramah, menghargai waktu klien, serta menunjukkan komitmen pendampingan teknis secara konsisten. |
+| Evaluasi dan adaptasi | 4 | U006, U007, AI007 | Evaluasi sementara dilakukan secara cermat dan adaptasi saat uji ulang berhasil menyelamatkan proyek dari risiko *scope creep*. |
+| Refleksi dan lesson learned | 4 | U008 | Refleksi disusun secara matang, mencakup dinamika relasional, efektivitas stimulus, serta pelajaran menangani klien visioner. |
+
+**Nilai Usulan AI = (24 / 24) × 100 = 100** *(Memerlukan moderasi dosen; hasil tujuan terpisah dari nilai proses)*.
+
+## Refleksi dan lesson learned mahasiswa
+
+- **Koreksi Dugaan & Persepsi:** Klien yang antusias dan visioner tidak selalu membutuhkan ide-ide baru yang semakin besar. Sebaliknya, mereka sangat membutuhkan konsultan yang mampu membatasi lingkup (*scope boundary*) dan menjaga fokus pada satu prioritas utama.
+- **Efektivitas Stimulus:** Stimulus paling efektif adalah sikap empati pada kesibukan awal, komitmen penanggung jawab teknis langsung, serta saran bijak untuk tidak memperluas lingkup proyek di tengah jalan.
+- **Pelajaran untuk Praktik Komunikasi:** Dalam menawarkan solusi TI/AI kepada pengusaha yang dinamis, keberhasilan komunikasi ditentukan oleh kemampuan menyederhanakan masalah, menetapkan indikator terukur, dan menyediakan *mitigasi distraksi operasional*.
+
+## Tindak lanjut dan batas bukti
+
+- **Rencana Tindak Lanjut:**
+  1. Menyiapkan alur formulir digital dan pencatatan pesanan terpusat untuk *pilot project*.
+  2. Melakukan koordinasi awal dengan 1 staf penghubung yang ditunjuk Cyntia.
+  3. Memulai *pilot project* selama 3 bulan dengan pendampingan teknis langsung.
+  4. Memanfaatkan bazar UMKM minggu depan hanya sebagai sarana observasi alur pesanan tanpa mengubah sistem yang disepakati.
+  5. Evaluasi berkala setiap bulan berbasis indikator penurunan pesanan tercecer.
+- **Batas Bukti:**
+  1. Interaksi dilaksanakan dalam simulasi berbasis teks, sehingga aspek non-verbal seperti intonasi suara dan ekspresi wajah tidak terekam.
+  2. Kesediaan Cyntia merupakan representasi komitmen simulasi; adopsi nyata di lapangan masih bergantung pada eksekusi teknis dan konsistensi tim saat *pilot project* berjalan.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 2a | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 2b | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 3a | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 3b | 18% | Jumlah enam skor / 24 × 100 |
+| **Total** | **100%** | |
+
+**Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**, dengan seluruh nilai komponen pada skala 0–100. Bobot ini berlaku di dalam nilai UTS.
+
+Nilai sesi hanya dihitung jika keenam skor sah tersedia. BT berarti belum dapat ditetapkan, bukan nol; komponen yang belum tersedia atau belum dapat dinilai tidak dianggap nol dan bobotnya tidak dinormalisasi ulang. Nilai akhir ditulis **Belum dihitung** sampai nilai makalah dan kelima sesi tersedia.
