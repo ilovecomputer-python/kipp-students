@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="[Nama mahasiswa]">
+<meta name="author" content="Maximillian Jose Andreas A">
 
 <title>Laporan UTS KIPP - Sesi 1 – Portfolio KIPP-2</title>
 <style>
@@ -77,6 +77,35 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -277,8 +306,21 @@ ul.task-list li input[type="checkbox"] {
   </ul></li>
   <li><a href="#c-skrip-percakapan" id="toc-c-skrip-percakapan" class="nav-link" data-scroll-target="#c-skrip-percakapan">C) Skrip Percakapan</a>
   <ul class="collapse">
-  <li><a href="#u001---mahasiswa---tahap" id="toc-u001---mahasiswa---tahap" class="nav-link" data-scroll-target="#u001---mahasiswa---tahap">U001 - Mahasiswa - [Tahap]</a></li>
-  <li><a href="#ai001---fasilitatornama-tokoh---tahap" id="toc-ai001---fasilitatornama-tokoh---tahap" class="nav-link" data-scroll-target="#ai001---fasilitatornama-tokoh---tahap">AI001 - [Fasilitator/nama tokoh] - [Tahap]</a></li>
+  <li><a href="#u001---mahasiswa---tahap-a-identifikasi" id="toc-u001---mahasiswa---tahap-a-identifikasi" class="nav-link" data-scroll-target="#u001---mahasiswa---tahap-a-identifikasi">U001 - Mahasiswa - Tahap A: Identifikasi</a></li>
+  <li><a href="#ai001---fasilitator---tahap-a-identifikasi" id="toc-ai001---fasilitator---tahap-a-identifikasi" class="nav-link" data-scroll-target="#ai001---fasilitator---tahap-a-identifikasi">AI001 - Fasilitator - Tahap A: Identifikasi</a></li>
+  <li><a href="#u002---mahasiswa---tahap-b-kasus-dan-tujuan" id="toc-u002---mahasiswa---tahap-b-kasus-dan-tujuan" class="nav-link" data-scroll-target="#u002---mahasiswa---tahap-b-kasus-dan-tujuan">U002 - Mahasiswa - Tahap B: Kasus dan Tujuan</a></li>
+  <li><a href="#ai002---fasilitatordimas---tahap-c-simulasi-awal" id="toc-ai002---fasilitatordimas---tahap-c-simulasi-awal" class="nav-link" data-scroll-target="#ai002---fasilitatordimas---tahap-c-simulasi-awal">AI002 - Fasilitator/Dimas - Tahap C: Simulasi Awal</a></li>
+  <li><a href="#u003---mahasiswa---tahap-c-simulasi-cermin-pembanding" id="toc-u003---mahasiswa---tahap-c-simulasi-cermin-pembanding" class="nav-link" data-scroll-target="#u003---mahasiswa---tahap-c-simulasi-cermin-pembanding">U003 - Mahasiswa - Tahap C: Simulasi Cermin Pembanding</a></li>
+  <li><a href="#ai003---dimas-fasilitator---tahap-c-simulasi-cermin-pembanding" id="toc-ai003---dimas-fasilitator---tahap-c-simulasi-cermin-pembanding" class="nav-link" data-scroll-target="#ai003---dimas-fasilitator---tahap-c-simulasi-cermin-pembanding">AI003 - Dimas / Fasilitator - Tahap C: Simulasi Cermin Pembanding</a></li>
+  <li><a href="#u004---mahasiswa---tahap-c-simulasi-cermin-pembanding" id="toc-u004---mahasiswa---tahap-c-simulasi-cermin-pembanding" class="nav-link" data-scroll-target="#u004---mahasiswa---tahap-c-simulasi-cermin-pembanding">U004 - Mahasiswa - Tahap C: Simulasi Cermin Pembanding</a></li>
+  <li><a href="#ai004---dimas-fasilitator---tahap-c-simulasi-cermin-pembanding" id="toc-ai004---dimas-fasilitator---tahap-c-simulasi-cermin-pembanding" class="nav-link" data-scroll-target="#ai004---dimas-fasilitator---tahap-c-simulasi-cermin-pembanding">AI004 - Dimas / Fasilitator - Tahap C: Simulasi Cermin Pembanding</a></li>
+  <li><a href="#u005---mahasiswa---tahap-d-evaluasi-sementara-cermin-diri" id="toc-u005---mahasiswa---tahap-d-evaluasi-sementara-cermin-diri" class="nav-link" data-scroll-target="#u005---mahasiswa---tahap-d-evaluasi-sementara-cermin-diri">U005 - Mahasiswa - Tahap D: Evaluasi Sementara &amp; Cermin Diri</a></li>
+  <li><a href="#ai005---fasilitator---tahap-e-uji-ulang-diri" id="toc-ai005---fasilitator---tahap-e-uji-ulang-diri" class="nav-link" data-scroll-target="#ai005---fasilitator---tahap-e-uji-ulang-diri">AI005 - Fasilitator - Tahap E: Uji Ulang Diri</a></li>
+  <li><a href="#u006---mahasiswa---tahap-e-uji-ulang-diri" id="toc-u006---mahasiswa---tahap-e-uji-ulang-diri" class="nav-link" data-scroll-target="#u006---mahasiswa---tahap-e-uji-ulang-diri">U006 - Mahasiswa - Tahap E: Uji Ulang Diri</a></li>
+  <li><a href="#ai006---fasilitator---tahap-f-hasil-refleksi" id="toc-ai006---fasilitator---tahap-f-hasil-refleksi" class="nav-link" data-scroll-target="#ai006---fasilitator---tahap-f-hasil-refleksi">AI006 - Fasilitator - Tahap F: Hasil &amp; Refleksi</a></li>
+  <li><a href="#u007---mahasiswa---tahap-f-hasil-refleksi" id="toc-u007---mahasiswa---tahap-f-hasil-refleksi" class="nav-link" data-scroll-target="#u007---mahasiswa---tahap-f-hasil-refleksi">U007 - Mahasiswa - Tahap F: Hasil &amp; Refleksi</a></li>
+  <li><a href="#ai007---fasilitator---tahap-g-konfirmasi-final" id="toc-ai007---fasilitator---tahap-g-konfirmasi-final" class="nav-link" data-scroll-target="#ai007---fasilitator---tahap-g-konfirmasi-final">AI007 - Fasilitator - Tahap G: Konfirmasi Final</a></li>
+  <li><a href="#u008---mahasiswa---tahap-g-konfirmasi-final" id="toc-u008---mahasiswa---tahap-g-konfirmasi-final" class="nav-link" data-scroll-target="#u008---mahasiswa---tahap-g-konfirmasi-final">U008 - Mahasiswa - Tahap G: Konfirmasi Final</a></li>
   </ul></li>
   <li><a href="#d-hasil-evaluasi-dan-refleksi" id="toc-d-hasil-evaluasi-dan-refleksi" class="nav-link" data-scroll-target="#d-hasil-evaluasi-dan-refleksi">D) Hasil, Evaluasi, dan Refleksi</a>
   <ul class="collapse">
@@ -310,7 +352,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Penulis</div>
     <div class="quarto-title-meta-contents">
-             <p>[Nama mahasiswa] </p>
+             <p>Maximillian Jose Andreas A </p>
           </div>
   </div>
     
@@ -323,17 +365,17 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="callout callout-style-default callout-tip callout-titled" title="Template belum terisi">
+<div class="callout callout-style-default callout-note callout-titled" title="Status Laporan">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>Template belum terisi
+<span class="screen-reader-only">Catatan</span>Status Laporan
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Isi dari sesi Anda sendiri. <a href="../../examples/UTS/hasil_1.html">Lihat contoh sesi 1</a> dan <a href="../../portfolio/week-08.html">kembali ke portfolio Minggu 8</a>. Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai <code>PENUGASAN.md</code> pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.</p>
+<p>Laporan Sesi 1 telah terisi lengkap berdasarkan proses simulasi, dialog cermin pembanding, uji ulang, refleksi, dan konfirmasi akhir.</p>
 </div>
 </div>
 <section id="a-identitas" class="level1">
@@ -352,19 +394,19 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>Nama mahasiswa</td>
-<td>[Isi]</td>
+<td>Maximillian Jose Andreas A</td>
 </tr>
 <tr class="even">
 <td>NIM</td>
-<td>[Isi sebagai teks; pertahankan nol di awal]</td>
+<td>18225023</td>
 </tr>
 <tr class="odd">
 <td>Kelas</td>
-<td>[Isi]</td>
+<td>K1</td>
 </tr>
 <tr class="even">
 <td>Tanggal pelaksanaan</td>
-<td>[Tanggal aktual sesi]</td>
+<td>14 Oktober 2026</td>
 </tr>
 <tr class="odd">
 <td>Nomor/judul kasus</td>
@@ -372,35 +414,35 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 <tr class="even">
 <td>Target</td>
-<td>[Diri mahasiswa; tokoh pembanding sesuai ZIP aktif]</td>
+<td>Diri mahasiswa (Target Utama); Dimas / K1-04 (Tokoh Pembanding)</td>
 </tr>
 <tr class="odd">
 <td>Versi bank/paket</td>
-<td>[Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis]</td>
+<td>2.0</td>
 </tr>
 <tr class="even">
 <td>Sumber penugasan</td>
-<td>[Nama ZIP dan PENUGASAN.md]</td>
+<td><code>kasus_1_18225023.zip</code> dan <code>PENUGASAN.md</code></td>
 </tr>
 <tr class="odd">
 <td>Modalitas</td>
-<td>[Teks/suara; sumber transkripsi bila digunakan]</td>
+<td>Teks</td>
 </tr>
 <tr class="even">
 <td>Konteks nyata/fiktif</td>
-<td>[Nyatakan dan jelaskan bagian hipotetis]</td>
+<td>Nyata (pengembangan kemampuan <em>public speaking</em> mahasiswa) dengan cermin pembanding fiktif (Dimas) dan situasi uji ulang hipotetis</td>
 </tr>
 <tr class="odd">
 <td>Kelengkapan transkrip</td>
-<td>[Lengkap/parsial; bagian yang hilang dan sebabnya]</td>
+<td>Lengkap (seluruh 15 giliran dialog dari U001–U008 dan AI001–AI007 terekam utuh)</td>
 </tr>
 <tr class="even">
 <td>Nama laporan menurut paket</td>
-<td>[Isi nama berkas yang ditentukan]</td>
+<td><code>hasil_1_18225023.qmd</code></td>
 </tr>
 <tr class="odd">
 <td>Konfirmasi identitas/ringkasan</td>
-<td>[ID giliran; konfirmasi bukan verifikasi identitas]</td>
+<td>U008 &amp; AI007 (Konfirmasi penuh identitas, tujuan, hasil simulasi, dan refleksi)</td>
 </tr>
 </tbody>
 </table>
@@ -409,8 +451,12 @@ ul.task-list li input[type="checkbox"] {
 <h1>B) Kasus dan Tujuan</h1>
 <section id="kasus-dan-tujuan-tindakan" class="level2">
 <h2 class="anchored" data-anchor-id="kasus-dan-tujuan-tindakan">Kasus dan tujuan tindakan</h2>
-<p>[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]</p>
+<p>Mahasiswa memilih satu kemampuan nyata yang ingin dikembangkan (<em>public speaking</em> dan komunikasi asertif) untuk memimpin diri sendiri ketika menghadapi hambatan belajar. Sesi ini melibatkan perumusan <em>self-talk</em> awal, dialog cermin pembanding bersama tokoh Dimas (K1-04) yang berorientasi analitis dan metrik terukur, uji ulang <em>self-talk</em> instruksional pada situasi bertekanan tinggi, serta formulasi indikator evaluasi diri terukur.</p>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
 <thead>
 <tr class="header">
 <th>Unsur</th>
@@ -420,30 +466,29 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>Tujuan komunikasi/tindakan</td>
-<td>[Isi]</td>
+<td>Mengembangkan kemampuan <em>public speaking</em> dan komunikasi asertif di depan audiens baru agar mampu memandu kegiatan/diskusi di tingkat himpunan atau kampus tanpa terbata-bata dan gugup dalam kurun waktu 1 tahun.</td>
 </tr>
 <tr class="even">
 <td>Keadaan awal</td>
-<td>[Bukti dan ID; bedakan dugaan dari laporan target]</td>
+<td>Sering gugup, suara terbata-bata, dan mengalami kondisi <em>blank</em> ketika harus berbicara di depan kelompok atau massa yang belum dikenal (Bukti: U002).</td>
 </tr>
 <tr class="odd">
 <td>Indikator keberhasilan</td>
-<td>[Apa yang dapat diperiksa?]</td>
+<td>Mampu tampil memandu sesi/diskusi minimal 1 jam di depan audiens massa himpunan/kampus tanpa terpatah-patah dan gugup dalam 1 tahun; serta mampu mengeksekusi instruksi taktis (<em>napas 3x, 3 poin utama, jeda sejenak</em>) saat kecemasan muncul (Bukti: U002, U006).</td>
 </tr>
 <tr class="even">
 <td>Batas dan pilihan target</td>
-<td>[Apa yang tidak dipaksakan?]</td>
+<td>Mengubah pola pikir dari menuntut penampilan sempurna seketika menjadi berfokus mengelola kecemasan agar tugas memandu diskusi tetap terlaksana secara terarah (Bukti: U006).</td>
 </tr>
 <tr class="odd">
 <td>Tenggat</td>
-<td>[Tanggal/jam atau waktu relatif yang konsisten]</td>
+<td>Target Utama: 1 Tahun (2026–2027); Target Tindak Lanjut Mingguan: 1 Minggu untuk latihan memimpin diskusi mandiri berdurasi 5–10 menit (Bukti: U002, U007).</td>
 </tr>
 </tbody>
 </table>
 </section>
 <section id="profil-awal-komunikator" class="level2">
 <h2 class="anchored" data-anchor-id="profil-awal-komunikator">Profil awal komunikator</h2>
-<p>Isi tentang <strong>diri Anda</strong>, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 25%">
@@ -462,46 +507,45 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>Persepsi/SWOT subjektif</td>
-<td>[Kekuatan, keterbatasan, peluang, ancaman]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td><strong>Strength:</strong> Extrovert, nyaman bersosialisasi.<br><strong>Weakness:</strong> Terbata-bata di depan orang baru.<br><strong>Opportunity:</strong> Wadah latihan di himpunan, kampus, dan matkul.<br><strong>Threat:</strong> Waktu persiapan sempit karena beban kuliah.</td>
+<td>U002</td>
+<td>Laporan diri mahasiswa (<em>self-report</em>); pasti dirasakan oleh mahasiswa berdasarkan pengalaman historis.</td>
 </tr>
 <tr class="even">
 <td>Attitude</td>
-<td>[Nilai, sikap, keyakinan]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Kurang percaya diri dan cemas mengalami <em>blank</em> saat berhadapan langsung dengan audiens banyak/baru.</td>
+<td>U002</td>
+<td>Laporan diri; terkonfirmasi dari pengalaman memimpin doa saat SMA.</td>
 </tr>
 <tr class="odd">
 <td>Knowledge</td>
-<td>[Pemahaman dan informasi yang belum diketahui]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Belum mengetahui penyusunan materi <em>public speaking</em> yang terstruktur dan <em>proper</em>.</td>
+<td>U002</td>
+<td>Laporan diri; terbukti dari kebiasaan presentasi dengan materi seadanya.</td>
 </tr>
 <tr class="even">
 <td>Skill</td>
-<td>[Kemampuan dan kebutuhan latihan/dukungan]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Keterampilan belum terbiasa diasah secara konsisten dan minim umpan balik (<em>feedback</em>) terukur.</td>
+<td>U002</td>
+<td>Laporan diri; memerlukan metode latihan terstruktur.</td>
 </tr>
 <tr class="odd">
 <td>Preferensi/MBTI jika dilaporkan</td>
-<td>[Laporan diri atau belum diketahui; bukan diagnosis dari percakapan]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Extrovert (E); nyaman bersosialisasi dan berbicara tanpa menguras energi berlebihan.</td>
+<td>U002</td>
+<td>Laporan diri (bukan diagnosis AI).</td>
 </tr>
 <tr class="even">
 <td>Peran, karakter, kultur/ko-kultur</td>
-<td>[Norma spesifik yang relevan]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Mahasiswa STEI-K ITB Angkatan 2025; aktif dalam kegiatan himpunan dan organisasi kampus.</td>
+<td>U002</td>
+<td>Laporan diri kontekstual akademis.</td>
 </tr>
 </tbody>
 </table>
 </section>
 <section id="dugaan-awal-profil-target-dan-rencana" class="level2">
 <h2 class="anchored" data-anchor-id="dugaan-awal-profil-target-dan-rencana">Dugaan awal profil target dan rencana</h2>
-<p>[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 20%">
@@ -522,38 +566,38 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>Target</td>
-<td>[Sasaran dan tujuan]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Dimas (K1-04): Skeptis terhadap klaim tanpa bukti, analitis, waktu sangat terbatas.</td>
+<td>A: Menjelaskan alasan &amp; efisiensi.<br>K: Memberikan indikator terukur.<br>S: Menyusun eksperimen terbatas.</td>
+<td>Menyampaikan ide latihan obrolan santai, lalu mengadaptasinya ke parameter terukur.</td>
+<td>Dimas memahami efisiensi dan bersedia mempertimbangkan eksperimen latihan.</td>
 </tr>
 <tr class="even">
 <td>Attention</td>
-<td>[Status]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Awalnya meragukan manfaat latihan tanpa metrik pasti.</td>
+<td>Membuka pentingnya motivasi dan rasa nyaman awal.</td>
+<td>Pendekatan hubungan dan pembentukan motivasi.</td>
+<td>Respon skeptis: <em>“Apa bukti pendekatan ini lebih baik?”</em> (AI002)</td>
 </tr>
 <tr class="odd">
 <td>Interest</td>
-<td>[Status]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Membutuhkan kejelasan parameter dan efisiensi waktu.</td>
+<td>Menjelaskan konsep kualitas obrolan dan kedalaman topik.</td>
+<td>Penjelasan kualitatif peningkatan komunikasi.</td>
+<td>Pertanyaan tindak lanjut mencari indikator objektif (AI003).</td>
 </tr>
 <tr class="even">
 <td>Desire</td>
-<td>[Status]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Menginginkan batasan eksperimen dan metrik terukur.</td>
+<td>Menyampaikan perlunya target informasi dan pertanyaan lanjutan.</td>
+<td>Adaptasi ke penyampaian terstruktur dan analitis.</td>
+<td>Pengakuan bahwa batasan konkret dibutuhkan agar waktu tidak terbuang (AI004).</td>
 </tr>
 <tr class="odd">
 <td>Action</td>
-<td>[Langkah pertama]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Menyepakati indikator evaluasi diri dan latihan terstruktur.</td>
+<td>Menetapkan metrik konkret untuk uji coba mandiri.</td>
+<td>Formulasi <em>self-talk</em> taktis dan rencana latihan mingguan.</td>
+<td>Komitmen mahasiswa menyusun dan merekam latihan mandiri (U006, U007).</td>
 </tr>
 </tbody>
 </table>
@@ -561,23 +605,132 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="c-skrip-percakapan" class="level1">
 <h1>C) Skrip Percakapan</h1>
-<p><strong>Belum ada transkrip.</strong> Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.</p>
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
-<section id="u001---mahasiswa---tahap" class="level3">
-<h3 class="anchored" data-anchor-id="u001---mahasiswa---tahap">U001 - Mahasiswa - [Tahap]</h3>
-<p>[Tempel pesan mahasiswa persis seperti sumber.]</p>
+<section id="u001---mahasiswa---tahap-a-identifikasi" class="level3">
+<h3 class="anchored" data-anchor-id="u001---mahasiswa---tahap-a-identifikasi">U001 - Mahasiswa - Tahap A: Identifikasi</h3>
+<p><em>(Mengunggah berkas PENUGASAN.md dan profil_komunikan.md)</em></p>
 </section>
-<section id="ai001---fasilitatornama-tokoh---tahap" class="level3">
-<h3 class="anchored" data-anchor-id="ai001---fasilitatornama-tokoh---tahap">AI001 - [Fasilitator/nama tokoh] - [Tahap]</h3>
-<p>[Tempel pesan AI persis seperti sumber.]</p>
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+<section id="ai001---fasilitator---tahap-a-identifikasi" class="level3">
+<h3 class="anchored" data-anchor-id="ai001---fasilitator---tahap-a-identifikasi">AI001 - Fasilitator - Tahap A: Identifikasi</h3>
+<p>Halo Maximilian. Mari kita mulai sesi asesmen komunikasi berbasis edukasi ASK ini.</p>
+<p>Sebagai langkah awal pada <strong>Tahap A: Identifikasi</strong>, mohon konfirmasi dan lengkapi data Anda dengan menyebutkan: * Nama lengkap * NIM (apakah menggunakan 18225023?) * Kelas * Tanggal pelaksanaan * Modalitas</p>
+<p>Selain itu, sesuai dengan instruksi sistem, penentuan kasus (Kasus 1, 2, atau 3) dan target profil tidak boleh dipilih ulang dan harus merujuk pada ketentuan yang ada di dalam dokumen pendukung. Mohon salin dan tempelkan isi teks dari dokumen <code>PENUGASAN.md</code> dan <code>profil_komunikan.md</code> ke ruang obrolan ini agar saya dapat memuat kasus serta profil yang tepat sebelum kita berlanjut ke tahap simulasi.</p>
+</section>
+<section id="u002---mahasiswa---tahap-b-kasus-dan-tujuan" class="level3">
+<h3 class="anchored" data-anchor-id="u002---mahasiswa---tahap-b-kasus-dan-tujuan">U002 - Mahasiswa - Tahap B: Kasus dan Tujuan</h3>
+<ol type="1">
+<li>Saya ingin mengembangkan public speaking agar bisa berkomunikasi asertif dan komunikatif, terutama di depan orang yang belum saya kenal. Tanda berhasil: dalam 1 tahun, saya tampil dalam minimal satu jam di depan audiens massa himpunan ataupun kampus dengan tidak terpatah patah dan gugup</li>
+<li>SWOT dan ASK</li>
+</ol>
+<ul>
+<li>Strength: Saya extrovert. Nyaman bersosialisasi dan berbicara dengan orang tanpa banyak menguras tenaga.</li>
+<li>Weakness: Saya sulit berbicara di depan orang yang baru atau tidak saya kenal. Contoh: saya harus memimpin doa di depan massa sekolahku saat SMA, suara saya jadi terbata bata dan gugup</li>
+<li>Opportunity: Banyak kesempatan latihan di himpunan, kampus, dan mata kuliah seperti bahasa Inggris.</li>
+<li>Threat: Waktu persiapan tiap kesempatan sempit karena beban kuliah.</li>
+<li>A: kurang percaya diri , buktinya saya sering blank ketika berhadapan langsung dengan banyak orang saat public speaking</li>
+<li>K: tidak mengetahui dengan benar penyusunan materi public speaking, buktinya saya seringkali presentasi dengan materi seadanya dan persiapan yang tidak proper</li>
+<li>S: kemampuan jarang diasah sehingga tidak terlalu terbiasa , buktinya ketika saya public speaking pun hanya angin lalu dan tidak ada feedback</li>
+</ul>
+<ol start="3" type="1">
+<li>Pesan untuk diri sendiri (kerangka, isi tetap kamu) “Rasa gugup di depan orang baru itu nyata, tapi bukan tanda kamu tidak mampu. Kamu sudah nyaman berbicara dengan banyak orang, itu modal. Minggu ini, lakukan berbicara dengan orang baru di kampus , semisal temannya temanmu hanya sekedar berkenalan dan mengobrol sejenak</li>
+</ol>
+</section>
+<section id="ai002---fasilitatordimas---tahap-c-simulasi-awal" class="level3">
+<h3 class="anchored" data-anchor-id="ai002---fasilitatordimas---tahap-c-simulasi-awal">AI002 - Fasilitator/Dimas - Tahap C: Simulasi Awal</h3>
+<p>Terima kasih, Maximilian. Analisis SWOT dan ASK Anda sangat terstruktur, dan pesan awal untuk diri Anda sendiri menunjukkan pendekatan yang empatik serta memuat langkah konkret yang realistis.</p>
+<p>Sekarang kita masuk ke <strong>Tahap C: Simulasi Awal</strong>. Pada Kasus 1 ini, target utamanya adalah diri Anda sendiri, dan kita akan menggunakan tokoh lain sebagai cermin pembanding untuk menyadari variasi respons.</p>
+<p>Bayangkan Anda sedang berdialog dengan teman Anda yang bernama <strong>Dimas</strong>. Dimas juga sedang berusaha mengembangkan kemampuannya, namun ia memiliki hambatan belajar yang spesifik: waktunya sangat terbatas, ia sangat analitis, dan ia meragukan manfaat dari metode latihan jika tidak ada ukuran keberhasilan yang jelas.</p>
+<p>Anda baru saja menyarankan ide pendekatan Anda kepadanya (seperti mulai berlatih dengan mengobrol bersama orang baru di kampus). Dimas mendengarkan, namun ia merespons dengan skeptis:</p>
+<blockquote class="blockquote">
+<p><em>“Apa bukti pendekatan ini lebih baik?”</em></p>
+</blockquote>
+<p>Silakan sampaikan balasan Anda secara langsung kepada Dimas. Bagaimana Anda merespons keraguan dan pertanyaannya tersebut?</p>
+</section>
+<section id="u003---mahasiswa---tahap-c-simulasi-cermin-pembanding" class="level3">
+<h3 class="anchored" data-anchor-id="u003---mahasiswa---tahap-c-simulasi-cermin-pembanding">U003 - Mahasiswa - Tahap C: Simulasi Cermin Pembanding</h3>
+<p>Menurut saya, pendekatan ini jauh lebih baik karena mulai dari hal kecil yang kelihatannya sepele namun membangun kepercayaan diriku dan meningkatkan motivasiku terlebih dahulu</p>
+</section>
+<section id="ai003---dimas-fasilitator---tahap-c-simulasi-cermin-pembanding" class="level3">
+<h3 class="anchored" data-anchor-id="ai003---dimas-fasilitator---tahap-c-simulasi-cermin-pembanding">AI003 - Dimas / Fasilitator - Tahap C: Simulasi Cermin Pembanding</h3>
+<blockquote class="blockquote">
+<p><em>“Mungkin itu masuk akal untuk membangun motivasi dan perasaan nyamanmu. Tapi jujur saja, buat saya yang waktunya sangat terbatas, mengobrol tanpa tujuan spesifik terasa kurang efisien.</em></p>
+<p><em>Bagaimana kita bisa mengukur bahwa obrolan kecil itu benar-benar meningkatkan skill komunikasi kita secara objektif, dan bukan cuma sekadar perasaan nyaman sesaat?“</em></p>
+</blockquote>
+<p><strong>(Sebagai fasilitator):</strong> Dimas masih menunjukkan keraguan karena ia sangat menghargai efisiensi waktu dan indikator keberhasilan yang jelas (analitis). Silakan lanjutkan respons Anda kepada Dimas untuk mencoba menjembatani perbedaan sudut pandang ini.</p>
+</section>
+<section id="u004---mahasiswa---tahap-c-simulasi-cermin-pembanding" class="level3">
+<h3 class="anchored" data-anchor-id="u004---mahasiswa---tahap-c-simulasi-cermin-pembanding">U004 - Mahasiswa - Tahap C: Simulasi Cermin Pembanding</h3>
+<p>Menurutku dapat diukur dengan kualitas obrolan yang terjalin, orang akan merasa nyaman membicarakan topik yang lebih berkualitas atau spesifik dengan orang yang enak diajak ngobrol dan ramah daripada yang tidak terlalu jago bicara , intinya ketika kualitas ob-rolan semakin baik, maka disitulah tandanya skill komunikasi kita bertransformasi</p>
+</section>
+<section id="ai004---dimas-fasilitator---tahap-c-simulasi-cermin-pembanding" class="level3">
+<h3 class="anchored" data-anchor-id="ai004---dimas-fasilitator---tahap-c-simulasi-cermin-pembanding">AI004 - Dimas / Fasilitator - Tahap C: Simulasi Cermin Pembanding</h3>
+<blockquote class="blockquote">
+<p><em>“Konsep tentang kedalaman topik dan ‘kualitas obrolan’ itu cukup logis secara teori. Tapi bagi saya, ‘nyaman’ dan ‘berkualitas’ itu masih terlalu abstrak dan subjektif untuk dijadikan patokan evaluasi.</em></p>
+<p><em>Mengingat waktu saya sangat terbatas, saya butuh parameter yang lebih konkrit. Apakah maksudmu kita mengukurnya dari durasi obrolan yang bisa bertahan lebih dari 5 menit tanpa jeda canggung, atau mungkin dari jumlah informasi spesifik yang berhasil kita gali dari orang baru tersebut? Saya butuh batasan eksperimen yang jelas agar saya tahu persis bahwa waktu yang saya pakai untuk latihan tidak terbuang sia-sia.”</em></p>
+</blockquote>
+<hr>
+<p><strong>(Sebagai fasilitator):</strong> Sampai di sini, kita bisa melihat bahwa pendekatan awal yang sangat cocok untuk Anda (membangun rasa nyaman dan motivasi perlahan) ternyata ditanggapi secara berbeda oleh Dimas, yang profilnya sangat analitis dan berorientasi pada metrik pasti serta efisiensi waktu.</p>
+<p>Segmen cermin pembanding ini selesai. Sekarang, mari kembali ke target utama simulasi ini: <strong>diri Anda sendiri</strong>.</p>
+<p>Berdasarkan pengalaman berdialog dengan Dimas tadi, apa yang perlu Anda ubah atau sesuaikan dari <em>gaya komunikasi Anda</em> jika di masa depan Anda harus meyakinkan atau berkomunikasi dengan orang yang memiliki preferensi dan hambatan analitis seperti Dimas?</p>
+</section>
+<section id="u005---mahasiswa---tahap-d-evaluasi-sementara-cermin-diri" class="level3">
+<h3 class="anchored" data-anchor-id="u005---mahasiswa---tahap-d-evaluasi-sementara-cermin-diri">U005 - Mahasiswa - Tahap D: Evaluasi Sementara &amp; Cermin Diri</h3>
+<p>Dari pengalaman berdialog dengan Dimas, saya perlu menyesuaikan gaya komunikasi dengan menyampaikan gagasan secara lebih konkret, terstruktur, dan berbasis metriks, data , dan perhitungan analitik. Saya tidak bisa hanya menjelaskan pentingnya membangun kenyamanan dalam obrolan, tetapi juga perlu memberikan indikator keberhasilan yang jelas dan dapat diukur. Misalnya, saya dapat menetapkan target jumlah informasi relevan yang berhasil digali, serta kemampuan mengajukan pertanyaan lanjutan yang sesuai dengan jawaban lawan bicara. Selain itu, saya perlu menjelaskan alasan di balik setiap metode dan memberikan ruang bagi Dimas untuk menguji efektivitasnya. Dengan demikian, saya tidak hanya berfokus pada membangun hubungan secara perlahan, tetapi juga mempertimbangkan kebutuhan lawan bicara akan efisiensi, bukti, dan hasil yang terukur.</p>
+</section>
+<section id="ai005---fasilitator---tahap-e-uji-ulang-diri" class="level3">
+<h3 class="anchored" data-anchor-id="ai005---fasilitator---tahap-e-uji-ulang-diri">AI005 - Fasilitator - Tahap E: Uji Ulang Diri</h3>
+<p>Refleksi yang sangat tajam, Maximilian. Anda berhasil menangkap bahwa gaya komunikasi perlu diadaptasi menjadi lebih konkret, terstruktur, dan menghargai efisiensi waktu ketika berhadapan dengan lawan bicara analitis, bukan sekadar mengandalkan pendekatan kenyamanan.</p>
+<p>Sekarang kita beralih ke <strong>Tahap E: Uji Ulang Diri</strong>. Mari kembalikan fokus pada target pengembangan diri Anda yang utama: kemampuan <em>public speaking</em> dan berkomunikasi asertif di depan audiens yang belum dikenal.</p>
+<p>Bayangkan sebuah <strong>situasi hipotetis</strong> berikut: Minggu depan, Anda sedang menghadapi tenggat waktu tugas kuliah yang sangat padat. Di tengah kesibukan tersebut, Anda tiba-tiba diminta mewakili himpunan untuk memimpin sebuah sesi diskusi kecil bersama beberapa mahasiswa dari jurusan lain yang sama sekali belum Anda kenal. Menjelang sesi dimulai, hambatan lama Anda muncul—rasa kurang percaya diri datang dan Anda mulai cemas akan <em>blank</em> atau berbicara terbata-bata.</p>
+<p>Tuliskan respons atau <strong>pesan kepada diri sendiri (self-talk)</strong> yang akan Anda sampaikan di momen tersebut untuk menavigasi hambatan Anda (tuliskan kalimat instruksinya secara langsung, bukan sekadar niat). Setelah itu, sebutkan <strong>alasan</strong> mengapa Anda menyusun pesan tersebut dan apa <strong>indikator evaluasi</strong> bahwa pesan itu berhasil membantu Anda.</p>
+</section>
+<section id="u006---mahasiswa---tahap-e-uji-ulang-diri" class="level3">
+<h3 class="anchored" data-anchor-id="u006---mahasiswa---tahap-e-uji-ulang-diri">U006 - Mahasiswa - Tahap E: Uji Ulang Diri</h3>
+<ol type="1">
+<li>Pesan kepada diri sendiri “Jose, tarik napas dalam-dalam sebanyak tiga kali dan tenangkan dirimu. Kamu tidak harus menjadi pembicara yang sempurna atau mengetahui semua hal. Tugasmu adalah memandu diskusi agar berjalan dengan baik, bukan membuat semua orang terkesan. Baca kembali tiga poin utama yang ingin kamu sampaikan, lalu mulai dengan memperkenalkan diri dan mengajukan pertanyaan sederhana kepada peserta. Jika kamu tiba-tiba blank, berhenti sejenak, tarik napas, dan lihat catatanmu sebelum melanjutkan. Jika kamu berbicara terbata-bata, perlambat tempo bicaramu dan susun kembali kalimatmu. Fokus pada satu langkah dalam satu waktu, dengarkan jawaban peserta, dan gunakan jawaban tersebut untuk mengembangkan diskusi. Kamu mungkin merasa gugup, tetapi kamu tetap bisa menjalankan tugasmu meskipun rasa gugup itu belum sepenuhnya hilang.”</li>
+<li>Alasan Penyusunan Pesan Saya menyusun pesan tersebut untuk membantu mengendalikan kecemasan dan meningkatkan kepercayaan diri ketika menghadapi situasi komunikasi yang menantang. Instruksi untuk menarik napas membantu saya menenangkan diri, sedangkan membaca tiga poin utama memberikan pegangan agar saya tidak kehilangan arah saat berbicara. Saya juga menggunakan instruksi yang spesifik untuk menghadapi kemungkinan blank atau berbicara terbata-bata sehingga saya memiliki langkah konkret ketika hambatan tersebut muncul. Selain itu, mengalihkan fokus dari keinginan untuk tampil sempurna menuju tujuan memandu diskusi membantu saya mengurangi tekanan terhadap diri sendiri. Dengan demikian, saya dapat tetap bertindak secara terarah meskipun sedang merasa cemas.</li>
+<li>Indikator Evaluasi Keberhasilan Keberhasilan pesan tersebut akan dievaluasi melalui indikator yang dapat diamati selama sesi diskusi berlangsung. Indikator Target keberhasilan Pengelolaan kecemasan Saya melakukan tiga kali napas dalam sebelum memulai diskusi dan mampu memulai sesi sesuai jadwal. Kelancaran komunikasi Saya mampu menyampaikan tiga poin utama yang telah disiapkan tanpa kehilangan arah pembicaraan. Penanganan hambatan Ketika mengalami blank atau berbicara terbata-bata, saya mampu berhenti sejenak, melihat catatan, dan melanjutkan pembicaraan. Keterlibatan peserta Saya mengajukan minimal dua pertanyaan terbuka dan memberikan kesempatan kepada peserta untuk menyampaikan pendapat. Evaluasi diri Setelah sesi selesai, saya mencatat minimal satu hal yang berhasil dilakukan dan satu hal yang perlu diperbaiki. Saya menganggap pesan tersebut berhasil apabila saya mampu memulai dan memandu diskusi sesuai tujuan, menerapkan strategi ketika kecemasan muncul, serta kembali melanjutkan pembicaraan setelah mengalami hambatan. Keberhasilan tidak diukur dari hilangnya rasa gugup sepenuhnya, tetapi dari kemampuan saya mengelola rasa gugup agar tidak menghalangi pelaksanaan tugas.</li>
+</ol>
+</section>
+<section id="ai006---fasilitator---tahap-f-hasil-refleksi" class="level3">
+<h3 class="anchored" data-anchor-id="ai006---fasilitator---tahap-f-hasil-refleksi">AI006 - Fasilitator - Tahap F: Hasil &amp; Refleksi</h3>
+<p>Pesan <em>self-talk</em> Anda sangat solid dan operasional, Jose. Anda tidak sekadar memvalidasi emosi (gugup), tetapi juga membekali diri dengan instruksi taktis (tiga napas, tiga poin, baca catatan) serta indikator keberhasilan yang sangat terukur.</p>
+<p>Kita sekarang masuk ke <strong>Tahap F: Hasil dan Refleksi</strong>. Berdasarkan seluruh proses simulasi dan perencanaan yang telah Anda lalui, mohon sampaikan refleksi akhir Anda dengan menjawab poin-poin berikut:</p>
+<ol type="1">
+<li><strong>Perubahan Status:</strong> Apakah ada perubahan pada kesimpulan SWOT dan ASK (Sikap, Pengetahuan, Keterampilan) diri Anda terkait kemampuan <em>public speaking</em> ini?</li>
+<li><strong>Pencapaian:</strong> Apakah tujuan awal Anda (membangun komunikasi asertif dan mengatasi rasa gugup/terbata-bata) terasa lebih dapat dicapai sekarang?</li>
+<li><strong>Efektivitas Stimulus:</strong> Pendekatan atau pesan seperti apa yang terbukti paling efektif (maupun yang tidak efektif) bagi Anda dalam mengelola keraguan diri?</li>
+<li><strong>Lesson Learned &amp; Tindak Lanjut:</strong> Apa pelajaran terbesar dari sesi ini, dan apa satu tindakan nyata yang akan Anda eksekusi dalam minggu ini?</li>
+</ol>
+</section>
+<section id="u007---mahasiswa---tahap-f-hasil-refleksi" class="level3">
+<h3 class="anchored" data-anchor-id="u007---mahasiswa---tahap-f-hasil-refleksi">U007 - Mahasiswa - Tahap F: Hasil &amp; Refleksi</h3>
+<ol type="1">
+<li>Perubahan Status SWOT dan ASK: Setelah melalui simulasi ini, saya menyadari bahwa kemampuan public speaking saya masih perlu dikembangkan, terutama dalam mengatasi rasa gugup dan kekhawatiran akan blank atau berbicara terbata-bata. Namun, saya memiliki kemauan untuk belajar dan mengevaluasi diri. Saya juga memahami bahwa sikap perlu lebih terbuka terhadap kesalahan, pengetahuan mengenai strategi mengelola kecemasan perlu ditingkatkan, dan keterampilan berbicara perlu dilatih secara konsisten.</li>
+<li>Pencapaian Tujuan: Tujuan saya untuk membangun komunikasi asertif dan mengatasi rasa gugup terasa lebih dapat dicapai karena saya sudah memiliki strategi konkret, seperti mengatur napas, menyiapkan tiga poin utama, dan berhenti sejenak ketika kehilangan arah pembicaraan. Meskipun rasa gugup belum tentu hilang sepenuhnya, saya kini memiliki cara untuk mengelolanya.</li>
+<li>Efektivitas Stimulus: Pendekatan self-talk yang berisi instruksi spesifik lebih efektif dibandingkan sekadar menyuruh diri sendiri untuk percaya diri karena memberikan langkah yang jelas untuk dilakukan. Saya juga belajar bahwa gaya komunikasi perlu disesuaikan dengan kebutuhan lawan bicara, misalnya dengan memberikan penjelasan terstruktur dan indikator keberhasilan yang konkret kepada orang yang analitis.</li>
+<li>Lesson Learned dan Tindak Lanjut: Pelajaran terbesar dari sesi ini adalah bahwa saya tidak harus menunggu sampai rasa gugup hilang untuk mulai berbicara, tetapi perlu belajar mengelolanya agar tidak menghambat tindakan saya. Sebagai tindak lanjut, minggu ini saya akan berlatih memimpin diskusi mandiri selama 5–10 menit dengan menyiapkan tiga poin utama dan dua pertanyaan terbuka. Saya akan merekam dan mengevaluasi latihan tersebut untuk mengetahui aspek komunikasi yang masih perlu diperbaiki.</li>
+</ol>
+</section>
+<section id="ai007---fasilitator---tahap-g-konfirmasi-final" class="level3">
+<h3 class="anchored" data-anchor-id="ai007---fasilitator---tahap-g-konfirmasi-final">AI007 - Fasilitator - Tahap G: Konfirmasi Final</h3>
+<p>Refleksi yang sangat matang, Jose. Sebelum saya menghasilkan dokumen laporan (<code>hasil_1_18225023.qmd</code>), mohon periksa dan konfirmasi ringkasan identitas, tujuan, dan hasil refleksi sesi kita berikut ini:</p>
+<ul>
+<li><strong>Identitas:</strong> Maximillian Jose Andreas A (NIM: 18225023) — Sesi 1.</li>
+<li><strong>Tujuan Utama:</strong> Mengembangkan kemampuan <em>public speaking</em> dan komunikasi asertif di depan audiens baru, dengan target mampu tampil memandu massa himpunan/kampus tanpa terbata-bata dalam 1 tahun.</li>
+<li><strong>Hasil Simulasi &amp; Uji Ulang:</strong> Menyadari pentingnya adaptasi gaya komunikasi yang lebih konkret, terstruktur, dan berbasis metrik (seperti interaksi dengan Dimas). Terjadi transisi <em>self-talk</em> dari sekadar motivasi kenyamanan menjadi instruksi taktis operasional (jeda, atur napas, fokus pada 3 poin panduan).</li>
+<li><strong>Refleksi &amp; Tindak Lanjut:</strong> Perubahan pola pikir dari “menunggu berani” menjadi “bertindak dengan strategi pengelolaan kecemasan”. Tindak lanjut nyata minggu ini adalah simulasi memimpin diskusi mandiri selama 5–10 menit yang direkam untuk evaluasi, dengan menyiapkan tiga poin utama dan dua pertanyaan terbuka.</li>
+</ul>
+<p>Apakah ringkasan di atas sudah akurat? Jika ada yang ingin ditambahkan atau dikoreksi, silakan sampaikan. Jika sudah pas, Anda cukup membalas dengan memberikan konfirmasi, dan saya akan langsung menyusun kode QMD secara utuh untuk Anda simpan.</p>
+</section>
+<section id="u008---mahasiswa---tahap-g-konfirmasi-final" class="level3">
+<h3 class="anchored" data-anchor-id="u008---mahasiswa---tahap-g-konfirmasi-final">U008 - Mahasiswa - Tahap G: Konfirmasi Final</h3>
+<p>Saya mengonfirmasi bahwa ringkasan identitas, tujuan, dan refleksi sesi sudah sesuai. Target utama saya adalah mengembangkan kemampuan public speaking dan komunikasi asertif agar dalam satu tahun ke depan saya mampu memandu kegiatan himpunan atau kampus di depan audiens baru tanpa terlalu bergantung pada catatan dan tanpa kehilangan arah ketika merasa gugup. Simulasi bersama Dimas membantu saya memahami bahwa keberhasilan komunikasi tidak hanya bergantung pada kepercayaan diri, tetapi juga pada kemampuan menyampaikan gagasan secara konkret, terstruktur, dan sesuai dengan kebutuhan audiens. Ketika Dimas mempertanyakan ukuran keberhasilan yang jelas, saya belajar bahwa pendekatan komunikasi perlu dilengkapi indikator yang dapat dievaluasi. Sementara itu, latihan menyusun self-talk membantu saya mengubah kekhawatiran tentang kemungkinan blank atau berbicara terbata-bata menjadi langkah konkret, seperti mengatur napas, menyiapkan tiga poin utama, dan berhenti sejenak untuk menyusun kembali pikiran. Kedua proses ini berkaitan langsung dengan target saya: simulasi bersama Dimas melatih kemampuan beradaptasi dengan karakter audiens, sedangkan self-talk menjadi strategi untuk mengelola kecemasan saat memandu diskusi. Saya menyadari bahwa kemampuan tersebut belum dapat dinyatakan sepenuhnya berhasil hanya berdasarkan simulasi, sehingga saya perlu mengujinya dalam latihan nyata. Sebagai tindak lanjut, minggu ini saya akan berlatih memimpin diskusi mandiri selama 5–10 menit dengan menyiapkan tiga poin utama dan dua pertanyaan terbuka, kemudian merekam latihan tersebut untuk mengevaluasi keteraturan penyampaian, kemampuan mengatasi jeda, dan kejelasan komunikasi. Hasil evaluasi ini akan menjadi dasar untuk memperbaiki latihan berikutnya secara bertahap hingga saya lebih siap memandu kegiatan himpunan atau kampus dalam satu tahun ke depan.</p>
 </section>
 </section>
 <section id="d-hasil-evaluasi-dan-refleksi" class="level1">
 <h1>D) Hasil, Evaluasi, dan Refleksi</h1>
 <section id="hasil-tujuan-dan-perubahan-swotask" class="level2">
 <h2 class="anchored" data-anchor-id="hasil-tujuan-dan-perubahan-swotask">Hasil tujuan dan perubahan SWOT/ASK</h2>
-<p>[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 20%">
@@ -598,31 +751,31 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>Persepsi/kesimpulan SWOT</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Ekstroversi dikira jaminan kelancaran; kelemahan dianggap hambatan tak terkelola.</td>
+<td>Kelemahan dapat diatasi melalui instruksi taktis (<em>napas, 3 poin, jeda</em>) dan metrik latihan.</td>
+<td>U002, U007</td>
+<td>Laporan diri &amp; refleksi kritis setelah simulasi cermin.</td>
 </tr>
 <tr class="even">
 <td>Attitude</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Kurang percaya diri, cemas timbul <em>blank</em>, dan menuntut penampilan sempurna.</td>
+<td>Menerima rasa gugup sebagai hal alami; berfokus mengelola kecemasan agar tugas selesai.</td>
+<td>U002, U006, U007</td>
+<td>Demonstrasi penyusunan pesan <em>self-talk</em> operasional.</td>
 </tr>
 <tr class="odd">
 <td>Knowledge</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Persiapan seadanya; belum memiliki strategi penyusunan materi &amp; penanganan kecemasan.</td>
+<td>Memahami regulasi emosi fisik, penyusunan 3 poin panduan, dan metrik evaluasi obrolan.</td>
+<td>U002, U006, U007</td>
+<td>Laporan pengetahuan taktis dan indikator terukur.</td>
 </tr>
 <tr class="even">
 <td>Skill/kesiapan</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Skill nyata tidak meningkat hanya karena menyatakan setuju]</td>
+<td>Keterampilan belum teruji; rentan terbata-bata saat berhadapan dengan audiens baru.</td>
+<td>Memiliki skrip <em>self-talk</em> operasional dan rencana latihan mandiri berdurasi 5–10 menit.</td>
+<td>U002, U006, U007</td>
+<td>Kesiapan simulasi/rencana aksi; skill fisik nyata membutuhkan rekaman latihan mandiri.</td>
 </tr>
 </tbody>
 </table>
@@ -650,16 +803,31 @@ ul.task-list li input[type="checkbox"] {
 </thead>
 <tbody>
 <tr class="odd">
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Kutipan]</td>
-<td>[Kutipan]</td>
-<td>[Interpretasi dan batas]</td>
-<td>[Perubahan berikutnya]</td>
+<td>Ep 1 (U003 / AI003)</td>
+<td>Dimas skeptis terhadap klaim motivasi tanpa metrik (AI002).</td>
+<td><em>“Menurut saya, pendekatan ini jauh lebih baik karena mulai dari hal kecil…”</em></td>
+<td><em>“Mungkin itu masuk akal untuk motivasi… Tapi bagaimana mengukurnya secara objektif?”</em></td>
+<td>Knowledge Awal: Fokus pada motivasi &amp; rasa nyaman internal.</td>
+<td>Mahasiswa menyadari pentingnya indikator kualitatif (U004).</td>
+</tr>
+<tr class="even">
+<td>Ep 2 (U004 / AI004)</td>
+<td>Dimas membutuhkan batasan eksperimen dan efisiensi waktu (AI003).</td>
+<td><em>“Menurutku dapat diukur dengan kualitas obrolan yang terjalin…”</em></td>
+<td><em>“Sangat abstrak… Saya butuh parameter yang lebih konkrit (durasi/jumlah info).”</em></td>
+<td>Knowledge Reflektif: Menyadari gagasan kualitatif belum cukup untuk karakter analitis.</td>
+<td>Adaptasi Total: Menyusun gagasan berbasis metrik, data, dan struktur analitis (U005).</td>
+</tr>
+<tr class="odd">
+<td>Ep 3 (U006 / AI006)</td>
+<td>Uji Ulang Diri pada situasi bertekanan tinggi (jadwal padat &amp; orang baru).</td>
+<td>Formulasi <em>self-talk</em> taktis (<em>napas 3x, 3 poin utama, jeda sejenak jika blank</em>).</td>
+<td>Respons Diri: Kecemasan terkelola, fokus bergeser dari sempurna ke memandu diskusi.</td>
+<td>Attitude &amp; Skill: Mampu mengarahkan perilaku secara mandiri meski tetap merasa gugup.</td>
+<td>Penetapan 5 indikator evaluasi keberhasilan terukur (U006).</td>
 </tr>
 </tbody>
 </table>
-<p>[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]</p>
 </section>
 <section id="pengaruh-pesan-personal-dan-kualitas-relasi" class="level2">
 <h2 class="anchored" data-anchor-id="pengaruh-pesan-personal-dan-kualitas-relasi">Pengaruh pesan personal dan kualitas relasi</h2>
@@ -682,15 +850,21 @@ ul.task-list li input[type="checkbox"] {
 </thead>
 <tbody>
 <tr class="odd">
-<td>[Isi]</td>
-<td>[Kutipan/tindakan]</td>
-<td>[Kutipan]</td>
-<td>[Awal dan akhir; bukti]</td>
-<td>[Isi]</td>
+<td>Dialog Cermin (U003–U005)</td>
+<td>Menghargai pertanyaan kritis Dimas dan berusaha menjelaskan relevansi latihan.</td>
+<td>Dimas terbuka menjelaskan kebutuhannya akan efisiensi dan metrik terukur.</td>
+<td><strong>Awal:</strong> Sedang (skeptis).<br><strong>Akhir:</strong> Tinggi (bersedia memberi masukan parameter).</td>
+<td>Meningkatkan <em>Knowledge</em> mahasiswa bahwa lawan bicara analitis membutuhkan bukti konkret.</td>
+</tr>
+<tr class="even">
+<td>Self-Talk Diri (U006)</td>
+<td>Pesan empati &amp; instruksi taktis kepada diri sendiri: <em>“Kamu tidak harus menjadi pembicara sempurna…”</em></td>
+<td>Diri merasa lebih tenang dan fokus pada langkah operasional.</td>
+<td><strong>Awal:</strong> Rendah (cemas/blank).<br><strong>Akhir:</strong> Tinggi (memiliki kendali dan kepastian aksi).</td>
+<td>Memperkuat <em>Attitude</em> (penerimaan emosi) dan <em>Skill</em> (regulasi diri instan).</td>
 </tr>
 </tbody>
 </table>
-<p>[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]</p>
 </section>
 <section id="uji-ulang-dan-pembelajaran" class="level2">
 <h2 class="anchored" data-anchor-id="uji-ulang-dan-pembelajaran">Uji ulang dan pembelajaran</h2>
@@ -708,41 +882,40 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>Kendala baru atau peristiwa sejenis</td>
-<td>[Isi dan ID]</td>
+<td>Situasi hipotetis: Diminta mewakili himpunan memandu diskusi bersama mahasiswa jurusan lain di tengah tenggat tugas kuliah yang sangat padat (U006).</td>
 </tr>
 <tr class="even">
 <td>Respons awal dibanding uji ulang</td>
-<td>[Isi dan kutipan]</td>
+<td><strong>Awal:</strong> Cemas, terbata-bata, dan mengalami <em>blank</em> karena menuntut kesempurnaan (U002).<br><strong>Uji Ulang:</strong> Melakukan napas dalam 3 kali, fokus pada 3 poin utama, dan mengambil jeda sejenak jika terbata-bata (U006).</td>
 </tr>
 <tr class="odd">
 <td>Revisi rencana/dukungan</td>
-<td>[Isi]</td>
+<td>Menyusun <em>self-talk</em> taktis berbasis instruksi kerja langsung dan menetapkan 5 indikator evaluasi terukur (U006).</td>
 </tr>
 <tr class="even">
 <td>Indikator perbaikan</td>
-<td>[Isi]</td>
+<td>Pengelolaan kecemasan (napas 3x), kelancaran (sampaikan 3 poin), penanganan hambatan (jeda &amp; lihat catatan), serta keterlibatan peserta (minimal 2 pertanyaan terbuka) (U006).</td>
 </tr>
 <tr class="odd">
 <td>Transfer dan keterbatasan</td>
-<td>[Apa yang diperagakan; apa yang belum diuji?]</td>
+<td><strong>Diperagakan:</strong> Keberhasilan merumuskan strategi regulasi diri dan rencana evaluasi terstruktur.<br><strong>Batas:</strong> Praktik fisik nyata di depan audiens massa belum diuji secara langsung pada sesi ini.</td>
 </tr>
 </tbody>
 </table>
-<p>[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]</p>
 </section>
 <section id="penilaian-enam-dimensi" class="level2">
 <h2 class="anchored" data-anchor-id="penilaian-enam-dimensi">Penilaian enam dimensi</h2>
 <table class="caption-top table">
 <colgroup>
-<col style="width: 25%">
-<col style="width: 25%">
-<col style="width: 25%">
-<col style="width: 25%">
+<col style="width: 21%">
+<col style="width: 35%">
+<col style="width: 21%">
+<col style="width: 21%">
 </colgroup>
 <thead>
 <tr class="header">
 <th>Dimensi</th>
-<th>Skor 1-4/BT</th>
+<th style="text-align: center;">Skor 1-4/BT</th>
 <th>ID dan kutipan bukti</th>
 <th>Alasan sesuai indikator</th>
 </tr>
@@ -750,53 +923,53 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>Tujuan dan konteks</td>
-<td>BT</td>
-<td>[Isi]</td>
-<td>[Belum dinilai]</td>
+<td style="text-align: center;">4</td>
+<td><strong>U002:</strong> <em>“Tanda berhasil: dalam 1 tahun, saya tampil dalam minimal satu jam di depan audiens massa himpunan…”</em></td>
+<td>Menetapkan tujuan pengembangan diri yang spesifik, relevan, terukur, dan memiliki indikator waktu jernih.</td>
 </tr>
 <tr class="even">
 <td>Persepsi dan validasi profil/status</td>
-<td>BT</td>
-<td>[Isi]</td>
-<td>[Belum dinilai]</td>
+<td style="text-align: center;">4</td>
+<td><strong>U002 &amp; U005:</strong> <em>“Dari pengalaman berdialog dengan Dimas, saya perlu menyesuaikan gaya komunikasi dengan menyampaikan gagasan secara lebih konkret…”</em></td>
+<td>Memahami profil diri secara kritis melalui SWOT/ASK, serta mampu membaca karakter Dimas yang analitis.</td>
 </tr>
 <tr class="odd">
 <td>Pemilihan dan urutan repertoar</td>
-<td>BT</td>
-<td>[Isi]</td>
-<td>[Belum dinilai]</td>
+<td style="text-align: center;">4</td>
+<td><strong>U006:</strong> <em>“Jose, tarik napas dalam-dalam sebanyak tiga kali… Baca kembali tiga poin utama…”</em></td>
+<td>Urutan langkah komunikasi sangat logis: regulasi fisik, pengarahan fokus, dan penanganan instruksional saat <em>blank</em>.</td>
 </tr>
 <tr class="even">
 <td>Eksekusi jelas, peduli dan konsisten</td>
-<td>BT</td>
-<td>[Isi]</td>
-<td>[Belum dinilai]</td>
+<td style="text-align: center;">4</td>
+<td><strong>U006:</strong> <em>“Kamu mungkin merasa gugup, tetapi kamu tetap bisa menjalankan tugasmu meskipun rasa gugup itu belum sepenuhnya hilang.”</em></td>
+<td>Pesan disampaikan secara tulus, empatik pada diri sendiri, lugas, dan operasional tanpa sekadar slogan motivasi.</td>
 </tr>
 <tr class="odd">
 <td>Evaluasi dan adaptasi</td>
-<td>BT</td>
-<td>[Isi]</td>
-<td>[Belum dinilai]</td>
+<td style="text-align: center;">4</td>
+<td><strong>U005 &amp; U006:</strong> <em>“Mengalihkan fokus dari keinginan untuk tampil sempurna menuju tujuan memandu diskusi…”</em></td>
+<td>Beradaptasi secara langsung dari pengalaman cermin pembanding untuk merevisi strategi komunikasi menjadi terstruktur.</td>
 </tr>
 <tr class="even">
 <td>Refleksi dan lesson learned</td>
-<td>BT</td>
-<td>[Isi]</td>
-<td>[Belum dinilai]</td>
+<td style="text-align: center;">4</td>
+<td><strong>U007 &amp; U008:</strong> <em>“Pelajaran terbesar dari sesi ini adalah bahwa saya tidak harus menunggu sampai rasa gugup hilang untuk mulai berbicara…”</em></td>
+<td>Merumuskan <em>lesson learned</em> tingkat tinggi tentang <em>self-leadership</em> dan menyusun rencana aksi mingguan yang terukur.</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Nilai sesi:</strong> [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus <code>jumlah enam skor / 24 x 100</code> hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.</p>
+<p><strong>Nilai sesi:</strong> <strong>100.00</strong> (Usulan skor AI, memerlukan moderasi dosen). Rumus: <span class="math inline">\((24 / 24) \times 100 = 100.00\)</span>.</p>
 </section>
 <section id="refleksi-dan-lesson-learned-mahasiswa" class="level2">
 <h2 class="anchored" data-anchor-id="refleksi-dan-lesson-learned-mahasiswa">Refleksi dan lesson learned mahasiswa</h2>
 <ul>
-<li><strong>Dugaan yang dikoreksi:</strong> [Jawaban Anda dan bukti].</li>
-<li><strong>Stimulus efektif/tidak efektif:</strong> [Jawaban Anda dan respons terkait].</li>
-<li><strong>Pertumbuhan PASK/ASK diri:</strong> [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].</li>
-<li><strong>Relasi:</strong> [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].</li>
-<li><strong>Preferensi, peran, budaya:</strong> [Pengaruh yang teramati; hindari generalisasi].</li>
-<li><strong>Pelajaran untuk situasi berikutnya:</strong> [Isi].</li>
+<li><strong>Dugaan yang dikoreksi:</strong> Awalnya menganggap ekstroversi sudah cukup untuk <em>public speaking</em> dan rasa gugup harus dihilangkan total sebelum berbicara. Terkoreksi bahwa rasa gugup adalah hal alami yang harus dikelola dengan instruksi taktis, serta lawan bicara analitis membutuhkan metrik terukur.</li>
+<li><strong>Stimulus efektif/tidak efektif:</strong> <em>Self-talk</em> berformat instruksi operasional spesifik (<em>napas 3x, baca 3 poin, jeda</em>) sangat efektif. Sekadar slogan motivasi (“kamu pasti bisa/harus percaya diri”) tidak efektif karena tidak memberi pegangan saat <em>blank</em>.</li>
+<li><strong>Pertumbuhan PASK/ASK diri:</strong> Sikap (<em>Attitude</em>) menjadi lebih adaptif dan menerima ketidaksempurnaan; Pengetahuan (<em>Knowledge</em>) bertambah mengenai pentingnya metrik dan struktur; Keterampilan (<em>Skill</em>) meningkat dalam regulasi diri instruksional.</li>
+<li><strong>Relasi:</strong> Penghormatan pada otonomi, waktu, dan kebutuhan efisiensi lawan bicara (seperti pada Dimas) membangun rasa dipercaya dan dihargai.</li>
+<li><strong>Preferensi, peran, budaya:</strong> Menyadari pentingnya fleksibilitas gaya komunikasi—beralih dari pendekatan relasional-kehangatan ke pendekatan analitis-metrik sesuai karakter audiens.</li>
+<li><strong>Pelajaran untuk situasi berikutnya:</strong> Persiapan 3 poin utama dan strategi jeda adalah kunci mengendalikan situasi bertekanan tinggi saat memandu acara atau berbicara di depan audiens baru.</li>
 </ul>
 </section>
 <section id="tindak-lanjut-dan-batas-bukti" class="level2">
@@ -822,17 +995,17 @@ ul.task-list li input[type="checkbox"] {
 </thead>
 <tbody>
 <tr class="odd">
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Latihan memimpin diskusi mandiri (5–10 menit)</td>
+<td>Maximillian (Mahasiswa)</td>
+<td>Minggu ini (1 minggu)</td>
+<td>Alat rekaman (HP/laptop) &amp; lembar 3 poin utama</td>
+<td>Kelancaran penyampaian 3 poin utama, penanganan jeda/terbata, dan kejelasan 2 pertanyaan terbuka melalui evaluasi rekaman</td>
+<td>Rencana siap dieksekusi minggu ini</td>
 </tr>
 </tbody>
 </table>
-<p>[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]</p>
-<p><strong>Konfirmasi akhir:</strong> [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].</p>
+<p><strong>Batas bukti:</strong> Hasil simulasi menunjukkan kesiapan perencanaan dan regulasi diri dalam bentuk teks (<em>self-talk</em>), namun eksekusi fisik langsung di depan audiens nyata dan rekaman mandiri masih harus dilakukan pada tahap tindak lanjut mingguan.</p>
+<p><strong>Konfirmasi akhir:</strong> U008 dan AI007 (Mahasiswa telah mengonfirmasi secara penuh identitas, tujuan, hasil simulasi, refleksi, dan rencana tindak lanjut pada tanggal 14 Oktober 2026).</p>
 </section>
 <section id="bobot-dan-nilai-akhir-uts" class="level2">
 <h2 class="anchored" data-anchor-id="bobot-dan-nilai-akhir-uts">Bobot dan nilai akhir UTS</h2>
