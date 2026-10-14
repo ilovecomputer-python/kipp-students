@@ -1,0 +1,318 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 3a — Kasus 3"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Maximillian Jose Andreas A |
+| NIM | 18225023 |
+| Kelas dan tanggal | Kelas K1; 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3a; Kasus 3 (Menawarkan Solusi TI dan AI) |
+| Nama dan ID target | Elsa (K3-05) |
+| Versi bank/aturan penugasan | Versi bank 2.0; versi paket individual 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif (Simulasi berbasis bank profil KIPP) |
+| Kelengkapan transkrip | Lengkap (Sejak identifikasi, perencanaan, simulasi awal, evaluasi sementara, uji ulang, refleksi akhir, hingga konfirmasi) |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+- **Brief kasus:** Elsa (K3-05), seorang pengelola usaha, kewalahan menangani pertanyaan pelanggan berulang dan pesanan yang tercecer saat jam sibuk akibat keterbatasan tenaga kerja. Namun, ia belum yakin memerlukan solusi TI/AI dan sangat khawatir pelayanan otomatis akan terasa dingin, kaku, serta menghilangkan sentuhan personal.
+- **Tujuan tindakan mahasiswa:** Menggali kebutuhan operasional Elsa, memahami kekhawatirannya, dan mencapai kesepakatan uji coba solusi TI/AI secara bertahap tanpa menghilangkan sentuhan personal dalam pelayanan.
+- **Indikator keberhasilan:** Kesepakatan uji coba konkret dengan ruang lingkup, durasi uji coba (1 tahun) dan pendampingan (1 bulan), jalur eskalasi ke staf manusia, ketersediaan sistem lama sebagai cadangan, serta 5 indikator keberhasilan terukur (kecepatan respons ≥80%, pengalihan mulus ≥95%, kepuasan pelanggan ≥85%, kesiapan tim ≥90%, efisiensi kerja ≥20%).
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Peluang: AI/helpdesk agent dapat menangani pertanyaan rutin dan mempercepat respons; Ancaman: kekhawatiran Elsa terhadap hilangnya sentuhan personal dan ketidaksiapan staf; Mampu: menyusun perencanaan uji coba bertahap dan skema pelatihan/eskalasi; Belum mampu: belum menguji coba sistem secara teknis langsung di lapangan. | U001, U005 | Sementara |
+| Attitude | Peduli pada keberlanjutan layanan dan kepuasan pelanggan Elsa, bertekad memberikan pendampingan tanpa memaksakan teknologi. | U001, U005 | Tinggi |
+| Knowledge | Memahami konsep integrasi helpdesk agent/AI, alur eskalasi ke staf manusia, indikator keberhasilan operasional, dan manajemen risiko transisi. | U003, U005 | Tinggi |
+| Skill | Mampu mendengarkan kekhawatiran komunikan, memvalidasi empati, menyusun indikator kuantitatif, dan merancang mitigasi risiko operasional. | U002, U005, U007 | Terbukti saat interaksi |
+| Preferensi/MBTI jika dilaporkan | Tidak dilaporkan/tidak didiagnosis mandiri secara formal. | — | Hipotesis kerja |
+| Karakter, peran, kultur/ko-kultur | Peran sebagai penyedia solusi TI/AI yang berorientasi kemitraan, suportif, dan menghargai peran serta kendali staf manusia. | U001, U003 | Tinggi |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Kesepakatan uji coba terbatas dengan ruang lingkup, durasi, dukungan, dan indikator keberhasilan yang jelas. | Edukasi A (menurunkan kecemasan akan perubahan) | Membuka percakapan ramah tanpa langsung menawarkan teknologi tertentu. | Elsa mengakui masalah operasional dan bersedia berdiskusi. |
+| Attention | Elsa sadar akan masalah penumpukan pesan dan pesanan tercecer namun takut kehilangan sentuhan personal. | Edukasi K (relevansi masalah vs peran AI) | Menggali bagian pelayanan yang menyita waktu dan memvalidasi kekhawatiran Elsa. | Respons Elsa mengenai jam sibuk dan kekhawatiran respons kaku. |
+| Interest | Skeptis bahwa sistem otomatis dapat menggantikan interaksi ramah manusia. | Edukasi K & A (konsep AI pendamping & eskalasi manusia) | Menawarkan konsep AI untuk pertanyaan berulang dan eskalasi mulus ke staf manusia. | Elsa menanyakan alur teknis eskalasi ke staf manusia. |
+| Desire | Khawatir tim bingung dan sistem baru mengganggu operasional. | Edukasi S & A (rasa aman, pelatihan, & sistem cadangan) | Menjelaskan skema pelatihan, pendampingan bertahap, dan ketersediaan sistem lama. | Elsa merasa lebih tenang dan menyetujui skema uji coba. |
+| Action | Butuh kepastian indikator dan mitigasi sebelum berkomitmen. | Edukasi S (langkah pertama terukur) | Menetapkan durasi pendampingan 1 bulan, uji coba 1 tahun, dan 5 indikator keberhasilan. | Elsa menyetujui uji coba tahap pertama sesuai jadwal dan skema. |
+
+# C) Skrip Percakapan
+
+**U001 [Identifikasi & Rencana]:**  
+"Konfirmasi Identitas dan Sifat Kasus
+- Nama: Maximillian Jose Andreas A
+- NIM: 18225023
+- Sesi: 3a
+- Komunikan: Elsa (K3-05)
+- Sifat kasus: Fiktif
+1. Tujuan Komunikasi
+Saya ingin mencapai kesepakatan dengan Elsa mengenai solusi TI atau AI yang sesuai dengan kebutuhan usahanya, sehingga pengelolaan pertanyaan pelanggan dan pesanan menjadi lebih efisien. Saya berharap solusi tersebut dapat membantu mentransformasi operasional usahanya secara berkelanjutan tanpa menghilangkan sentuhan personal dalam pelayanan. Hasil konkret yang ingin dicapai adalah kesepakatan uji coba dengan ruang lingkup, durasi, dukungan, dan indikator keberhasilan yang jelas, setelah kebutuhan serta kekhawatiran Elsa dipahami.
+2. Dugaan Awal Profil Elsa (ASK)
+Dari sisi Attitude, saya menduga Elsa peduli terhadap kepuasan pelanggan dan kualitas pelayanan, tetapi masih khawatir perubahan teknologi dapat mengurangi sentuhan personal. Dari sisi Knowledge, saya memperkirakan Elsa memiliki pengalaman dalam melayani pelanggan, tetapi belum sepenuhnya memahami penerapan TI atau AI, termasuk batas kemampuan sistem dan kapan masalah perlu dialihkan kepada manusia. Dari sisi Skill, Elsa mungkin terbiasa menjalankan rutinitas operasional secara teliti, tetapi membutuhkan pelatihan dan pendampingan untuk menggunakan sistem baru. Hambatan utama yang saya perkirakan adalah kekhawatiran terhadap perubahan layanan, kurangnya pemahaman tentang solusi yang tersedia, serta kebutuhan akan pelatihan dan dukungan manusia selama masa transisi.
+3. Rencana Pembukaan
+Saya akan memulai percakapan dengan pendekatan yang ramah, tenang, dan tidak langsung menawarkan teknologi tertentu. Saya akan menggali bagaimana Elsa menangani pertanyaan pelanggan dan mencatat pesanan saat ini, bagian mana yang paling menyita waktu, serta dampak masalah tersebut terhadap operasional usahanya. Saya juga akan mengakui kekhawatirannya dan menegaskan bahwa tujuan penggunaan teknologi bukan menggantikan interaksi manusia, melainkan membantu pekerjaan rutin agar Elsa dan timnya dapat lebih fokus melayani pelanggan. Setelah memahami kebutuhan dan batasannya, saya akan membandingkan alternatif yang relevan, mulai dari solusi sederhana hingga AI jika memang diperlukan, kemudian mengajak Elsa mempertimbangkan uji coba terbatas dengan pendampingan, jalur eskalasi ke petugas, dan indikator keberhasilan yang disepakati bersama."
+
+**AI001 [Simulasi Awal]:**  
+"Data identifikasi, tujuan komunikasi, dugaan profil (ASK), dan rencana pembukaan Anda untuk Sesi 3a (Kasus 3) telah dicatat dan terkonfirmasi.
+
+Kita sekarang masuk ke Tahap C: Simulasi Awal.
+
+---
+
+[SIMULASI DIMULAI]
+
+Nama: Elsa  
+Peran: Pengelola Usaha / Customer  
+
+Elsa: \"Saya khawatir orang lain justru kesulitan kalau kita mengubah ini.\"
+
+---
+
+*(Silakan tanggapi ucapan Elsa di atas untuk melanjutkan percakapan)*"
+
+**U002 [Simulasi Awal]:**  
+"Aku paham kekhawatiranmu, Elsa. Perubahan sistem memang bisa membuat pelanggan perlu beradaptasi, apalagi kalau mereka sudah terbiasa dengan cara pelayanan yang sekarang. Karena itu, menurutku perubahan sebaiknya dilakukan secara bertahap, dengan tetap mempertahankan sistem lama selama masa transisi agar pelanggan punya waktu untuk menyesuaikan diri.
+Tapi aku juga ingin memastikan perubahan ini benar-benar membantu, bukan malah menambah kesulitan. Selama ini, bagian mana dari pelayanan atau pengelolaan pesanan yang paling sering membuat pelanggan kesulitan atau membuat timmu kewalahan?"
+
+**AI002 [Simulasi Awal]:**  
+"Makasih ya, lega rasanya kalau perubahannya dilakukan bertahap dan sistem lama tidak langsung dimatikan. 
+
+Masalah utama kami itu saat jam sibuk, pesan pelanggan benar-benar menumpuk. Banyak sekali pertanyaan berulang seperti daftar menu, lokasi, atau jam operasional. Karena pesan terlalu banyak, beberapa detail pesanan sering terselip atau lambat dibalas, padahal kasihan kalau pelanggan harus menunggu lama. Tapi di sisi lain, saya tetap khawatir kalau kita pakai sistem otomatis nanti jawabannya terasa kaku, dingin, dan kehilangan sentuhan ramah pelanggan.
+
+Menurutmu, apa ada cara supaya pertanyaan berulang itu bisa tertangani cepat tanpa membuat pelanggan merasa seperti bicara dengan mesin yang dingin?"
+
+**U003 [Simulasi Awal]:**  
+"Menurutku, ada, Elsa. Kita bisa memanfaatkan AI atau helpdesk agent untuk menangani pertanyaan yang sering berulang, dengan respons yang dirancang agar tetap ramah dan sesuai konteks pelanggan. Namun, tentu kita perlu menguji dulu apakah gaya komunikasinya sudah sesuai dengan karakter pelayanan usahamu.
+Untuk pertanyaan yang lebih rumit atau membutuhkan pendekatan personal, pelanggan tetap bisa dialihkan ke staf manusia. Jadi, teknologi ini bukan untuk menggantikan interaksi manusia, melainkan membantu timmu punya lebih banyak waktu untuk menangani kebutuhan pelanggan yang benar-benar membutuhkan perhatian khusus.
+Kalau boleh tahu, menurutmu apa yang paling penting supaya pelanggan tetap merasa dilayani secara personal: gaya bahasa yang ramah, respons yang sesuai dengan kebutuhan mereka, atau kemudahan untuk langsung berbicara dengan staf manusia?"
+
+**AI003 [Simulasi Awal]:**  
+"Bagi saya, kemudahan untuk langsung berbicara dengan staf manusia itu yang paling utama, Max. Gaya bahasa ramah memang penting, tapi kalau pelanggan punya kebutuhan khusus dan malah terjebak di jawaban otomatis, mereka pasti merasa tidak dihargai.
+
+Penjelasan kamu tentang pengalihan ke staf manusia itu bikin saya jauh lebih tenang. Tapi saya masih belum bayang teknisnya: bagaimana alur sistem otomatis itu mengenali pertanyaan yang butuh penanganan khusus dan langsung memindahkannya ke staf saya secara mulus?"
+
+**U004 [Simulasi Awal]:**  
+"Jadi, Elsa, manfaatnya bisa dirasakan oleh staf maupun pelanggan. Bagi stafmu, sistem otomatis dapat menangani pertanyaan rutin yang berulang, sehingga mereka tidak perlu terus-menerus menjawab pertanyaan yang sama dan bisa lebih fokus pada pesanan bermasalah atau kebutuhan pelanggan yang lebih kompleks.
+Bagi pelanggan, mereka bisa mendapatkan jawaban untuk pertanyaan umum dengan lebih cepat, tanpa harus menunggu staf tersedia. Kalau masalahnya membutuhkan perhatian khusus, mereka tetap bisa berbicara dengan staf manusia tanpa harus mengulang seluruh ceritanya dari awal.
+Dengan begitu, sistem ini bukan untuk menggantikan staf atau menghilangkan sentuhan personal, melainkan membantu staf memberikan pelayanan yang lebih cepat dan lebih berfokus pada kebutuhan setiap pelanggan. Kita bisa mulai dari pertanyaan yang paling sering muncul, lalu mengevaluasi apakah waktu respons membaik dan pelanggan tetap merasa terbantu."
+
+**AI004 [Simulasi Awal]:**  
+"Penjelasan manfaatnya masuk akal banget, Max. Berarti tim saya memang bisa lebih fokus ke hal-hal yang butuh penanganan khusus tanpa terbebani pertanyaan berulang.
+
+Tapi supaya saat uji coba nanti tim saya tidak bingung dan alur penyerahan pesan ke staf manusia benar-benar berjalan mulus, seperti apa bentuk pendampingan atau pelatihan yang akan kamu berikan untuk tim saya, dan berapa lama durasi uji coba yang ideal menurutmu?"
+
+**U005 [Simulasi Awal]:**  
+"Menurutku, Elsa, pendampingannya perlu dilakukan secara bertahap supaya timmu tidak merasa ditinggalkan saat mulai menggunakan sistem baru. Selama minimal satu bulan pertama, aku akan memberikan pelatihan dengan insentif bagi tim yang terlibat, mulai dari cara menggunakan sistem, menangani pengalihan percakapan ke staf manusia, sampai menghadapi situasi ketika AI tidak mampu menjawab pertanyaan pelanggan. Kita juga akan melakukan simulasi kasus dan menyediakan pendampingan langsung.
+Untuk uji cobanya, aku menyarankan minimal satu tahun sebelum kita benar-benar beralih sepenuhnya ke sistem baru. Selama periode tersebut, sistem lama tetap tersedia sebagai cadangan. Kita juga akan menetapkan indikator keberhasilan yang terukur, yaitu:
+- Kecepatan respons: minimal 80% pertanyaan rutin mendapatkan jawaban awal dalam waktu kurang dari satu menit.
+- Keberhasilan pengalihan: minimal 95% percakapan yang membutuhkan staf manusia berhasil dialihkan tanpa kehilangan riwayat percakapan.
+- Kepuasan pelanggan: minimal 85% pelanggan memberikan penilaian puas terhadap pelayanan.
+- Kesiapan tim: minimal 90% staf yang terlibat mampu menjalankan alur sistem dan pengalihan secara mandiri setelah pelatihan.
+- Efisiensi kerja: waktu yang dihabiskan staf untuk menangani pertanyaan rutin berkurang minimal 20% dibandingkan sebelum uji coba.
+Kita akan mengukur kondisi awal sebagai pembanding dan mengevaluasi hasilnya setiap bulan. Angka-angka ini merupakan target awal yang bisa kita sesuaikan dengan kondisi usahamu. Sistem lama baru akan dihentikan jika hasil evaluasi menunjukkan bahwa target tercapai secara konsisten, pengalihan ke staf berjalan lancar, dan kualitas pelayanan tetap terjaga.
+Dengan cara ini, Elsa, kita tidak hanya mencoba teknologi baru, tetapi juga memastikan bahwa teknologi tersebut benar-benar membantu tim dan pelanggan. Menurutmu, apakah indikator ini sudah sesuai dengan prioritas usahamu, atau ada aspek pelayanan lain yang paling ingin kamu tingkatkan?"
+
+**AI005 [Evaluasi Sementara]:**  
+"Penjelasan dan indikator yang kamu sampaikan benar-benar detail dan menenangkan buat saya, Max. Keberadaan sistem cadangan, pelatihan bertahap untuk tim, serta target eskalasi ke staf manusia yang dijamin tetap berjalan lancar benar-benar menjawab kekhawatiran terbesar saya soal sentuhan personal dan kesiapan operasional kami.
+
+Saya setuju untuk kita mulai uji coba tahap pertama ini sesuai dengan skema, jadwal, dan indikator yang sudah kamu susun. Terima kasih banyak sudah sangat memahami kebutuhan usaha dan tim saya!
+
+---
+
+[SIMULASI AWAL SELESAI]
+
+Kita sekarang masuk ke Tahap D: Evaluasi Sementara.
+
+Sebelum kita melanjutkan ke uji ulang dan pengungkapan profil internal Elsa, silakan tuliskan analisis evaluasi sementara Anda mengenai jalannya simulasi awal tadi:
+
+1. Evaluasi Perubahan ASK Elsa: Bagaimana analisis Anda terhadap perkembangan Attitude, Knowledge, dan Skill (ASK) Elsa saat ini dibandingkan dengan dugaan awal Anda? Mohon cantumkan bukti kutipan singkat dari percakapan.
+2. Revisi Dugaan & SWOT: Apakah ada dugaan awal Anda yang terbukti, keliru, atau perlu direvisi terkait hambatan dan kebutuhan utama Elsa?
+3. Evaluasi Relasional: Bagaimana penilaian Anda terhadap tingkat rasa aman, kepercayaan, dan keterbukaan informasi dari Elsa selama percakapan berlangsung?"
+
+**U006 [Evaluasi Sementara]:**  
+"1. Evaluasi Perubahan ASK Elsa
+- Attitude: Elsa mulai lebih terbuka setelah kekhawatirannya ditanggapi. Buktinya, “Penjelasan kamu tentang pengalihan ke staf manusia itu bikin saya jauh lebih tenang.”
+- Knowledge: Elsa mulai memahami konsep pengalihan ke staf manusia, tetapi masih membutuhkan pemahaman teknis lebih lanjut.
+- Skill: Elsa menyadari pentingnya pelatihan bagi timnya, tetapi kemampuan menggunakan sistem belum terbukti karena belum ada praktik langsung.
+2. Revisi Dugaan dan SWOT
+Dugaan awal bahwa Elsa khawatir terhadap perubahan teknologi terbukti. Namun, prioritas utamanya ternyata bukan sekadar keramahan AI, melainkan kemudahan menghubungi staf manusia.
+- Strengths: Peduli terhadap pengalaman pelanggan.
+- Weaknesses: Belum memahami teknis sistem baru.
+- Opportunities: Mengurangi pekerjaan berulang dan mempercepat pelayanan.
+- Threats: Risiko gangguan pelayanan dan ketidaksiapan tim.
+Analisis ini masih berupa dugaan berdasarkan percakapan dan perlu diverifikasi lebih lanjut.
+3. Evaluasi Relasional
+Rasa aman Elsa meningkat, terlihat dari pernyataannya bahwa penjelasan saya membuatnya lebih tenang. Kepercayaan dan keterbukaannya juga berkembang karena ia mulai menyampaikan kebutuhan teknis dan pelatihan secara spesifik. Namun, kepercayaan penuh belum dapat dipastikan sebelum solusi diuji dan dijalankan."
+
+**AI006 [Pengungkapan Profil & Uji Ulang]:**  
+"Terima kasih, Max. Evaluasi sementara kamu telah tersimpan. Berikut adalah pengungkapan profil internal tokoh Elsa (K3-05) untuk kamu bandingkan dengan dugaan awal dan analisis yang telah kamu susun:
+
+Profil Internal Elsa (K3-05):
+* Peran/Konteks: Pengelola usaha; menghadapi pesan berulang dan pesanan tercecer saat jam sibuk.
+* Hambatan Attitude (A): Takut layanan kehilangan sentuhan personal.
+* Hambatan Knowledge (K): Belum memahami teknis eskalasi ke petugas manusia.
+* Hambatan Skill (S): Membutuhkan pelatihan terstruktur dan jaminan kelancaran jalur layanan manusia.
+
+---
+
+Sekarang kita masuk ke Tahap E: Uji Ulang. Di tahap ini, sebuah kendala operasional baru muncul menjelang persiapan uji coba.
+
+[SIMULASI UJI ULANG DIMULAI]
+
+Elsa: \"Max, setelah saya ceritakan rencana ini ke tim, staf senior saya yang biasa pegang pesanan agak cemas. Dia merasa kurang paham teknologi dan takut kalau saat jam sibuk nanti, dia bingung membaca dashboard pengalihan dari AI sehingga pesanannya malah makin lambat diproses. Bagaimana langkah konkret kita supaya staf yang belum terbiasa dengan sistem baru ini tidak panik dan tetap bisa memegang kendali saat eskalasi terjadi?\""
+
+**U007 [Uji Ulang]:**  
+"Aku paham kekhawatiran staf senior kamu, Elsa. Supaya dia tidak panik saat jam sibuk, kita akan memberikan pelatihan dan simulasi pengalihan pesan terlebih dahulu, sehingga dia terbiasa membaca dashboard dan tahu kapan harus mengambil alih percakapan dari AI.
+Selain itu, kita tetap mempertahankan sistem lama sebagai cadangan, terutama saat rush hour. Jika staf mengalami kesulitan menggunakan dashboard atau pengalihan AI justru memperlambat pemrosesan pesanan, tim bisa langsung kembali menggunakan sistem lama untuk memastikan pelayanan tetap berjalan. Selama masa transisi, sistem baru akan diuji secara bertahap tanpa langsung menghilangkan alur kerja yang sudah dikuasai staf.
+Dengan begitu, staf tetap punya kendali, pelanggan tetap terlayani, dan kita bisa memperbaiki sistem berdasarkan kendala yang benar-benar terjadi sebelum beralih sepenuhnya."
+
+**AI007 [Refleksi Akhir]:**  
+"Solusi ini sangat menenangkan, Max. Pilihan untuk membiarkan staf senior tetap menggunakan sistem lama saat jam sibuk sambil mengikuti simulasi terlebih dahulu membuat dia tidak merasa tertekan. Ini menjaga ritme kerja tim dan memastikan kualitas layanan kami tetap aman. Saya makin yakin untuk menjalankan uji coba ini bersama kamu.
+
+---
+
+[SIMULASI UJI ULANG SELESAI]
+
+Kita telah menyelesaikan seluruh rangkaian simulasi awal dan uji ulang. Sekarang kita masuk ke Tahap F: Hasil, Evaluasi, dan Refleksi.
+
+Silakan sampaikan refleksi akhir Anda secara menyeluruh mencakup poin-poin berikut:
+
+1. Pencapaian Tujuan & Perubahan ASK/SWOT: Apakah tujuan komunikasi Anda tercapai? Jelaskan perkembangan Attitude, Knowledge, dan Skill (ASK) serta analisis SWOT Elsa dari awal hingga akhir uji ulang, serta evaluasi perkembangan diri Anda sendiri.
+2. Stimulus Efektif & Tidak Efektif: Pendekatan, penjelasan, atau argumen mana yang paling efektif mengubah keraguan Elsa, serta mana yang kurang memberikan dampak?
+3. Evaluasi Relasional: Mohon jawab pertanyaan khusus ini: Pesan apa yang membantu atau menghambat rasa dipercaya dan dipedulikan, dan apa bukti responsnya?
+4. Lesson Learned & Tindak Lanjut: Pelajaran penting apa yang Anda dapatkan mengenai komunikasi penawaran solusi TI/AI, serta bagaimana langkah tindak lanjut yang akan Anda susun untuk implementasi nyata?"
+
+**U008 [Refleksi Akhir]:**  
+"1. Pencapaian Tujuan dan Perubahan ASK/SWOT
+Tujuan komunikasi tercapai sebagian besar pada tahap perencanaan, yaitu membangun kesepahaman mengenai solusi TI/AI yang tetap menjaga pelayanan personal. Attitude Elsa membaik, terlihat dari pernyataannya bahwa penjelasan mengenai pengalihan ke staf manusia membuatnya lebih tenang. Knowledge Elsa berkembang karena mulai memahami manfaat pengalihan percakapan, meskipun pemahaman teknisnya belum diuji. Skill belum terbukti meningkat karena staf belum menjalani pelatihan langsung.
+Analisis SWOT juga menjadi lebih jelas: kekuatan Elsa adalah kepeduliannya terhadap pelanggan; kelemahannya adalah keterbatasan pemahaman teknis; peluangnya adalah efisiensi pelayanan; sedangkan ancamannya adalah gangguan operasional dan ketidaksiapan staf. Dari sisi diri sendiri, saya belajar untuk tidak langsung menawarkan teknologi, tetapi menggali kebutuhan, menjelaskan manfaat, dan menyiapkan mitigasi risiko. Implementasi nyata belum tercapai karena solusi masih berada pada tahap perencanaan.
+2. Stimulus Efektif dan Tidak Efektif
+Stimulus paling efektif adalah penjelasan bahwa pelanggan tetap dapat dialihkan kepada staf manusia dan sistem lama tetap tersedia sebagai cadangan saat rush hour. Hal ini menjawab kekhawatiran Elsa mengenai pelayanan personal dan kesiapan staf. Sebaliknya, penjelasan umum tentang kemampuan AI memberikan dampak lebih terbatas karena belum menjawab seluruh kebutuhan teknis dan operasional Elsa secara konkret.
+3. Evaluasi Relasional
+Pesan yang membantu membangun kepercayaan adalah penegasan bahwa AI bertujuan membantu staf, bukan menggantikan mereka, serta bahwa sistem lama tetap dapat digunakan ketika sistem baru mengalami kendala. Buktinya, Elsa mengatakan, “Penjelasan kamu tentang pengalihan ke staf manusia itu bikin saya jauh lebih tenang.” Sebaliknya, jika saya terlalu menekankan keunggulan AI tanpa mendengarkan kekhawatirannya, Elsa berpotensi merasa kebutuhannya diabaikan. Namun, respons tersebut merupakan kemungkinan, bukan sesuatu yang terbukti terjadi dalam percakapan.
+4. Lesson Learned dan Tindak Lanjut
+Saya belajar bahwa penawaran solusi TI/AI harus berpusat pada kebutuhan pengguna, disertai penjelasan sederhana, pelatihan, dan mitigasi risiko. Tindak lanjut yang direncanakan adalah memberikan pendampingan minimal satu bulan, mempertahankan sistem lama sebagai cadangan, serta melakukan uji coba minimal satu tahun sebelum beralih sepenuhnya. Keberhasilan akan dievaluasi melalui kecepatan respons, keberhasilan pengalihan ke staf, kepuasan pelanggan, dan kesiapan tim. Keputusan migrasi penuh baru dilakukan jika hasil evaluasi menunjukkan bahwa sistem baru benar-benar meningkatkan pelayanan tanpa mengorbankan pengalaman pelanggan."
+
+**AI008 [Konfirmasi Data]:**  
+"Refleksi akhir Anda untuk Sesi 3a telah dicatat secara lengkap, mencakup pencapaian tujuan, analisis perkembangan ASK dan SWOT, evaluasi relasional, serta lesson learned dan tindak lanjut. Selanjutnya, kita memasuki tahap konfirmasi akhir data sebelum pembuatan dokumen laporan hasil_3a_18225023.qmd.
+
+Ringkasan Data Konfirmasi
+
+* Identitas dan Sesi:
+  * Nama Mahasiswa: Maximillian Jose Andreas A
+  * NIM: 18225023
+  * Sesi: 3a (Kasus 3 - Menawarkan Solusi TI dan AI)
+  * Tokoh Komunikan: Elsa (ID K3-05)
+  * Modalitas dan Sifat Kasus: Teks / Fiktif
+  * Nama Dokumen Laporan: hasil_3a_18225023.qmd
+
+* Status Capaian dan Ringkasan Refleksi:
+  * Tujuan Utama: Tercapai kesepakatan uji coba solusi bertahap dengan jalur pengalihan ke staf manusia, skema pelatihan tim, serta jaminan ketersediaan sistem lama selama transisi.
+  * Dinamika ASK Elsa: Attitude berubah dari ragu menjadi tenang dan percaya setelah adanya kejelasan jalur eskalasi manusia; Knowledge meningkat terkait konsep pengalihan pesan otomatis dan batas kemampuan sistem; Skill direncanakan berkembang melalui simulasi dan pelatihan terstruktur.
+  * Rencana Tindak Lanjut: Pendampingan intensif satu bulan pertama, uji coba terbatas satu tahun, evaluasi indikator kinerja bulanan, serta penghentian sistem lama secara bertahap hanya jika target tercapai konsisten.
+
+Apakah seluruh data di atas sudah sesuai dan siap untuk diterbitkan ke dalam blok kode dokumen hasil_3a_18225023.qmd?"
+
+**U009 [Konfirmasi]:**  
+"ini templatenya tolong sesuaikan"
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Tujuan percakapan **tercapai**: Kesepakatan uji coba solusi bertahap dengan jalur pengalihan ke staf manusia, skema pelatihan tim, serta jaminan ketersediaan sistem lama selama transisi disetujui oleh Elsa.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Merasa belum mampu, takut layanan kaku dan staf bingung. | Melihat peluang AI pendamping, merasa aman dengan alur eskalasi manusia dan sistem cadangan. | AI002 vs AI005, AI007 | Perubahan status simulasi tokoh Elsa berdasarkan komitmen uji coba bertahap. |
+| Attitude | Ragu dan takut layanan kehilangan sentuhan personal. | Tenang, merasa didengar, dan percaya bahwa kendali penuh tetap pada manusia. | AI003, AI005, AI007 | Pernyataan eksplisit Elsa ("bikin saya jauh lebih tenang", "solusi ini sangat menenangkan"). |
+| Knowledge | Memahami masalah operasionalnya tetapi belum mengerti teknis eskalasi ke staf manusia. | Memahami alur pengalihan pesan otomatis dan batas kemampuan sistem AI. | AI003, AI004, AI005 | Pemahaman operasional terkonfirmasi lewat persetujuan skema dan indikator. |
+| Skill | Terbiasa dengan rutinitas operasional manual; butuh pelatihan terstruktur. | Kesiapan mengarahkan staf senior mengikuti simulasi dan uji coba bertahap. | AI005, AI007 | Kesiapan simulasi tokoh; keterampilan teknis nyata staf di luar sesi menunggu pelaksanaan uji coba. |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| E1 (U001–AI001) | Elsa cemas layanan jadi kaku dan pekerjanya kesulitan (Attitude/Knowledge). | Membuka percakapan ramah dan menggali bagian pelayanan yang menyita waktu. | Mengungkapkan penumpukan pesan saat jam sibuk dan kekhawatiran layanan terasa dingin. | Attitude mulai terbuka; Knowledge terpetakan. | Mahasiswa memvalidasi kekhawatirannya dan mengusulkan transisi bertahap. |
+| E2 (U002–AI002) | Elsa ingin kepastian penanganan personal (Knowledge/Attitude). | Menjelaskan penggunaan AI untuk pertanyaan rutin dan opsi eskalasi langsung ke staf manusia. | Merasa jauh lebih tenang dan menanyakan detail teknis alur pengalihan. | Attitude membaik (merasa tenang); Knowledge meningkat. | Mahasiswa menjelaskan manfaat berimbang bagi staf dan pelanggan. |
+| E3 (U005–AI005) | Elsa butuh kepastian pelatihan dan durasi uji coba (Skill/Action). | Menyebutkan pendampingan 1 bulan, uji coba 1 tahun, serta 5 indikator kuantitatif. | Sangat terkesan, merasa ditentramkan, dan menyetujui uji coba tahap pertama. | Action tercapai; Attitude aman; Knowledge terkonfirmasi. | Mahasiswa melanjutkan ke tahap evaluasi sementara. |
+| E4 / Uji Ulang (U007–AI007) | Kendala baru: staf senior panik takut bingung baca *dashboard* (Skill/Attitude). | Menjanji simulasi/pelatihan awal dan jaminan penggunaan sistem lama saat jam sibuk. | Sangat tenang; makin yakin menjalankan uji coba bersama mahasiswa. | S/kesiapan terkonfirmasi; kecemasan staf senior termitigasi. | Adaptasi sangat efektif dengan memberikan jaminan rasa aman bagi staf. |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U002 | "Aku paham kekhawatiranmu, Elsa... perubahan sebaiknya dilakukan secara bertahap..." | "Makasih ya, lega rasanya kalau perubahannya dilakukan bertahap..." | Awal: Sedang → Akhir: Tinggi | Penegasan transisi bertahap memberikan rasa aman dan menurunkan defensivitas. |
+| U003 | "...teknologi ini bukan untuk menggantikan interaksi manusia, melainkan membantu timmu..." | "Penjelasan kamu tentang pengalihan ke staf manusia itu bikin saya jauh lebih tenang." | Kepercayaan: Tinggi, Keterbukaan: Tinggi | Menunjukkan kepedulian tulus terhadap hubungan pelanggan dan keberlanjutan tim Elsa. |
+| U007 | "...kita tetap mempertahankan sistem lama sebagai cadangan, terutama saat rush hour." | "Solusi ini sangat menenangkan, Max... Saya makin yakin untuk menjalankan uji coba ini..." | Kepercayaan: Sangat Tinggi | Menunjukkan fleksibilitas, empati terhadap kecemasan staf, dan kepedulian nyata. |
+
+## Uji ulang dan pembelajaran
+
+Pada tahap uji ulang, dihadirkan kendala baru yaitu staf senior yang cemas dan takut bingung membaca *dashboard* saat jam sibuk. Mahasiswa merespons dengan:
+1. Memvalidasi kekhawatiran staf senior secara empatik (*empathy first*).
+2. Memberikan skema pelatihan dan simulasi pengalihan pesan sebelum uji coba dimulai (*skill building*).
+3. Mempertahankan sistem lama sebagai cadangan utama yang bisa langsung digunakan jika tim mengalami kesulitan (*safety net*).
+
+Uji ulang menunjukkan adaptasi komunikasi yang sangat baik dengan mengutamakan jaminan rasa aman (*psychological safety*) dan fleksibilitas operasional bagi tim Elsa.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---:|---|---|
+| Tujuan dan konteks | 4 | U005, AI005 | Mahasiswa berhasil merumuskan tujuan yang jelas dan mencapai kesepakatan uji coba dengan 5 indikator terukur yang disetujui komunikan. |
+| Persepsi dan validasi profil/status | 4 | U002, U003, AI002 | Mahasiswa secara akurat mengidentifikasi hambatan Elsa (A: takut kaku, K: teknis eskalasi, S: butuh pelatihan) dan meresponsnya secara tepat. |
+| Pemilihan dan urutan repertoar | 4 | U001–U005 | Urutan komunikasi sangat sistematis: empati & validasi → penawaran solusi bertahap → penjelasan manfaat → skema pendampingan & indikator kuantitatif. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U002, U007 | Komunikasi disampaikan dengan santun, ramah, jujur tentang batas teknologi, serta sangat memprioritaskan rasa aman dan kenyamanan tim Elsa. |
+| Evaluasi dan adaptasi | 4 | U006, U007, AI007 | Mahasiswa mampu melakukan evaluasi sementara dengan tepat dan beradaptasi secara tanggap saat muncul kendala kecemasan staf senior pada uji ulang. |
+| Refleksi dan lesson learned | 4 | U008 | Refleksi akhir disusun komprehensif, mencakup analisis ASK/SWOT, evaluasi relasional, stimulus efektif, serta tindak lanjut yang realistis. |
+
+**Nilai Usulan AI = (24 / 24) × 100 = 100** *(Memerlukan moderasi dosen; hasil tujuan terpisah dari nilai proses)*.
+
+## Refleksi dan lesson learned mahasiswa
+
+- **Koreksi Dugaan & Persepsi:** Penawaran solusi TI/AI tidak boleh berfokus pada kecanggihan teknologi semata. Elsa lebih memprioritaskan kepastian bahwa pelanggan dapat dengan mudah terhubung ke staf manusia dan timnya tidak terbebankan.
+- **Efektivitas Stimulus:** Stimulus yang paling efektif adalah jaminan ketersediaan sistem lama sebagai cadangan dan keberadaan jalur eskalasi mulus ke staf manusia. Penjelasan fitur AI yang terlalu umum kurang berdampak dibandingkan solusi operasional yang konkret.
+- **Pelajaran untuk Praktik Komunikasi:** Komunikasi penawaran teknologi pada usaha kecil/menengah harus berpusat pada empati (*human-centered*), transparansi batas sistem, penyediaan jaminan rasa aman bagi pekerja, serta langkah transisi bertahap yang terukur.
+
+## Tindak lanjut dan batas bukti
+
+- **Rencana Tindak Lanjut:**
+  1. Memberikan pelatihan intensif dan pendampingan langsung selama 1 bulan pertama.
+  2. Melakukan simulasi pengalihan percakapan bersama staf senior sebelum sistem diaktifkan.
+  3. Mempertahankan sistem lama sebagai cadangan operasional selama masa uji coba 1 tahun.
+  4. Mengevaluasi indikator keberhasilan bulanan (kecepatan respons ≥80%, pengalihan ≥95%, kepuasan pelanggan ≥85%, kesiapan tim ≥90%, efisiensi kerja ≥20%).
+- **Batas Bukti:**
+  1. Interaksi dilakukan melalui simulasi berbasis teks, sehingga dinamika non-verbal (nada suara, ekspresi wajah) tidak terekam.
+  2. Respons Elsa merupakan hasil simulasi karakter; tingkat adopsi dan keberhasilan nyata bergantung pada pelaksanaan pelatihan dan performa teknis sistem saat diterapkan secara nyata.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 2a | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 2b | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 3a | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 3b | 18% | Jumlah enam skor / 24 × 100 |
+| **Total** | **100%** | |
+
+**Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**, dengan seluruh nilai komponen pada skala 0–100. Bobot ini berlaku di dalam nilai UTS.
+
+Nilai sesi hanya dihitung jika keenam skor sah tersedia. BT berarti belum dapat ditetapkan, bukan nol; komponen yang belum tersedia atau belum dapat dinilai tidak dianggap nol dan bobotnya tidak dinormalisasi ulang. Nilai akhir ditulis **Belum dihitung** sampai nilai makalah dan kelima sesi tersedia.
