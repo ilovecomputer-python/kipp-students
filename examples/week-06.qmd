@@ -1,8 +1,8 @@
 ---
 title: "Target–Attention Challenge"
 week: 6
-status: "Selesai"
-self_score: "18/20"
+status: "Belum dimulai"
+self_score: "—"
 assessor_score: "—"
 description: "Target map, attention pitch, response, dan state assessment."
 categories: [TAIDA, Attention]
@@ -23,59 +23,3 @@ Memilih target person yang tepat dan membuat issue diakui relevan melalui eviden
 :::
 
 {{< include ../includes/evidence-template.md >}}
-
-## Target map
-
-Konteks: kepanitiaan KSEP. Aku kadiv di tim dokumentasi dan membutuhkan rundown acara untuk plotting tim.
-
-| Person | Relevance | Authority | Current state |
-|---|---|---|---|
-| Anggota divisi dokumentasi | Terdampak langsung, butuh rundown untuk plotting | Dapat menguji solusi | Problem aware |
-| Kabid | Terdampak, sempat terjadi miskomunikasi | Dapat memengaruhi aturan di bidangnya | Problem aware |
-| Kadiv acara | Penyedia rundown | Dapat menentukan lokasi dan versi rundown | Unaware/Netral |
-| Ketua pelaksana | Bertanggung jawab atas koordinasi seluruh panitia | Dapat menetapkan aturan satu Drive untuk semua divisi | Unaware/Netral |
-
-Aku memilih **kadiv acara** sebagai target karena dia penyedia rundown, sehingga masalahnya bisa diperbaiki langsung di sumbernya. Dia juga rekan sejajar di kepanitiaan, jadi permintaan bisa disampaikan langsung tanpa perlu eskalasi. Aku tidak langsung membawa isu ini ke ketua pelaksana karena masalahnya adalah komunikasi antara dua divisi (dokumentasi dan acara), bukan masalah lintas banyak divisi. Ketua pelaksana baru relevan bila masalahnya meluas.
-
-## Attention pitch
-
-> "Aku dan timku kesulitan mencari rundown, padahal rundown itu krusial buat tim dokumentasi untuk plotting. Rundown ada di dua Drive berbeda. Bisa tolong dijadikan satu?"
-
-Evidence yang dipakai: rundown acara yang sama tersebar di dua Drive, sekitar tiga anggota divisiku terdampak, dan plotting dokumentasi molor dua hari dari rencana dalam bulan ini. Ini pengalaman langsung, belum data sistematis, jadi aku tidak mengklaim bahwa masalahnya terjadi di seluruh kepanitiaan.
-
-## Response dan state assessment
-
-Kadiv acara menjawab, "Oke aman aja, nanti aku rapikan. Maaf kemarin tim kami chaos juga." Dia langsung mengakui bahwa masalahnya ada dan relevan, bahkan menjelaskan sebabnya. Dia menerima permintaan tanpa menolak atau meragukan skalanya.
-
-State berpindah dari **Unaware/Netral** menjadi **Attention** dan langsung disertai tindakan. Tahap Interest dan Desire belum diuji, karena permintaan ini kecil dan tidak perlu meyakinkan dia lebih jauh.
-
-Adaptasi: tidak ada perubahan pendekatan, karena responsnya langsung positif. Gaya bahasaku santai dan itu cocok dengan hubungan sebaya di panitia. Objective percakapan tetap sama, yaitu rundown dirapikan menjadi satu.
-
-## Evidence dan refleksi
-
-- Target map beserta alasan memilih satu target, dan rekonstruksi percakapan di bawah sebagai pengganti rekaman.
-
-**Rekonstruksi percakapan** (ditulis ulang dari ingatan, bukan rekaman atau salinan chat asli)
-
-| Pembicara | Ucapan |
-|---|---|
-| Aku | "Aku dan timku kesulitan mencari rundown, padahal rundown itu krusial buat tim dokumentasi untuk plotting. Rundown ada di dua Drive berbeda. Bisa tolong dijadikan satu?" |
-| Kadiv acara | "Oke aman aja, nanti aku rapikan. Maaf kemarin tim kami chaos juga." |
-
-Tindak lanjut: rundown sudah dirapikan dan siap dipakai untuk plotting hari H.
-
-- Agreement: kadiv acara merapikan rundown, dan hasilnya sudah rapi dan siap dipakai untuk plotting hari H.
-- AI (Claude) digunakan untuk membantu menyusun struktur dokumen portofolio ini dari cerita dan data yang kuberikan. Kejadian, respons target, dan angka (dua Drive, tiga anggota, molor dua hari) berasal dari pengalamanku sendiri; AI tidak digunakan untuk membuat data atau angka.
-- Next practice: menyebut evidence (dua Drive, tiga anggota terdampak, plotting molor dua hari) secara eksplisit di pitch, dan tetap membingkainya sebagai masalah akses informasi, bukan menyalahkan.
-
-## Self-assessment
-
-| Dimensi | Skor | Evidence singkat |
-|---|---:|---|
-| Person & Character | 4 | Target dipilih karena relevan dan berwenang atas sumber masalah, dengan alasan tidak langsung ke ketua pelaksana |
-| Objective & State | 4 | Objective jelas (rundown jadi satu), state target dinilai sebelum dan sesudah percakapan |
-| Repertoire, Language & AI | 3 | Pitch singkat dan sesuai gaya hubungan sebaya; evidence belum disebut eksplisit |
-| Response & Adaptation | 3 | Respons target dibaca dan state diperbarui; belum ada tantangan yang menuntut adaptasi |
-| Agreement, Action & Relationship | 4 | Rundown sudah dirapikan dan siap dipakai, hubungan dengan kadiv acara tetap baik |
-
-**Total: 18/20.**
