@@ -10,7 +10,7 @@ categories: [TAIDA, Attention]
 
 ## Kompetensi target
 
-Memilih target person yang tepat dan membuat issue diakui relevan melalui evidence.
+Memilih target person yang tepat dan membuat issue diakui relevan melalui evidence yang tepat
 
 ## Evidence wajib
 
