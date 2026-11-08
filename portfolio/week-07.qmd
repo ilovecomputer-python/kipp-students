@@ -1,8 +1,8 @@
 ---
 title: "Problem–Solution Interest Pitch"
 week: 7
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "14/20"
 assessor_score: "—"
 description: "Problem–solution fit dan signal Interest."
 categories: [TAIDA, Interest]
@@ -23,3 +23,55 @@ Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan
 :::
 
 {{< include ../includes/evidence-template.md >}}
+
+## Attention evidence dan solution hypothesis
+
+Evidence Attention dari Minggu 6: rundown acara yang sama tersebar di dua Drive, sekitar tiga anggota divisi dokumentasi terdampak, dan plotting molor dua hari. Kadiv acara sudah mengakui masalahnya dan merapikan rundown.
+
+**Solution hypothesis:** satu dokumen rundown terpusat dan satu jalur komunikasi untuk perubahannya dapat mencegah miskomunikasi antara divisi acara dan divisi dokumentasi.
+
+| Problem | Mechanism | Expected benefit | Value bagi target |
+|---|---|---|---|
+| Rundown tersebar di dua tempat | Satu dokumen terpusat | Semua pihak merujuk ke versi yang sama | Miskom berkurang (disebut sendiri oleh kadiv acara) |
+| Informasi mengalir lewat banyak jalur | Satu jalur komunikasi | Perubahan rundown sampai lewat jalur yang sama | Alur mengurus dokumen di timnya lebih tertata |
+
+## Pitch dan demonstration
+
+**Rekonstruksi percakapan** (ditulis ulang dari ingatan, bukan rekaman atau salinan chat asli)
+
+| Pembicara | Ucapan |
+|---|---|
+| Aku | "Bro, aku minta tolong dong. Timku bingung nyesuaiin plotingannya soalnya nggak nemu rundown, susah banget." |
+| Kadiv acara | "Oh ya, sebenernya rundown di dua tempat itu emang nyusahin. Harusnya aku jadiin satu aja supaya nggak ada miskom." |
+
+Tidak ada demonstrasi visual. Rundown bersifat confidential, sehingga isinya tidak ditampilkan di portofolio, dan mekanismenya disampaikan lisan. Pitch ini belum memakai angka evidence (dua Drive, tiga orang, molor dua hari) secara eksplisit.
+
+## Response, hidden concern, dan adaptation
+
+Kadiv acara tidak hanya menerima permintaan. Ia menghubungkan masalah dengan penyebabnya (rundown di dua tempat) dan menyebut solusinya sendiri: menjadikannya satu supaya tidak ada miskomunikasi. Tidak ada concern atau keberatan yang muncul, sehingga tidak ada hidden concern yang ditemukan.
+
+State berpindah dari **Attention** (Minggu 6) menjadi **Interest**: ia menunjukkan ketertarikan pada solusi dan menyebut manfaatnya sendiri. Hasil akhirnya, ia akan mengubah cara kerja timnya, khususnya dalam mengurus dokumen. Ini komitmen lisan; belum ada bukti bahwa perubahan itu sudah berjalan.
+
+Adaptasi: aku mengarahkan percakapan dari sekadar mencari rundown ke perubahan alur, yaitu satu jalur komunikasi dan satu dokumen terpusat.
+
+## Evidence, AI, dan feedback
+
+- Rekonstruksi percakapan di atas sebagai pengganti rekaman.
+- Agreement: kadiv acara akan mengubah cara kerja timnya dalam mengurus dokumen.
+- AI (Claude) digunakan untuk membantu menyusun struktur dokumen ini dari cerita yang kuberikan. Percakapan, respons target, dan angka berasal dari pengalamanku sendiri; AI tidak digunakan untuk membuat data.
+- Privacy: transkrip hanya menyebut peran (kadiv acara), tanpa nama dan data pribadi. Isi rundown tidak ditampilkan karena confidential.
+- Authority: percakapan terjadi dalam peran masing-masing di kepanitiaan KSEP, dan permintaanku sebatas alur dokumen yang menjadi tanggung jawab divisi acara.
+- Kontribusi individual: pitch, percakapan, dan analisis ini adalah pekerjaanku sendiri sebagai kadiv dokumentasi.
+- Next practice: menyebut evidence secara eksplisit di pitch, dan menanyakan concern lebih dulu sebelum menjelaskan solusi.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Value target dikenali: ia peduli pada miskom antar divisi |
+| Objective & State | 3 | Attention dibedakan dari Interest, state target dinilai sebelum dan sesudah |
+| Repertoire, Language & AI | 2 | Gaya santai sesuai hubungan sebaya; belum ada demonstrasi atau evidence eksplisit di pitch |
+| Response & Adaptation | 3 | Respons target dibaca dan percakapan diarahkan ke perubahan alur; tidak ada concern yang perlu diatasi |
+| Agreement, Action & Relationship | 3 | Target berkomitmen mengubah cara kerja timnya; belum ada bukti pelaksanaan |
+
+**Total: 14/20.**
