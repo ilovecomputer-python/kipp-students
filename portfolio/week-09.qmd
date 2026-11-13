@@ -1,8 +1,8 @@
 ---
 title: "Desire-State Communication"
 week: 9
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "18/20"
 assessor_score: "—"
 description: "Current state, desired state, value, evidence, dan risk."
 categories: [TAIDA, Desire]
@@ -18,8 +18,68 @@ Membangun desired state bersama target dan menghubungkannya dengan solution seca
 - Feature–benefit–value–outcome chain.
 - Risk, evidence threshold, response, dan adaptation.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 9](../examples/week-09.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+## Current dan desired state
+
+Dalam kegiatan Finguard (*Financial with Vanguard*), saya berkomunikasi secara langsung dengan guru dan kepala sekolah SMA untuk memperoleh izin melaksanakan edukasi literasi keuangan bagi siswa. Komunikasi ini menjadi bagian penting karena keberhasilan kegiatan tidak hanya bergantung pada kesiapan panitia, tetapi juga pada persetujuan dan kesesuaian kegiatan dengan kebutuhan sekolah.
+
+| Elemen | Rumusan |
+|---|---|
+| Current state | Pelaksanaan edukasi literasi keuangan di lingkungan sekolah membutuhkan koordinasi dan persetujuan pihak sekolah terlebih dahulu. |
+| Desired state | Pihak sekolah memahami tujuan dan manfaat Finguard serta memberikan izin agar edukasi literasi keuangan dapat dilaksanakan kepada siswa. |
+| Value | Siswa mendapatkan kesempatan untuk memahami pengelolaan keuangan sejak dini, sedangkan sekolah memperoleh kegiatan edukatif tambahan yang mendukung pengetahuan siswa. |
+| Acceptable risk | Kegiatan tidak dilaksanakan tanpa persetujuan sekolah atau apabila waktu pelaksanaannya mengganggu kegiatan belajar mengajar. |
+| Evidence threshold | Adanya persetujuan pihak sekolah dan kejelasan mengenai waktu serta teknis pelaksanaan kegiatan. |
+
+## Feature–benefit–value–outcome chain
+
+`Edukasi literasi keuangan melalui Finguard` → siswa memperoleh materi dan pengalaman belajar mengenai keuangan → siswa memahami dasar pengelolaan keuangan → siswa lebih bijak dalam mengambil keputusan finansial → meningkatnya kesadaran literasi keuangan di kalangan siswa SMA.
+
+Rangkaian tersebut merupakan hipotesis mengenai manfaat kegiatan. Keberhasilan penyampaian materi belum tentu secara langsung menunjukkan perubahan perilaku peserta. Oleh karena itu, dampak kegiatan tetap perlu dilihat melalui pelaksanaan dan evaluasi setelah edukasi berlangsung.
+
+## Evidence: Percakapan dan response
+
+Dalam proses perizinan Finguard, saya melakukan komunikasi langsung dengan guru dan kepala sekolah. Saya perlu menjelaskan tujuan kegiatan, manfaat yang ingin diberikan kepada siswa, serta rencana pelaksanaannya agar pihak sekolah dapat memahami program yang kami tawarkan.
+
+Hal yang menjadi perhatian saya adalah bahwa pihak sekolah memiliki pertimbangan tersendiri sebelum menerima kegiatan dari pihak luar. Karena itu, saya tidak bisa hanya berfokus pada kebutuhan panitia untuk menyelenggarakan program, tetapi juga perlu mempertimbangkan manfaat dan kesesuaian kegiatan bagi sekolah.
+
+**Fokus komunikasi:**
+
+- Menjelaskan identitas dan tujuan program Finguard.
+- Menyampaikan bahwa kegiatan berfokus pada edukasi literasi keuangan bagi siswa SMA.
+- Menjelaskan manfaat yang diharapkan dari kegiatan.
+- Berkoordinasi dengan guru dan kepala sekolah mengenai perizinan serta pelaksanaan kegiatan.
+
+**Response dan adaptation:**
+
+Dari pengalaman tersebut, saya memahami bahwa menyampaikan tujuan program saja belum cukup. Pihak sekolah juga perlu mengetahui alasan kegiatan tersebut relevan bagi siswa dan bagaimana pelaksanaannya dapat disesuaikan dengan kondisi sekolah.
+
+Saya kemudian memandang perizinan bukan sekadar proses administratif, melainkan kesempatan untuk membangun kesepahaman antara tujuan panitia dan kebutuhan pihak sekolah. Pendekatan komunikasi perlu berfokus pada manfaat yang dapat diterima siswa dan sekolah, bukan hanya pada keberhasilan program dari sisi penyelenggara.
+
+## Risk dan evidence
+
+Risiko utama dalam pelaksanaan Finguard adalah tidak diperolehnya izin dari pihak sekolah atau adanya ketidaksesuaian jadwal kegiatan dengan aktivitas akademik.
+
+Untuk mengantisipasi hal tersebut, beberapa hal yang perlu diperhatikan adalah:
+
+1. Menjelaskan tujuan dan manfaat kegiatan secara jelas kepada pihak sekolah.
+2. Memastikan materi edukasi sesuai dengan sasaran peserta, yaitu siswa SMA.
+3. Melakukan koordinasi dengan guru dan kepala sekolah mengenai waktu serta teknis pelaksanaan.
+4. Mengikuti ketentuan dan keputusan pihak sekolah terkait perizinan kegiatan.
+
+Evidence keberhasilan pada tahap komunikasi adalah adanya persetujuan pihak sekolah dan kejelasan mengenai pelaksanaan kegiatan. Namun, persetujuan tersebut belum membuktikan bahwa literasi keuangan siswa telah meningkat. Dampak tersebut tetap perlu dievaluasi setelah kegiatan dilaksanakan.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 4 | Mempertimbangkan kepentingan sekolah dan siswa, bukan hanya kepentingan panitia untuk menyelenggarakan kegiatan. |
+| Objective & State | 4 | Memiliki tujuan komunikasi yang jelas, yaitu memperoleh izin dan membangun kesepahaman mengenai manfaat kegiatan. |
+| Repertoire, Language & AI | 3 | Menjelaskan program dan manfaat edukasi literasi keuangan dengan mempertimbangkan sudut pandang pihak sekolah. |
+| Response & Adaptation | 4 | Memahami bahwa pendekatan komunikasi perlu mempertimbangkan kebutuhan dan kondisi sekolah, bukan hanya rencana panitia. |
+| Agreement, Action & Relationship | 3 | Melakukan komunikasi dan koordinasi langsung dengan guru serta kepala sekolah untuk membangun persetujuan pelaksanaan kegiatan. |
+
+**Total: 18/20 **
+
+Pengalaman Finguard mengajarkan saya bahwa membangun desired state membutuhkan kemampuan memahami sudut pandang pihak lain. Sebuah program tidak cukup hanya memiliki tujuan yang baik, tetapi juga harus mampu menunjukkan manfaat yang relevan bagi pihak yang terlibat. Melalui komunikasi dengan guru dan kepala sekolah, saya belajar bahwa keberhasilan sebuah kegiatan dimulai dari kesepahaman antara tujuan penyelenggara dan kebutuhan pihak yang menerima kegiatan.
 
 {{< include ../includes/evidence-template.md >}}
